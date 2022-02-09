@@ -1,7 +1,7 @@
 /* Color customization */
 :root {
   --primary: #1900fd;
-  --primary-dark: #1900fd;
+  --primary-dark: #160f79;
 }
 
 .test-dead-code-elimination-sentinel {
@@ -905,7 +905,7 @@ header nav a {
   font-weight: 700;
   text-decoration: none;
   font-family: var(--font-family);
-  color: #181818;
+  color: var(--primary-dark);
   margin-left: 1.5em;
 }
 header nav a:first-of-type {

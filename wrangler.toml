@@ -1,0 +1,16 @@
+name = "literasity"
+type = "webpack"
+account_id = "88018ab33f1bd7fcbd871efd4776caa5" # inflight-menu.workers.dev
+workers_dev = true
+kv-namespaces = [{ binding = "REDIRECTS", id = "c2cbbaa6a7fb41f98ed48c3cdfb8a23e", preview_id = "1f759966503240aeb7acab72ae4e70c0" }] # `inflight-menu-REDIRECTS` in dash
+
+[env.production]
+workers_dev = false
+account_id = "88018ab33f1bd7fcbd871efd4776caa5" # inflight-menu.workers.dev
+zone_id = "b915b5c46a8b54c40fc30581f7314215"
+route = "literasi.blog/*"
+kv-namespaces = [{ binding = "REDIRECTS", id = "c2cbbaa6a7fb41f98ed48c3cdfb8a23e", preview_id = "1f759966503240aeb7acab72ae4e70c0" }] # `inflight-menu-REDIRECTS` in dash
+
+[site]
+bucket = "_site"
+entry-point = "workers-site"
