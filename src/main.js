@@ -206,8 +206,8 @@ if (window.ResizeObserver && document.querySelector("header nav #nav")) {
   var requestedAniFrame = false;
   function scroll() {
     if (!requestedAniFrame) {
-      requestAnimationFrame(updateProgress);
-      requestedAniFrame = true;
+      // requestAnimationFrame(updateProgress);
+      // requestedAniFrame = true;
     }
     timeOfLastScroll = Date.now();
   }

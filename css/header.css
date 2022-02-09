@@ -1,0 +1,32 @@
+
+.site-header {
+    height: 60px;
+}
+
+.site-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+}
+
+.header-container {
+    padding-left: 27px;
+    padding-right: 27px;
+}
+
+.header-nav {
+    display: flex;
+}
+
+.header-nav.header-nav--left {
+    padding-left: 0;
+}
+
+.logo {
+    height: 38px;
+    display: inline-block;
+    transform: translate(0, 0);
+    position: static;
+}

@@ -1,7 +1,7 @@
 /* Color customization */
 :root {
-  --primary: #f9c412;
-  --primary-dark: #e7bf60;
+  --primary: #1900fd;
+  --primary-dark: #1900fd;
 }
 
 .test-dead-code-elimination-sentinel {
@@ -47,6 +47,7 @@ share-widget {
   right: 20px;
   bottom: 20px;
   opacity: 0.9;
+  background-color: #fff;
 }
 
 share-widget div {
@@ -55,6 +56,7 @@ share-widget div {
   background-image: url("/img/share.svg");
   background-repeat: no-repeat;
   background-position: center;
+  color: #fff;
 }
 
 .apple share-widget div {
@@ -483,7 +485,7 @@ ol,
 p,
 pre,
 ul {
-  font-size: 1rem;
+  font-size: 1.1rem;
   line-height: 1.6;
 }
 ol,
@@ -551,7 +553,7 @@ ul {
     margin-bottom: 1.632rem;
   }
   h2 {
-    font-size: 4.05rem;
+    font-size: 1.95rem;
     line-height: 4.8rem;
   }
   h3 {
@@ -580,7 +582,7 @@ ul {
   p,
   pre,
   ul {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     line-height: 1.6;
   }
   ol,
@@ -834,8 +836,11 @@ video {
 }
 body {
   font-family: var(--font-family);
-  background: #181818;
-  color: #eee;
+  /* background: #181818; */
+  /* color: #eee;
+   */
+   background: #eee;
+   color: #181818;
 }
 section {
   margin-left: auto;
@@ -867,7 +872,7 @@ header label {
   display: none;
 }
 header {
-  padding: 4.5em 1.5em 3em;
+  padding: 4.5em 1.5em 1em;
   width: 37.5em;
   margin: 0 auto;
   text-align: center;
@@ -920,9 +925,10 @@ main {
   max-width: 70rem;
   margin: 0 auto;
   border-top: 0.5px solid #ccc;
+  background-color: #fff;
 }
 footer {
-  background: rgba(0, 0, 0, 0.8);
+  background: #eee;
   color: #fff;
   padding: 3em;
   text-align: center;
@@ -940,7 +946,7 @@ footer p {
 article {
   max-width: 100%;
   padding: 1.5em;
-  width: 37.5em;
+  width: 45.5em;
   margin: 0 auto;
 }
 ol,
@@ -1119,4 +1125,9 @@ a {
 
 ::-webkit-scrollbar-thumb:hover {
   background: var(--primary);
+}
+
+.bad-logo {
+  width: 200px;
+  display: block;
 }
