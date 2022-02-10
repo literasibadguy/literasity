@@ -15,4 +15,4 @@ You can visit and <a href="https://instagram.com/literasibadguy">follow my Insta
 
 @literasibadguy
 
-This website template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+<!-- This website template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog). -->

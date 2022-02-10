@@ -86,7 +86,7 @@
 
         {% if page.url and page.url.indexOf("/posts/") > -1 %}
           <p>Published <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></p>
-          <a href="{{ '/' | url }}"><img class="bad-logo" src="/img/bad-guy-express.png" /></a>
+          <a href="{{ '/' | url }}"><img alt="Bad Guy Express" class="bad-logo" src="/img/bad-guy-express.png" /></a>
         {% endif %}
       </article>
     </main>
