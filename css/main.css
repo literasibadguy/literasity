@@ -1131,3 +1131,19 @@ a {
   width: 200px;
   display: block;
 }
+
+#content-container {
+  width: 100%;
+  margin: 0 auto;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+}
+
+#content-container img {
+  position: static !important;
+  width: 30%;
+  height: auto !important;
+  display: inline;
+  padding: 10px;
+}

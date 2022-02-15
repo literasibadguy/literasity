@@ -8,7 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-# Bear On Space
 
 At least we have a target with the money on head there, the bear chilling on space huh?
 
