@@ -45,7 +45,7 @@ const purifyCss = async (rawContent, outputPath) => {
     !isAmp(content) &&
     !/data-style-override/.test(content)
   ) {
-    let before = require("fs").readFileSync("css/main.css", {
+    let before = require("fs").readFileSync("css/main2.css", {
       encoding: "utf-8",
     });
 
@@ -77,7 +77,7 @@ const purifyCss = async (rawContent, outputPath) => {
     });
 
     const after = csso.minify(purged[0].css).css;
-    content = content.replace("</head>", `<link rel="stylesheet" href="/css/output.css"><style>${after}</style></head>`);
+    content = content.replace("</head>", `<style>${after}</style></head>`);
   }
   return content;
 };

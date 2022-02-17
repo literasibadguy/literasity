@@ -54,7 +54,7 @@ const Image = require("@11ty/eleventy-img");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
-const pluginTailwindCSS = require("eleventy-plugin-tailwindcss");
+// const pluginTailwindCSS = require("eleventy-plugin-tailwindcss");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const localImages = require("./third_party/eleventy-plugin-local-images/.eleventy.js");
@@ -66,13 +66,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
-  eleventyConfig.addPlugin(pluginTailwindCSS, {
-    src: "css/main.css",
-    dest: "_site/css",
-    keepFolderStructure: false,
-    minify: false
-    // See below for other available options
-});
 
   eleventyConfig.addPlugin(localImages, {
     distPath: "_site",
@@ -90,10 +83,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   eleventyConfig.addNunjucksAsyncShortcode("image", async function (src, alt, sizes) {
     let metadata = await Image(src, {
+      formats: ["jpeg"],
       heights: [2048],
     });
   
     let imageAttributes = {
+      class: "h-4/6 object-cover",
       alt,
       sizes,
       loading: "lazy",

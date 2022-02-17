@@ -6,11 +6,12 @@
   "scripts": {
     "build-ci": "npm run js-build && eleventy && npm run test",
     "build": "npm run clean && npm run build-ci",
-    "watch": "concurrently \"npm run serve\" \"npm run js-build-watch\" \"npm run test-watch\"",
+    "watch": "concurrently \"npm run serve\" \"npm run js-build-watch\" \"npm run test-watch\" \"npm run tail\"",
     "serve": "npm run clean && eleventy --serve",
     "js-build": "rollup -c rollup.config.js",
     "js-build-watch": "rollup -c rollup.config.js -w",
     "debug": "DEBUG=* eleventy && npm run test",
+    "tail": "npx tailwindcss -i ./css/main.css -o ./css/main2.css --watch",
     "test": "mocha test/test*.js",
     "test-watch": "mocha test/test*.js --watch --watch-files=test/*",
     "clean": "rm -Rf ./_site/posts/*"
@@ -44,7 +45,8 @@
     "pre-commit": "^1.2.2",
     "pre-push": "^0.1.1",
     "rollup-plugin-terser": "^6.1.0",
-    "shorthash": "0.0.2"
+    "shorthash": "0.0.2",
+    "tailwindcss": "^3.0.22"
   },
   "dependencies": {
     "@ampproject/toolbox-optimizer": "^2.8.3",
@@ -54,7 +56,6 @@
     "csp-hash-generator": "0.0.3",
     "csso": "^4.0.3",
     "datauri": "^3.0.0",
-    "eleventy-plugin-tailwindcss": "^0.3.0",
     "expect.js": "^0.3.1",
     "ffmpeg-static": "^4.4.0",
     "hasha": "^5.2.0",
