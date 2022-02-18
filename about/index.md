@@ -11,7 +11,9 @@ I am a person that writes in this noisy world and pessimists with emerging digit
 
 You can transfer me some coins, so I can buy new books for inspirations, buy coffee or lemon soda for pleasure getting me writing well and new bed from IKEA.
 
-You can visit and <a href="https://instagram.com/literasibadguy">follow my Instagram</a>
+I'm Indonesian, sometimes I write in English or Indonesian, for curated links I write in Indonesian, for a story I prefer english, if an essay with tension I write in Indonesian.
+
+You can visit and <a href="https://instagram.com/literasibadguy">follow my Instagram</a> or <a href="mailto:firasrafislam@live.com">firasrafislam@live.com</a>
 
 @literasibadguy
 
