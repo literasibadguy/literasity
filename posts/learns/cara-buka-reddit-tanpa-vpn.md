@@ -8,9 +8,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-
-# Cara Buka Reddit Tanpa VPN dengan Chrome
-
 <img alt="Ganti DNS di Chrome" src="https://literasi533513683.files.wordpress.com/2022/01/gantikan-dns-aman-chrome.png" />
 
 Pastikan sudah memiliki versi terbaru browser Chrome

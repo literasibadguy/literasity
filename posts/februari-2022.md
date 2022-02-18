@@ -18,6 +18,12 @@ Tapi dua tiga hari sekali, aku kadang mengalami pilek juga. Jadi aku banyak jaga
 
 Semoga hari mu menyenangkan, Terima kasih.
 
+**Scientist Busts Myths about How Humans burn Calories and Why**: Olahraga tidak bantu kamu bakar energi rata - rata; pemburu di afrika tidak mengeluarkan banyak energi sehari harinya dibanding pekerja kantoran; Wanita hamil tidak membakar kalori lebih setiap hari dari orang dewasa. Ini artikel menjawab mitos mitos selama ini tentang membakar kalori. Itulah kenapa orang kalo lagi stress, cenderung cari snack atau gula, mereka sedang membakar kalori. [Science](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
+
+**The Resilience of Costco**: Ini kasus bisnis paling menarik yang pernah ku temui, memprofit bisnis retail. Costco adalah perusahaan retail grosir nomor dua terbesar di US setelah Walmart, persaingannya banyak hingga adaptasi digital, namun bisnisnya jangka panjang, sederhana konsepnya, harga lebih murah, pilihan produk dengan kualitas bagus, syaratnya jadi anggota dulu bayar 60 US dollar per tahun. [Mine Safety Disclosures](https://minesafetydisclosures.com/blog/2018/6/18/costco)
+
+**Google Search is Dying**: Reddit sekarang search engine paling populer saat ini dan Google semakin tahun ga bisa kasih hasil terbaik, yang bagus bagi Google belum tentu bagus untuk kita. Pantesan ya, aku lebih seneng cari konten konten tersembunyi yang legit, efektif dan sangat berguna, tricknya tambahin aja kata "site:reddit.com" di Google. [DKB](https://dkb.io/post/google-search-is-dying)
+
 **The secret life of a super-recogniser**: Yenny Seo, kemampuan spesial mengingat wajah orang orang asing di publik, yang dia lewatin, menjadi katalog muka muka yang dia tulis-nya dalam kepala-nya  dan melacak-nya "ni orang pernah ketemu di tempat sekian". Polisi merekrut orang orang seperti Seo. [The Guardian](https://www.theguardian.com/society/2022/jan/16/id-keep-it-on-the-down-low-the-secret-life-of-a-super-recogniser)
 
 **Optimizing Machines Is Perilous. Consider 'Creatively Adequate' AI.**: Selama ini AI tahu-nya mengumpulkan data sebanyak - banyaknya dan merasa lebih pintar bikin keputusan, benar atau salah konsekuensinya, AI selalu tergantung rumus-nya. Artikel ini menantang bagaimana jika AI berpikir kreatif, toleransi membuat kesalahan dan menghadapi kekacauan tanpa fondasi data, bagaimana jika AI punya pilihan dinamis daripada memenangkan diri jadi akurat? [WIRED](https://www.wired.com/story/artificial-intelligence-data-future-optimization-antifragility/)
