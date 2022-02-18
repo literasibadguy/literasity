@@ -22,7 +22,7 @@ Pilih <b>Cloudflare (1.1.1.1)</b>
 
 Tutup halaman Setelan
 
-Coba langsung buka reddit.com
+Coba langsung buka reddit.com, jika belum bisa silakan restart Chrome-nya.
 
 Ku jamin, juga bisa buka website terblokir lainnya
 
@@ -38,10 +38,10 @@ Cari paling ke bawah <b>Setelan Jaringan</b>
 
 Klik <b>Setelan...</b>
 
-Telusuri ke bawah aktifkan centang <b>Aktifkan DNS lewat HTTPS</b>, Gunakan Penyedia <b>Cloudflare (Baku) dan klik <b>Oke</b>
+Telusuri ke bawah aktifkan centang <b>Aktifkan DNS lewat HTTPS</b>, Gunakan Penyedia <b>Cloudflare (Baku)</b> dan klik <b>Oke</b>
 
 Tutup halaman Setelan
 
-Coba langsung buka reddit.com
+Coba langsung buka reddit.com, jika belum bisa silakan tutup dan buka kembali Firefoxnya
 
 Semoga bermanfaat
