@@ -27,3 +27,21 @@ Coba langsung buka reddit.com
 Ku jamin, juga bisa buka website terblokir lainnya
 
 Fitur sederhana dari Chrome, untuk mengganti identitas alamat Internet kita dengan proteksi Cloudflare, tanpa bayar bulanan dan ga perlu pusing pusing lagi dengan VPN.
+
+## UPDATE: Untuk Pengguna Mozilla Firefox
+
+Buka halaman <b>Pengaturan</b>
+
+ke bagian <b>Umum</b>
+
+Cari paling ke bawah <b>Setelan Jaringan</b>
+
+Klik <b>Setelan...</b>
+
+Telusuri ke bawah aktifkan centang <b>Aktifkan DNS lewat HTTPS</b>, Gunakan Penyedia <b>Cloudflare (Baku) dan klik <b>Oke</b>
+
+Tutup halaman Setelan
+
+Coba langsung buka reddit.com
+
+Semoga bermanfaat
