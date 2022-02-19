@@ -18,7 +18,7 @@ Tapi dua tiga hari sekali, aku kadang mengalami pilek juga. Jadi aku banyak jaga
 
 Semoga hari mu menyenangkan, Terima kasih.
 
-**All you need is links**: Kamu ga butuh tags, kamu hanya perlu links. Kamu ga butuh folder, kamu hanya perlu links. Links, sebuah media penghubung, protokol untuk berkomunikasi satu sama lain, pembuka pintu menuju pintu lain dan yang kita tahu teks yang bisa kita klik. Links defined more [Subconcious][https://subconscious.substack.com/p/all-you-need-is-links?utm_source=url]
+**All you need is links**: Kamu ga butuh tags, kamu hanya perlu links. Kamu ga butuh folder, kamu hanya perlu links. Links, sebuah media penghubung, protokol untuk berkomunikasi satu sama lain, pembuka pintu menuju pintu lain dan yang kita tahu teks yang bisa kita klik. Links defined more [Subconcious](https://subconscious.substack.com/p/all-you-need-is-links?utm_source=url)
 
 **Scientist Busts Myths about How Humans burn Calories and Why**: Olahraga tidak bantu kamu bakar energi rata - rata; pemburu di afrika tidak mengeluarkan banyak energi sehari harinya dibanding pekerja kantoran; Wanita hamil tidak membakar kalori lebih setiap hari dari orang dewasa. Ini artikel menjawab mitos mitos selama ini tentang membakar kalori. Itulah kenapa orang kalo lagi stress, cenderung cari snack atau gula, mereka sedang membakar kalori. [Science](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
 
