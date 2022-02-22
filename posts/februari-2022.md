@@ -18,6 +18,10 @@ Tapi dua tiga hari sekali, aku kadang mengalami pilek juga. Jadi aku banyak jaga
 
 Semoga hari mu menyenangkan, Terima kasih.
 
+**metaverse hype cycle**: Kita sedang berada di puncak hype, di mana kita melihat antusias dan ekspetasi tinggi melihat teknologi, contohnya Metaverse dan NFT. Dan kemudian dari waktu ke waktu orang akan sadar ilusi apa yang sedang terjadi. Aku ga tertarik soal hype metaverse dan NFT, kartun di sini lebih menarik. [Marketoonist](https://marketoonist.com/2022/02/metaverse-hype-cycle.html)
+
+**Crypto Ruined My Life The Mental Health Crisis Hitting Bitcoin Investor**: Tidur ga teratur, mengalami stress terus, frustasi. Pengaruh mental terhadap investor Crypto sudah mulai terjadi. Karena Crypto ga pernah istirahat. Orang di luar sana, apalagi yang muda muda, ekstreme banget dengan Crypto. Seperti adiksi lainnya, Crypto bisa menawarkan orang untuk lari dari realitas, dopamine dan seperti ga peduli dengan kehidupan sosial lainnya. [Vice](https://www.vice.com/en/article/akvn8z/crypto-bad-for-mental-health)
+
 **All you need is links**: Kamu ga butuh tags, kamu hanya perlu links. Kamu ga butuh folder, kamu hanya perlu links. Links, sebuah media penghubung, protokol untuk berkomunikasi satu sama lain, pembuka pintu menuju pintu lain dan yang kita tahu teks yang bisa kita klik. Links defined more [Subconcious](https://subconscious.substack.com/p/all-you-need-is-links?utm_source=url)
 
 **Scientist Busts Myths about How Humans burn Calories and Why**: Olahraga tidak bantu kamu bakar energi rata - rata; pemburu di afrika tidak mengeluarkan banyak energi sehari harinya dibanding pekerja kantoran; Wanita hamil tidak membakar kalori lebih setiap hari dari orang dewasa. Ini artikel menjawab mitos mitos selama ini tentang membakar kalori. Itulah kenapa orang kalo lagi stress, cenderung cari snack atau gula, mereka sedang membakar kalori. [Science](https://www.science.org/content/article/scientist-busts-myths-about-how-humans-burn-calories-and-why)
