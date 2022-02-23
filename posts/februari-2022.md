@@ -18,6 +18,8 @@ Tapi dua tiga hari sekali, aku kadang mengalami pilek juga. Jadi aku banyak jaga
 
 Semoga hari mu menyenangkan, Terima kasih.
 
+**Real Me and Fake Me**: Ini cerita seorang penulis puisi menjadi korban identitas di Internet. Netizen lebih percaya ke akun palsu di sosmed yang mengaku diri-nya sebagai penulis puisi, daripada orang asli yang berusaha mengambil nama-nya kembali di Internet, bahkan pihak sosmed tidak berpihak ke dirinya. Hati hati kita berada di golden age of Scams [London Review of Books](https://www.lrb.co.uk/the-paper/v44/n03/joe-dunthorne/diary)
+
 **Apple broke Facebooks ad machine. Whos going to fix it?**: Bukan regulator yang mengancam bisnis iklan Facebook, secara tidak langsung Apple menghancurkan mesin iklan Facebook, sejak pengguna iPhone punya opsi tidak membagikan data privasi-nya ke pihak aplikasi. Aku ga percaya bahwa iklan lebih efektif, hanya karena mereka mengambil data akurat pengguna. Setahuku Facebook Marketplace yang efektif [Recode](https://www.vox.com/recode/22929715/facebook-apple-ads-meta-privacy)
 
 **Crypto Scammers New Target: Dating Apps**: Orang orang skesepian, pada buka akun di app dating, tak lama simpanan tabungan nya langsung ludes, kena pada tipu oleh Crypto yang lagi panas panas-nya. [NYTimes](https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html)
