@@ -18,6 +18,10 @@ Tapi dua tiga hari sekali, aku kadang mengalami pilek juga. Jadi aku banyak jaga
 
 Semoga hari mu menyenangkan, Terima kasih.
 
+**Apple broke Facebooks ad machine. Whos going to fix it?**: Bukan regulator yang mengancam bisnis iklan Facebook, secara tidak langsung Apple menghancurkan mesin iklan Facebook, sejak pengguna iPhone punya opsi tidak membagikan data privasi-nya ke pihak aplikasi. Aku ga percaya bahwa iklan lebih efektif, hanya karena mereka mengambil data akurat pengguna. Setahuku Facebook Marketplace yang efektif [Recode](https://www.vox.com/recode/22929715/facebook-apple-ads-meta-privacy)
+
+**Crypto Scammers New Target: Dating Apps**: Orang orang skesepian, pada buka akun di app dating, tak lama simpanan tabungan nya langsung ludes, kena pada tipu oleh Crypto yang lagi panas panas-nya. [NYTimes](https://www.nytimes.com/2022/02/21/technology/crypto-scammers-new-target-dating-apps.html)
+
 **metaverse hype cycle**: Kita sedang berada di puncak hype, di mana kita melihat antusias dan ekspetasi tinggi melihat teknologi, contohnya Metaverse dan NFT. Dan kemudian dari waktu ke waktu orang akan sadar ilusi apa yang sedang terjadi. Aku ga tertarik soal hype metaverse dan NFT, kartun di sini lebih menarik. [Marketoonist](https://marketoonist.com/2022/02/metaverse-hype-cycle.html)
 
 **Crypto Ruined My Life The Mental Health Crisis Hitting Bitcoin Investor**: Tidur ga teratur, mengalami stress terus, frustasi. Pengaruh mental terhadap investor Crypto sudah mulai terjadi. Karena Crypto ga pernah istirahat. Orang di luar sana, apalagi yang muda muda, ekstreme banget dengan Crypto. Seperti adiksi lainnya, Crypto bisa menawarkan orang untuk lari dari realitas, dopamine dan seperti ga peduli dengan kehidupan sosial lainnya. [Vice](https://www.vice.com/en/article/akvn8z/crypto-bad-for-mental-health)
