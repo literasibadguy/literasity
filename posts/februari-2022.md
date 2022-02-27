@@ -18,6 +18,8 @@ Tapi dua tiga hari sekali, aku kadang mengalami pilek juga. Jadi aku banyak jaga
 
 Semoga hari mu menyenangkan, Terima kasih.
 
+**Caffeine: Emerging contaminant of global rivers and coastal waters**: Ini kasus yang langka. Menurut riset dari artikel ini, sampah kopi ternyata bisa mencemari ekosistem laut , bahkan kandungan kafein yang ikut campur di air kencing kita, urine, ikut mengalir dari sungai hingga ke laut, juga merusak lingkungan pesisir dan laut, terutama kualitas air dan batu karang. Ini berangsur angsur kecil sekali dampaknya, namun dalam jangka panjang baru kelihatan reaksi-nya. [Mongabay](https://news.mongabay.com/2022/02/caffeine-emerging-contaminant-of-global-rivers-and-coastal-waters/)
+
 **Real Me and Fake Me**: Ini cerita seorang penulis puisi menjadi korban identitas di Internet. Netizen lebih percaya ke akun palsu di sosmed yang mengaku diri-nya sebagai penulis puisi, daripada orang asli yang berusaha mengambil nama-nya kembali di Internet, bahkan pihak sosmed tidak berpihak ke dirinya. Hati hati kita berada di golden age of Scams [London Review of Books](https://www.lrb.co.uk/the-paper/v44/n03/joe-dunthorne/diary)
 
 **Apple broke Facebooks ad machine. Whos going to fix it?**: Bukan regulator yang mengancam bisnis iklan Facebook, secara tidak langsung Apple menghancurkan mesin iklan Facebook, sejak pengguna iPhone punya opsi tidak membagikan data privasi-nya ke pihak aplikasi. Aku ga percaya bahwa iklan lebih efektif, hanya karena mereka mengambil data akurat pengguna. Setahuku Facebook Marketplace yang efektif [Recode](https://www.vox.com/recode/22929715/facebook-apple-ads-meta-privacy)
