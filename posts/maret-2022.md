@@ -1,8 +1,8 @@
 ---
-title: Riwayat Internetku Maret 2022
-description: List Bacaan Maret 2022
-date: 2022-03-04
-scheduled: 2022-03-04
+title: Riwayat Internet Ini Maret 2022
+description: Setiap hari nya aku ga bisa ninggalin apa yang terjadi di Internet pagi hari
+date: 2022-03-03
+scheduled: 2022-03-03
 draft: true
 tags:
   - another-tag
@@ -21,5 +21,11 @@ Berikut link2 web yang ku kunjungi menurut ku menarik, kritik, cerita dan opini
 
 *Halaman ini akan terus perbaharui*
 
+**How ikea tricks you into buying more stuff**: Ikea punya kasus bisnis yang memukau, wahana furnitur dengan food court tak menduga menarik, rata - rata customer IKEA punya daftar belanja tak terduga saat kena kreasi sihirnya.  [The Hustle](https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff/)
 
 
+**The Myth of Tech Exceptionalism**: Bagaimana tech telah berjanji dengan inovasi tak henti - henti-nya, yang sekarang tak ada berhenti-nya merusak hari - hari kita. Ku merasa, semakin gampang inovasi yang di tangan kita, ada kalanyaini bisa bikin aku malas. Ini cerita secara luas-nya hingga regulasi melawannya [NOEMA](https://www.noemamag.com/the-myth-of-tech-exceptionalism/?mc_cid=014285a119&mc_eid=f9f32708e6)
+
+**Tony Visconti 'Spotiy is Digusting it does nothing to support the culture of music'**: Produser David Bowie dan teman sejati-nya punya opini soal era musik streaming sekarang,, aku sudah banyak dengar cerita, bahwa musisi sering ga dapat royalties secara fair, apalagi songwriter. [Independent](https://www.independent.co.uk/arts-entertainment/music/features/tony-visconti-interview-bowie-spotify-tour-b2023090.html)
+
+**The Age of Everything Culture is Here**: Apa yang lagi hot di Internet, apa yang jadi diskusi di sosial media, semua-nya jadi culture, Everything. Sekarang TikTok yang membuat-nya menjadi semakin mikro. Platform media sekarang membuat hal terkecil bikin kita ngejar-ngejar [Wired](https://www.wired.com/story/era-of-everything-culture/)
