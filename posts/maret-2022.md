@@ -1,5 +1,5 @@
 ---
-title: Riwayat Internet Ini Maret 2022
+title: Riwayat Internet Ini Maret 22
 description: Setiap hari nya aku ga bisa ninggalin apa yang terjadi di Internet pagi hari
 date: 2022-03-03
 scheduled: 2022-03-03
