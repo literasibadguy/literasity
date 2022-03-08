@@ -3,7 +3,6 @@ title: Riwayat Internet Ini Maret 22
 description: Setiap hari nya aku ga bisa ninggalin apa yang terjadi di Internet pagi hari
 date: 2022-03-03
 scheduled: 2022-03-03
-draft: true
 tags:
   - another-tag
 layout: layouts/post.njk
@@ -20,6 +19,12 @@ Karena itu daripada nahan sendiri, pilihan terbaik melampiaskan aja ke website i
 Berikut link2 web yang ku kunjungi menurut ku menarik, kritik, cerita dan opini
 
 *Halaman ini akan terus perbaharui*
+
+**How Does Perspective Work in Pictures**: Dari kamera kelihatannya objeknya koq kecil, realitasnya ni pandangan mata ga bilang begitu. Fotografi punya pandangan berbeda dengan penglihatan kita sendiri dan masing masing orang juga punya pandangan berbeda saat melihat hasil foto-nya. Kamera ga bisa bohong dan itu statik selama-nya, sedangkan realita kita bisa berubah. [Aaron Hertzmann's blog](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html)
+
+**What Is Bigorexia?**: Diet demi tubuh sempurna untuk sosial media menghantui anak anak muda berkhayal membentuk otok, obsesi dengan penampilan demi konten, angkat beban berlebihan, makan ga teratur, hingga frustrasi dan kesepian dalam sosial. [NYTimes](https://www.nytimes.com/2022/03/05/style/teen-bodybuilding-bigorexia-tiktok.html)
+
+**Daniel Pink Interview: How to Use Your Regrets for Good**: Daniel Pink menulis buku tentang sikap penyesalan membuka nilai reflek positif untuk kedepannya. Jadi kita sudah mengetahui, merasakannya, belajar dari kegagalan, tidak selama-nya menyesal, sehingga momen sekarang atau ke depan, kita punya insting lebih baik di realitas-nya. Ini wawancara sekilasnya. [GQ](https://www.gq.com/story/daniel-pink-the-power-of-regret)
 
 **How ikea tricks you into buying more stuff**: Ikea punya kasus bisnis yang memukau, wahana furnitur dengan food court tak menduga menarik, rata - rata customer IKEA punya daftar belanja tak terduga saat kena kreasi sihirnya.  [The Hustle](https://thehustle.co/how-ikea-tricks-you-into-buying-more-stuff/)
 
