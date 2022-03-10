@@ -20,6 +20,17 @@ Berikut link2 web yang ku kunjungi menurut ku menarik, kritik, cerita dan opini
 
 *Halaman ini akan terus perbaharui*
 
+**Vetements Soundtracks FW 15-16**: Udah dua hari, adiktif dengerin soundtrack-nya fashion show Vetements, klasik ritme bas elektro. [SoundCloud](https://soundcloud.com/luca-oliveri-295984769/vetements-fw15-16)
+
+**These artists are making tiny ROMs that will probably outlive us all**: Duo seniman dari Kanada, Hundred Rabbits, mereka seperti Cyberpunks, beda-nya kesan mereka positif, kreatif dan minimalis. Mereka bikin OS, nama-nya Uxn, eksperimen OS untuk para Creators, selain bisa di Desktop, yang bisa jalan di device device vintage kecil, Game Boy, Nintendo DS. Kehidupannya, mereka sekarang menetap hidup di kapal [Theverge](https://www.theverge.com/22935074/hundred-rabbits-uxn-roms-preservation)
+
+Recommended baca journey mereka, salah satu-nya [XXIIVV](https://wiki.xxiivv.com)
+
+
+**Samsung Encryption Flaw**: Udah lama baca share2nya dari Bruce Schneier, ahli security. Ini jadi perhatian baru-nya, Samsung membuat kesalahan memalukan, implementasi desain keamanan utama nya sangat lemah dan sudah terlanjur di 100 juta pengguna Galaxy. [Schneier on Security](https://www.schneier.com/blog/archives/2022/03/samsung-encryption-flaw.html)
+
+**DISTANCE Has Opened a Unique Running Store In Kenya**: Kenya, tuan rumah para pemenang running kelas dunia, potensi terbuka untuk toko Running dari paris DISTANCE membuka cabang di Iten. Sebagai solidaritas, misi mereka membantu potensi untuk para runners di sana. [HYPEBEAST](https://hypebeast.com/2022/3/distance-store-iten-kenya-project-running-asics-on-running-information)
+
 **How Does Perspective Work in Pictures**: Dari kamera kelihatannya objeknya koq kecil, realitasnya ni pandangan mata ga bilang begitu. Fotografi punya pandangan berbeda dengan penglihatan kita sendiri dan masing masing orang juga punya pandangan berbeda saat melihat hasil foto-nya. Kamera ga bisa bohong dan itu statik selama-nya, sedangkan realita kita bisa berubah. [Aaron Hertzmann's blog](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html)
 
 **What Is Bigorexia?**: Diet demi tubuh sempurna untuk sosial media menghantui anak anak muda berkhayal membentuk otok, obsesi dengan penampilan demi konten, angkat beban berlebihan, makan ga teratur, hingga frustrasi dan kesepian dalam sosial. [NYTimes](https://www.nytimes.com/2022/03/05/style/teen-bodybuilding-bigorexia-tiktok.html)
