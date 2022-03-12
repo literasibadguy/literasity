@@ -8,6 +8,8 @@ tags:
 layout: layouts/post.njk
 ---
 
+[![BTS Photo Euphoria](https://images.are.na/eyJidWNrZXQiOiJhcmVuYV9pbWFnZXMiLCJrZXkiOiIxNTUwMDczNy9vcmlnaW5hbF9jNTVhN2RjOTVhMzI5ZTQ5MjIxZjYwNGY1NDNjODJmZS5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjIwMDAsImhlaWdodCI6MjAwMCwid2l0aG91dEVubGFyZ2VtZW50Ijp0cnVlfSwianBlZyI6eyJxdWFsaXR5Ijo5NX0sInJvdGF0ZSI6bnVsbH19 "Maude Apatow Photo by Eddy Chen")](https://i-d.vice.com/en_uk/article/wxd78y/euphoria-bts-photos-eddy-chen)
+
 Setiap hari nya aku ga bisa ninggalin apa yang terjadi di Internet pagi hari, apa yang terjadi di malam hari. Di waktu asia, ku dapetin bacaan pagi hari. Di waktu dunia barat, bacaan untuk malam hari. Itu pun ga cukup, semakin ingin mencari lagi, hati ni ga pernah puas, pasti ada yang lebih ngeeh lagi. 
 
 Dari satu tab email, nambah dua tab, bercabang jadi lima tab, tambah lagi jadi sepuluh dan semua-nya ga mau ku close, aku blum selesai baca-nya, aku blum mengerti sepenuhnya, dua jam tiga jam nongol itu tab hingga malam, ga boleh ku close sampai aku merelakannya, kalau bisa tandai dulu sebelum ku close.
