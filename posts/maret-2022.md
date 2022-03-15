@@ -22,6 +22,8 @@ Berikut link2 web yang ku kunjungi menurut ku menarik, kritik, cerita dan opini
 
 *Halaman ini akan terus perbaharui*
 
+**What Google Search isnt showing you**: Yang paling atas, belum tentu benar untuk kamu, yang ada di halaman pertama, belum tentu jawaban yang kamu cari. Too good to be true, apalagi kalau cari barang di Google, ku sarankan tidak tergantung dengan hasil Google. Ini sedikit gila ku sarankan, bahkan TikTok masih punya kualitas kalau cari barang rekomendasi. Artikel ini masalah kita dengan Google, hasil pencarian konten-nya sudah kena efek komersial,paling susah sudah cari website indie atau komunitas di Google. [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
+
 **Vetements Soundtracks FW 15-16**: Udah dua hari, adiktif dengerin soundtrack-nya fashion show Vetements, klasik ritme bas elektro. [SoundCloud](https://soundcloud.com/luca-oliveri-295984769/vetements-fw15-16)
 
 **These artists are making tiny ROMs that will probably outlive us all**: Duo seniman dari Kanada, Hundred Rabbits, mereka seperti Cyberpunks, beda-nya kesan mereka positif, kreatif dan minimalis. Mereka bikin OS, nama-nya Uxn, eksperimen OS untuk para Creators, selain bisa di Desktop, yang bisa jalan di device device vintage kecil, Game Boy, Nintendo DS. Kehidupannya, mereka sekarang menetap hidup di kapal [Theverge](https://www.theverge.com/22935074/hundred-rabbits-uxn-roms-preservation)

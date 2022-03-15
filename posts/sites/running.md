@@ -52,3 +52,6 @@ membenci para runners, yang start lari di jam subuh, tanpa mengizinkan matahari 
 *4. Rekomendasi Bacaan Running*
 *5. Makan Sebelum Running*
 
+#### Resources
+[Read into the well](https://readintothewell.com)
+
