@@ -7,14 +7,20 @@ eleventyNavigation:
   order: 1
 ---
 
-I am a person that writes in this noisy world and pessimists with emerging digital before I touched it well. Full of egos writing, sometimes pain serves you a little happiness, some of the contents depends on my experience, somehow goes to fictional purposes, just simulate a reality so we human might face the reality at least not surprised. 
+**Nama ku Firas Rafislam.** Web ini adalah jurnal, logs atau tulisan blog pribadi ku. Platform sederhana ini seharusnya jadi media ku untuk refleksi belajar terus, kegagalan keberhasilan, pengalaman yang ku alami (proyek, bisnis, personal bahkan kesehatan) dan artikel yang ku baca menurut ku bisa jadi konten bermanfaat buat teman - teman yang udah mengunjungi ini. 
 
-You can transfer me some coins, so I can buy new books for inspirations, buy coffee or lemon soda for pleasure getting me writing well and new bed from IKEA.
+Konsep-nya ga hanya tulisan blog, juga halaman wiki pribadi, entah itu ilmu, orang inspiratif atau tutorial. Itulah nama-nya [Bad Guy Express](https://literasi.blog), sambil menunggu penerbangan-mu sambil eksplor eksplor di sini atau lagi cari bahan bacaan, capek dengan berita berita sekarang, pengennya yang intimasi dan segar, ku usahakan deeh dapat yang terbaik dari sini.
 
-I'm Indonesian, sometimes I write in English or Indonesian, for curated links I write in Indonesian, for a story I prefer english, if an essay with tension I write in Indonesian.
+Beberapa tulisan sebelumnya aku tulis lewat Inggris, kalo lagi mood nulis nulis panjang, biar ga terlalu kelihatan dengan pemikiran ku.
 
-You can visit and <a href="https://instagram.com/literasibadguy">follow my Instagram</a> or <a href="mailto:firasrafislam@live.com">firasrafislam@live.com</a>
+Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website rekomendasi Google, ku online-kan dengan serverless dari [Cloudflare Workers](https://workers.cloudflare.com/). Dibantu dengan [template](https://github.com/11ty/eleventy-base-blog)
 
-@literasibadguy
+*Source*
 
-<!-- This website template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog). -->
+1. [literasi.blog Feed](https:///feed/feed.xml)
+2. [literasi.blog JSON Feed](https://literasi.blog/feed/feed.json)
+3. [literasibadguy Instagram](https://instagram.com/literasibadguy)
+4. [Firas Rafislam Surat Elektronik](mailto:firasrafislam@live.com)
+
+Semoga Bermanfaat,
+Bad Guy Express
