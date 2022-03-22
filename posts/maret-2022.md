@@ -22,6 +22,16 @@ Berikut link2 web yang ku kunjungi menurut ku menarik, kritik, cerita dan opini
 
 *Halaman ini akan terus perbaharui*
 
+**Paradoxes of Life**: 20 trik menjalani kehidupan dengan konsep sederhana, bahwa dunia tidak berjalan sesuai logika yang kita harapkan. Hidup ini penuh dengan paradoks. Salah satu-nya The Effort Paradox, anda harus bekerja lebih keras untuk membuatnya kelihatan lebih gampang. [Sahil Bloom](https://sahilbloom.substack.com/p/paradoxes-of-life-1c5?s=r)
+
+Bicara soal kerja keras... 
+
+**Why Grandmasters lose weight playing chess**: Walaupun pemikiran pemain catur ekstra keras berpikir hingga 6000 kalori per hari, mereka harus menyeimbangi-nya dengan olahraga fisik, untuk kesiapan mental mereka, tameng untuk menahan stress dan frustrasi. [ESPN](https://www.espn.co.uk/espn/story/_/id/27593253/why-grandmasters-magnus-carlsen-fabiano-caruana-lose-weight-playing-chess)
+
+**A Brief History of the Calorie**: Jadi dari sejarah barat, hitungan kalori sudah eksis dari abad awal 20an, pemerintah dan industri mengambil manfaat ini, untuk menghitung konsumsi para pekerja sebagai justifikasi jawaban bayaran gaji masing masing. [JSTOR Daily](https://daily.jstor.org/a-brief-history-of-the-calorie)
+
+**The Metaverse and NFT Boom Is About to Go Bust**: Dunia sudah terlanjur kebosanan dengan Apes. Crypto dan NFT mungkin hanya cari cari perhatian aja. Sejak perang Ukraine dan Rusia, selain faktor eksternal tersebut, awal 2022 Internet sudah mulai basi dengan NFT, apalagi metaverse. Apa ini sekedar hype aja? [OneZero](https://onezero.medium.com/the-metaverse-and-nft-boom-is-about-to-go-bust-b63c52c37c94)
+
 **What Google Search isnt showing you**: Yang paling atas, belum tentu benar untuk kamu, yang ada di halaman pertama, belum tentu jawaban yang kamu cari. Too good to be true, apalagi kalau cari barang di Google, ku sarankan tidak tergantung dengan hasil Google. Ini sedikit gila ku sarankan, bahkan TikTok masih punya kualitas kalau cari barang rekomendasi. Artikel ini masalah kita dengan Google, hasil pencarian konten-nya sudah kena efek komersial,paling susah sudah cari website indie atau komunitas di Google. [The New Yorker](https://www.newyorker.com/culture/infinite-scroll/what-google-search-isnt-showing-you)
 
 **Vetements Soundtracks FW 15-16**: Udah dua hari, adiktif dengerin soundtrack-nya fashion show Vetements, klasik ritme bas elektro. [SoundCloud](https://soundcloud.com/luca-oliveri-295984769/vetements-fw15-16)
