@@ -27,8 +27,20 @@ Rute mingguannya, aku merasa ingin berpetualang, jadi aku mencoba rute baru, rek
 
 Tantangan selama di tengah jalan, melawan terik matahari itu saja. Lari pagi saat mengambil durasi satu dua jam lebih, memilih jam paling pagi sangat rekomendasi. Saat matahari sudah naik, ga ada teman lain selain  olahraga sendiri di tengah tengah jam sibuk kendaraan, menghadapi terik panas. Sejak itu aku mulai membenci para runners, yang start lari di jam subuh, tanpa mengizinkan matahari naik duluan terlebih dahulu.
 
-#### Coming soon
 *1. Mulai Belajar Running*
+Mulai dengan lambat, dulu aku terlalu emosi untuk berlari cepat di awal, 10 menit kemudian udah keduluan ngos-ngossan, ga nyampai dua kilo, ujung - ujungnya nyerah jalan kaki, itu awal di mana aku berpikir ini program diet, badanku sedikit bergelombang lemaknya, berusaha konsisten langkah kecil untuk memulai, akhirnya kebiasaan ini semakin gampang. Saat serius belajar untuk Running, aku ingat dengan tetangga jauh, seorang pengusaha, dia juga rajin olahraga, jadi dia memberiku nasehat yang ga sengaja olehnya saat kami mau lari bareng.
+
+Dia berkata "Kalau mau enak lari, lambat aja dulu, selambat - lambatnya..."
+
+Tak lama kemudian aku mengikuti jejaknya, aku mengikuti dia dari belakang dengan langkah lambatnya, seolah olah jogging dengan sangat lambat. Aku mulai terbiasa, mencoba 30 menit dengan paling lambat, bahkan memilih lambat lebih banyak mengeluarkan keringat dibanding lari cepat. Memang ada artikel yang ku baca, ga salah referensi-nya dari Runner's World, saat kita berlari lambat kita mengumpulkan energi kita dari tubuh-nya, saat tubuh ingin berlari cepat di situlah kita mengonsumsi energi yang telah kita kumpulkan.
+
+Itulah kenapa Runners akan melambatkan lari-nya agar tubuh tidak stress, untuk mengembalikan energi-nya dari supply kalori dan air di dalam tubuhnya.
+
+Aku mulai tertarik untuk serius, aku mencoba lebih ekstreme dengan lari lambat, mencoba-nya hingga 50 menit lebih, ga kebayang udah dapet 7Km lebih, dengan kecepatan pace 8:00, dulu di awal awal belajar, aku selalu monitor jam pace-nya, agar lari ku tetap di pace 8-sekian. 45 menit hingga satu jam lebih, aku melakukannya dua minggu lebih. Sejak itu, kaki ku terasa mulai mengeras, kesusahan langkahkan kaki, ada denyut yang bikin remuk, apalagi saat melepas sepatu, lama kelamaan terbiasa juga dengan bangga sakit-nya.
+
+**Sedikit percaya diri**, aku mulai mencepatkan lari ku dengan pace 6:45 hingga 7:00 lebih, namun sebelumnya aku juga harus seimbangkan dengan excercise lainnya, seperti pushup dan plank minimal. Setelah ku riset, agar running terasa improve di jangka panjang, kita harus menguatkan CORE kita, apalagi otot di bagian dada. 
+
+#### Coming soon
 *2. Tools dan Kit*
 *3. Resource Links Bagus*
 *4. Rekomendasi Bacaan Running*

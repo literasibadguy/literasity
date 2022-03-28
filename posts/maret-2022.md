@@ -20,7 +20,13 @@ Karena itu daripada nahan sendiri, pilihan terbaik melampiaskan aja ke website i
 
 Berikut link2 web yang ku kunjungi menurut ku menarik, kritik, cerita dan opini
 
-*Halaman ini akan terus perbaharui*
+*Halaman ini akan terus perbaharui, terakhir update tanggal 28 Maret 2022*
+
+**What is Type 2 Fun**: Type 2 Fun, tipe aktivitas yang ga nyaman saat kamu melakuinnya, menahan sakit yang kamu sengajain, namun setelahnya kamu merasa terasa segar, pengalaman yang ga sadar bisa bikin bahagia dan terasa di-reset setelah melakukannya. Contohnya Running. *Bersakit sakit dahulu, bersenang senang kemudian* [Washington Post](https://www.washingtonpost.com/wellness/2022/03/24/what-is-type-2-fun/)
+
+**Why dont you use..**: Pengalaman seorang IT klasik sering ditanyakan begini di perusahaan tech besar, kenapa kamu ga pake OS ini? hardware ini? OS ini itu? bahasa ini? Aku yakin sekali orang orang ini seperti mereka sangat sensitif dengan tool yang ingin mereka pakai, termasuk aku, dilema demi tulian diari. [Brendan Gregg](https://www.brendangregg.com/blog/2022-03-19/why-dont-you-use.html)
+
+**Why We Stopped Making Einsteins**: Ga sadar juga setelah membaca artikel ini, rasa-nya dunia inovasi kita terasa datar, apa kita terlalu rasional, terlalu tergantung dengan fakta dan data. Di paragraf pertama nya aja udah menyedihkan, seluas luasnya ilmu di Internet dan akses pendidikan semakin mudah, ga ada yang bisa mengubah arah angin dari timur ke barat alias golden age? - Sekali lagi di mana jenius abad kita? [The Intrinsic Perspective](https://erikhoel.substack.com/p/why-we-stopped-making-einsteins?s=r)
 
 **Paradoxes of Life**: 20 trik menjalani kehidupan dengan konsep sederhana, bahwa dunia tidak berjalan sesuai logika yang kita harapkan. Hidup ini penuh dengan paradoks. Salah satu-nya The Effort Paradox, anda harus bekerja lebih keras untuk membuatnya kelihatan lebih gampang. [Sahil Bloom](https://sahilbloom.substack.com/p/paradoxes-of-life-1c5?s=r)
 
