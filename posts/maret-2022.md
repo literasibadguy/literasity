@@ -20,7 +20,9 @@ Karena itu daripada nahan sendiri, pilihan terbaik melampiaskan aja ke website i
 
 Berikut link2 web yang ku kunjungi menurut ku menarik, kritik, cerita dan opini
 
-*Halaman ini akan terus perbaharui, terakhir update tanggal 28 Maret 2022*
+*Halaman ini akan terus perbaharui, terakhir update tanggal 30 Maret 2022*
+
+**Instagram's new chronological feed is a letdown**: Instagram membalikkan kronologis feed dan realitas-nya ga sesuai harapan Internet. Ternyata Instagram hanya memberikan pilihan kronologis di bagian klik logo, jadi dari awal feed IG tetap masih sama kayak dulu, yang lebih shiny di likes itulah yang di atas. [Embedded](https://embedded.substack.com/p/instagrams-new-chronological-feed)
 
 **What is Type 2 Fun**: Type 2 Fun, tipe aktivitas yang ga nyaman saat kamu melakuinnya, menahan sakit yang kamu sengajain, namun setelahnya kamu merasa terasa segar, pengalaman yang ga sadar bisa bikin bahagia dan terasa di-reset setelah melakukannya. Contohnya Running. *Bersakit sakit dahulu, bersenang senang kemudian* [Washington Post](https://www.washingtonpost.com/wellness/2022/03/24/what-is-type-2-fun/)
 
