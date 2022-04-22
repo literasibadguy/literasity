@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-Yang lagi beribadah di bulan puasa termasuk aku, Marhaban ya Ramadhan. Bulan ini kita seharusnya memanfaatkan momen fasting, manfaatnya segudang. Yang lagi program diet, inilah waktu terbaik, yang merasa ingin mereset tubuhnya, di sinilah kita menahan diri dari nafsu makan hingga mental. 
+Yang lagi beribadah di bulan puasa termasuk aku, Marhaban ya Ramadhan. Bulan ini kita seharusnya memanfaatkan momen fasting, manfaatnya segudang. Yang lagi program diet, inilah waktu terbaik, yang merasa ingin mereset tubuhnya, di sinilah kita menahan diri dari nafsu makan hingga mental.
 
 Satu bulan kita mungkin mendaur ulang performa tubuh kita. Aku ga tahu apa yang terjadi dalam tubuh kita selama berpuasa, yang jelas dari lambung, usus mungkin sedang istirahat. Imunitas dan kekebalan tubuh sedang diperbaiki. Sekali saja, kita merusak, melewati batas, puasa batal dan lupa sadar mengendalikan fisik kita saat ini.
 
@@ -16,7 +16,26 @@ Terus momen *boredom*, selain kita konsisten dengan ibadah, kadang ada waktu di 
 
 waktu sebulan menuju hari kemenangan adalah kebahagiaan tak terduga yang bisa saja kita raih nanti.
 
-*Halaman ini akan terus perbaharui, terakhir update tanggal 5 April 2022*
+*Halaman ini akan terus perbaharui, terakhir update tanggal 22 April 2022*
+
+**Spreadsheets Are Hot--and Cranking out Complex Code**: Ini startup software tahu cara memanfaatkan
+struktur table spreadsheet yang biasa kita buka di Excel, tahu cara implementasikan inovasi tool non-coder
+di spreadshee untuk segala fungsi dan mengotomatiskan pekerjaan. awal-nya kan data memang tersusun seperti ini, sederhana di tabel.
+[Wired](https://www.wired.com/story/spreadsheets-are-hot-and-cranking-out-complex-code/)
+
+**What hacking AOL taught a generation of programmers**: Dari baca-nya sudah tahu ini
+seperti komunitas di film Hacker pemainnya Angelina Jolie, banyak istilah kata yang baru ku dengar,
+Jadi software AOL, menjadi playgroundnya para programmer-dulu, ga hanya software Chat,
+mereka menambahkan fitur fitur extensions untuk sesama mereka. [Github ReadME](https://github.com/readme/featured/aol-programming-culture)
+
+**Fell for You**: Kenapa orang lebih suka nonton video orang yang lagi reaksi video? Aku juga
+bertanya tanya, juga mengalami yang sama, nonton video reacting lebih exciting
+melihat reaksi dia. [LIFE](https://reallifemag.com/feel-for-you/)
+
+**Tokyo's Manuscript Writing Cafe only allows writers on a deadline, and won't let them leave until finished**:
+Ini cafe beneran kasih aturan begini untuk penulis. Jadi bagi penulis yang lagi kena jadwalkan deadline, kalo mereka belum selesai,
+mereka ga boleh pulang, cara mainnya, lapor dulu ke penjaga toko, gimana deadline mu, harus dapet berapa pages,
+atau sampai editor approve kerjaan kamu. [Grapee.jp](https://grapee.jp/en/199026)
 
 **100 ways to slightly improve your life without really trying**: 100 Cara untuk membuat hari hari mu lebih baik tanpa memaksakan diri. Ini bisa kamu petik untuk menjalani puasa. [The Guardian](https://www.theguardian.com/lifeandstyle/2022/jan/01/marginal-gains-100-ways-to-improve-your-life-without-really-trying)
 
