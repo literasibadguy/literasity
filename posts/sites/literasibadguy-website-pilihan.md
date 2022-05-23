@@ -17,7 +17,7 @@ Ku jamin ga ada referensi pilihan konsep dapur yang kamu temui di sosmed atau Go
 
 [The Caret](https://thecaret.co) - Kumpulan interview para seniman, creators hingga pengusaha, di sini kamu bisa temuin juga referensi mereka, cara mereka cari inspirasi.
 
-
+[Z-Library](https://z-lib.org) - Ni website mumpung belum ada yang gugat, silakan nikmati selagi perpustakaan terbuka terbesar dan invisible, akses untuk semua kalangan, aku rekomendasi download yang EPUB format.
 
 *Halaman ini akan terus kami perbaharui..*
 
