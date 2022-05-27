@@ -19,6 +19,8 @@ Ku jamin ga ada referensi pilihan konsep dapur yang kamu temui di sosmed atau Go
 
 [Z-Library](https://z-lib.org) - Ni website mumpung belum ada yang gugat, silakan nikmati selagi perpustakaan terbuka terbesar dan invisible, akses untuk semua kalangan, aku rekomendasi download yang EPUB format.
 
+[Hackernews](https://news.ycombinator.com) - Aku butuh sumber terupdate apa diskusi hangat saat ini buat para kalangan IT, ini salah satu kiblatnya.
+
 *Halaman ini akan terus kami perbaharui..*
 
 

@@ -1,8 +1,8 @@
 ---
 title: Daily Mail, Ketika Buah Dada Jadi Headline
 description: Media Inggris yang tahu cara bikin konten berita pembaca emosi
-date: 2022-17-05
-scheduled: 2022-17-05
+date: 2022-05-17
+scheduled: 2022-05-17
 tags:
   - memos
 layout: layouts/post.njk
