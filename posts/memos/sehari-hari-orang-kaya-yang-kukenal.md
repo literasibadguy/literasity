@@ -1,8 +1,8 @@
 ---
 title: Sehari hari Orang Kaya yang ku kenal
 description: Beda dari harapanku, imajinasiku, jauh berbeda dari orang kaya terkenal.
-date: 2022-05-17
-scheduled: 2022-05-17
+date: 2022-06-04
+scheduled: 2022-06-04
 tags:
   - memos
 layout: layouts/post.njk
