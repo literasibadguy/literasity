@@ -14,7 +14,7 @@ Karena itu aku coba membangun website yang menantang web desain keluar dari zona
 
 Di sini aku implementasi desain grafis, seperti poster dan ambil inspirasi beberapa website yang telah berhasil bikin mulut ku ternganga dan kadang bikin iri. Membawanya ke posisi ekstrem, obsesi di mana yang belum pernah ku eksplor sebelumnya, proses yang hanya dipakai minoritas sekecil kecilnya, desain web punya kapabilitas dari yang kita kira. 
 
-Proyek terbaru ku di awal 2022 ini, perkenalkan desain web eksperimen lab platform ala literasibadguy, [Namanya Kurva](https://kurva.xyz), jadi aku membuat setiap halaman seperti dari canvas sekarang, dan membuat desain sendiri dari kode CSS dan mengumpulkannya seperti arsip kumpulan kertas gambarku sejak TK. 
+Proyek terbaru ku di awal 2022 ini, perkenalkan desain web eksperimen lab platform ala literasibadguy, [Namanya Kurva](https://kurva.xyz), jadi aku membuat setiap halaman seperti dari canvas kosong, dan membuat desain sendiri dari kode CSS dan mengumpulkannya seperti arsip kumpulan kertas gambarku sejak TK. 
 
 Sebenarnya industri web selalu berkembang setiap tahunnya, terutama CSS dan HTML. Mungkin teman teman pernah dengar W3C, organisasi yang bertanggung jawab pengembangan web, mereka setiap harinya menyusun draft ide untuk merelealisasikan pengembangan web untuk masa depan. Tapi nyata-nya, desain web jalan di tempat seperti penjelasan ku di atas.
 
