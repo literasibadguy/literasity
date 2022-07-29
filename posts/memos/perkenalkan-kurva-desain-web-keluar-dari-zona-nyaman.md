@@ -1,5 +1,5 @@
 ---
-title: Perkenalkan Kurva, Saat Desain Web keluar dari zona nymaman
+title: Perkenalkan Kurva, Saat Desain Web keluar dari zona nyaman
 description: Kumpulan hasil gambaran desain web dalam satu arsip, sebagai eksplorasi dan edukasi.
 date: 2022-06-20
 scheduled: 2022-06-20
