@@ -1,6 +1,6 @@
 ---
-title: Kebahagiaan ga pernah berubah walau TikTok di genggaman.
-description: Harapannya Potensi, Datengnya Sampah
+title: Apa Arti Kebahagiaan di era TikTok.
+description: Kebahagiaan ga pernah berubah walau TikTok di genggaman.
 date: 2022-08-25
 scheduled: 2022-08-25
 tags:
