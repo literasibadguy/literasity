@@ -35,7 +35,7 @@ Awal November ini coba share, mungkin bermanfaat untuk pembaca Bad Guy Express.
 
 **Branding dengan cara K-Pop**, boleh mencoba era-nya [Lulu](https://lulu.substack.com/p/fandom)
 
-**Kagum dengan engineer ini**, live video coding dengan mac classic nya, mungkin aku bisa coba di ThinkPad ku
+**Kagum dengan engineer ini**, live video coding dengan mac classic nya, mungkin aku bisa coba di ThinkPad ku [JCS](https://jcs.org/2020/10/01/system_6_c)
 
 **Kelihatannya kamu spesial di mata mereka** Kenapa Strangers nambah kamu di lingkaran hijau Instagram-nya [Mashable](https://mashable.com/article/strangers-instagram-close-friends-twitter-circles)
 
