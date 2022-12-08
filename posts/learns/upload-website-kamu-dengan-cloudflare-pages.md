@@ -20,7 +20,7 @@ Blog ini modalnya hanya bayar domain tahunan dan modal komitmen tetap menulis.
 
 Di profil [LinkedIn ku](https://www.linkedin.com/pulse/deploy-your-next-website-cloudflare-pages-firas-rafislam/?trackingId=BLf%2Fsi%2BCQOC0ddagOoBSJg%3D%3D), sebelumnya aku menulis tutorial yang sama dalam bahasa Inggris.
 
-# Penggunaan Cloudflare Pages
+## Penggunaan Cloudflare Pages
 
 Jadi di bagian dashboard-nya Cloudflare, ada fitur Pages, kamu bisa telusuri di sini
 
