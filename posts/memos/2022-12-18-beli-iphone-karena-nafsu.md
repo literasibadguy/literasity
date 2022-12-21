@@ -34,7 +34,7 @@ Banyak cerita yang tak terduga bahwa iPhone bisa mengubah kehidupan orang, bahka
 
 Dari yang gagal bayar paylater, sampai yang parah ada yang gagal menikah, demi selfie depan cermin menggunakan iPhone boba tiga.
 
-Ada dua cerita yang ku telusuri dari curhat anonim secara online, cerita kedua wanita ini yang hampir memiliki profesi yang sama.
+Ada dua cerita yang ku telusuri dari curhat anonim secara online, cerita kedua wanita ini hampir memiliki profesi yang sama.
 
 Selama bekerja di rumah sakit saat Sudah menabung berbulan bulan, bersama calon suami-nya, seorang wanita muda menyalahi janji-nya bersama calon-nya, karena nafsu-nya untuk bersenang senang demi iPhone, bahkan calon pria masih berusaha menyelematkan pernikahan nya dengan menjual motor, tapi orang tua-nya sudah tidak merestui dengan sikap pihak wanita. Wanita tersebut sudah tercoreng nama-nya termasuk keluarga-nya.
 
@@ -57,7 +57,7 @@ Kalau kamu ingin beli iPhone, aku punya beberapa catatan di sini
 3. Semakin mahal iPhone kamu, semakin besar investasi kamu, semakin beresiko dan rentan menjaga iPhone kamu.
 4. iPhone bukan barang ajang pamer, itu hanya Smartphone yang memudahkan komunikasi kamu.
 5. iPhone bukan sesuatu yang spesial, tapi itu bisa membuat diri mu spesial, cukup kamu yang tahu saja soal itu.
-6. Pelajari banyak tentang iOS, software lunak yang menjalani iPhone. Karena setahuku kebanyakan pengguna iPhone tahu-nya pakai TikTok, Instagram dan WhatsApp
+6. Pelajari banyak tentang iOS, software lunak yang menjalani iPhone. Karena setahuku kebanyakan pengguna iPhone tahu-nya pakai TikTok, Instagram dan WhatsApp. Bahkan ga tau iMessage.
 7. Selagi iPhone kamu masih dukung software iOS terbaru dari Apple, kamu masih bisa bersyukur dengan yang ada.
 8. Jika iPhone kamu baterai-nya sudah mesti diganti, bawa ke tempat servis hape yang bisa mengerjakannya, jangan ke Apple Store di mall mall, kadang harga-nya ga realistis.
 9. Jika iPhone kamu screen-nya perlu diganti karena pecah atau tergores, bawa ke tempat servis yang ahli mengerjakannya juga.
