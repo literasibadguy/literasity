@@ -20,7 +20,7 @@ Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website
 1. [literasi.blog Feed](https://literasi.blog/feed/feed.xml)
 2. [literasi.blog JSON Feed](https://literasi.blog/feed/feed.json)
 3. [literasibadguy Instagram](https://instagram.com/literasibadguy)
-4. [Firas Rafislam Surat Elektronik](mailto:firasrafislam@live.com)
+4. [Firas Rafislam Surat Elektronik](mailto:firas@literasi.blog)
 
 Semoga Bermanfaat,
 Bad Guy Express

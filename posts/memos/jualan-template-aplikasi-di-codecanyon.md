@@ -17,7 +17,7 @@ Awalnya lagi cari passive income dengan jualan online, dari akhir Desember 2021 
 
 Jadilah di awal April ini, menjelang bulan puasa, aku berhasil upload template-nya di Codecanyon, sebelumnya aku sempat kena tiga kali ditolak sama team review-nya, belum memenuhi standar dari mereka, itu pertama kali aku upload di akhir Maret kemarin, jadi percaya diri dulu ni, upload upload aja, kita liat yang mana belum cocok bagi mereka, dari materi gambar poster hingga ukuran gambar, mereka serius soal kualitas di sini.
 
-Nama Template-nya, **Tangga, aplikasi untuk pesan antar makanan** Dikembangkan dengan Flutter dan Firebase. Kamu langsung bisa pesan makanan, merchant dan driver langsung dapat order, integrasi juga dengan Google Map. Harga-nya tertera 82 dollar, setelah digabungin dengan biaya servis Codecanyon tambah pajaknya. Kalau kamu ingin beli langsung sama aku Rupiah, ku kasih harga spesial Rp. 989.000, [silakan kontak email aku.](mailto:firasrafislam@live.com)
+Nama Template-nya, **Tangga, aplikasi untuk pesan antar makanan** Dikembangkan dengan Flutter dan Firebase. Kamu langsung bisa pesan makanan, merchant dan driver langsung dapat order, integrasi juga dengan Google Map. Harga-nya tertera 82 dollar, setelah digabungin dengan biaya servis Codecanyon tambah pajaknya. Kalau kamu ingin beli langsung sama aku Rupiah, ku kasih harga spesial Rp. 989.000, [silakan kontak email aku.](mailto:firas@literasi.blog)
 
 Template ini selalu aku update setiap bulan, menyesuaikan versi Flutter baru juga berusaha konsisten kasih kualitas lebih di code-nya
 
