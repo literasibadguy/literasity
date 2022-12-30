@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-2022, tahun di mana aku lebih banyak menangis, terisolasi dan menghadapi lingkungan menerima kegagalan apapun hasilnya.
+2022, tahun di mana aku lebih banyak menangis, terisolasi berjuang sendiri dan menerima kegagalan apapun hasilnya.
 
 Jalan yang berlalu sudahlah berlalu, sekarang saatnya kita tunjukkan yang belum terlihat sebelumnya, spektakular? Bisa jadi - Get married? doain ya aku lagi berdoa jodoh sama *si dia* lol - karya baru? Pasti dong - bisnis baru? Hmm konsisten sama prosesnya dulu - ilmu baru? Rajin rajin aja buka blog ini.
  
