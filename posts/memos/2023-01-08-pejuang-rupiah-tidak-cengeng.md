@@ -3,7 +3,6 @@ title: Pejuang Rupiah Tidak Cengeng
 description: Pemilik grosir memotivasi anak buah-nya
 date: 2023-01-08
 scheduled: 2023-01-08
-draft: true
 tags:
   - another-tag
 layout: layouts/post.njk
