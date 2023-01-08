@@ -8,9 +8,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-Kadang nemanin mamah pergi ke pasar tradisional Flamboyan pagi pagi, mampir ke salah satu toko grosir langganan mamah yang kaos seragam para anak buahnya dengan tagline memotivasi "Pejuang Rupiah Tidak Cengeng", tanya sambil canda sama boss-nya bang Tomi "bang bajunya baju-nya ga dijual k?", dia sedikit tertawa tersenyum "Gak itu seragam kita aja" Aku memuji-nya "Tak kira dijual, boleh ga beli satu", tertawa dia.
+Kadang nemanin mamah pergi ke pasar tradisional Flamboyan pagi pagi, mampir ke salah satu toko grosir langganan mamah yang kaos seragam para anak buahnya, dengan tagline memotivasi "Pejuang Rupiah Tidak Cengeng", tanya sambil canda sama boss-nya bang Tomi "bang baju kaosnya ga dijual k?", dia sedikit tertawa tersenyum "Gak itu seragam kita aja" Aku memuji-nya "Tak kira dijual, boleh ga beli satu", tertawa dia.
 
-Ini toko grosir, menjual pelengkap bahan di dapur, seperti tepung atau yang kering kering, di depan toko ada telur dengan tipe harga sesuai kualitas-nya berbeda, bijian bijian kacang kacangan, kebetulan bang Tomi kasirnya juga, di belakang kotak kotak rokok dengan harga grosir, beserta kotak susu yang biasa dibuat barista untuk bikin latte. Bang Tomi kalo hitung ga perlu calculator, mentalnya udah pandai menghitung cepat, ini sudah naluri pedagang.
+Ini toko grosir, menjual pelengkap bahan di dapur, seperti tepung atau yang kering kering, di bagian ada telur dengan tipe harga sesuai kualitas-nya berbeda, bijian bijian kacang kacangan, kebetulan bang Tomi kasirnya juga, di belakang kotak kotak rokok harga grosir, beserta kotak susu yang biasa dibuat barista untuk bikin latte. Bang Tomi kalo hitung ga perlu calculator, mentalnya udah pandai menghitung cepat, ini sudah naluri pedagang.
 
 Aku pikir pikir kayaknya boleh usaha toko grosir begini, ini jelas kebutuhan orang sehari hari
 
