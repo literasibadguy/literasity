@@ -55,7 +55,7 @@ Selama proses deploy, kelihatan proses building-nya selama eksekusi command dari
 
 Kalau sudah berhasil, bakal kelihatan di riwayat deployment-nya, jadi setiap revisi yang ku lakukan di Github, akan otomatis memproses deploy untuk revisi kita yang terbaru.
 
-<img src="/img/remote/cloudflare-pages-dashboard.jpg" alt="Cloudflare Pages Deployment" />
+{% image "./img/remote/cloudflare-pages-dashboard.png", "Cloudflare Pages Deployment" %}
 
 Kamu bisa lihat preview nya langsung di url website kamu atau kamu bisa cek link preview yang dikasih sama mereka.
 
@@ -63,7 +63,7 @@ Kamu bisa lihat preview nya langsung di url website kamu atau kamu bisa cek link
 
 Karena Cloudflare Pages inisial-nya menggunakan *.pages.dev* domain, jadi biar kelihatan bagus untuk branding domain website kita, mending kita arahkan ke domain kita sendiri, seperti blog ini awal-nya menggunakan url *literasity.pages.dev* sekarang ku arahkan ke domain *literasi.blog*
 
-<img src="/img/remote/custom-domain-cloudflare.png" alt="Custom Domain Cloudflare">
+{% image "./img/remote/custom-domain-cloudflare.png", "Custom Domain Cloudflare" %}
 
 Cukup gampang menambah custom domain untuk website kita, tulis domain yang mau kamu tuju, setelah itu ikuti panduan nya menambah DNS CNAME alias ke registrasi domain kita, nanti Cloudflare Pages akan verifikasi apakah sudah terarahkan.
 

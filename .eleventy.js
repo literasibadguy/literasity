@@ -50,17 +50,15 @@ const readFile = promisify(fs.readFile);
 const readdir = promisify(fs.readdir);
 const stat = promisify(fs.stat);
 const execFile = promisify(require("child_process").execFile);
-const Image = require("@11ty/eleventy-img");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
 // const pluginTailwindCSS = require("eleventy-plugin-tailwindcss");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
-const localImages = require("./third_party/eleventy-plugin-local-images/.eleventy.js");
 const CleanCSS = require("clean-css");
 const GA_ID = require("./_data/metadata.json").googleAnalyticsId;
-const { cspDevMiddleware } = require("./_11ty/apply-csp.js");
+// const { cspDevMiddleware } = require("./_11ty/apply-csp.js");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -69,37 +67,14 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.addPlugin(pluginNavigation);
 
-  eleventyConfig.addPlugin(localImages, {
-    distPath: "_site",
-    assetPath: "/img/remote",
-    selector:
-      "img,amp-img,amp-video,meta[property='og:image'],meta[name='twitter:image'],amp-story",
-    verbose: false,
-  });
+  eleventyConfig.addPlugin(require("./eleventy.config.images.js"));
 
   eleventyConfig.addPlugin(require("./_11ty/img-dim.js"));
   eleventyConfig.addPlugin(require("./_11ty/json-ld.js"));
   eleventyConfig.addPlugin(require("./_11ty/optimize-html.js"));
-  eleventyConfig.addPlugin(require("./_11ty/apply-csp.js"));
+  // eleventyConfig.addPlugin(require("./_11ty/apply-csp.js"));
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
-  eleventyConfig.addNunjucksAsyncShortcode("image", async function (src, alt, sizes) {
-    let metadata = await Image(src, {
-      formats: ["jpeg"],
-      heights: [2048],
-    });
-  
-    let imageAttributes = {
-      class: "h-4/6 object-cover",
-      alt,
-      sizes,
-      loading: "lazy",
-      decoding: "async",
-    };
-  
-    // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
-    return Image.generateHTML(metadata, imageAttributes);
-  });
   eleventyConfig.addNunjucksAsyncFilter(
     "addHash",
     function (absolutePath, callback) {
@@ -225,23 +200,23 @@ module.exports = function (eleventyConfig) {
   });
   eleventyConfig.setLibrary("md", markdownLibrary);
 
-  // Browsersync Overrides
-  eleventyConfig.setBrowserSyncConfig({
-    middleware: cspDevMiddleware,
-    callbacks: {
-      ready: function (err, browserSync) {
-        const content_404 = fs.readFileSync("_site/404.html");
+  // // Browsersync Overrides
+  // eleventyConfig.setBrowserSyncConfig({
+  //   middleware: cspDevMiddleware,
+  //   callbacks: {
+  //     ready: function (err, browserSync) {
+  //       const content_404 = fs.readFileSync("_site/404.html");
 
-        browserSync.addMiddleware("*", (req, res) => {
-          // Provides the 404 content without redirect.
-          res.write(content_404);
-          res.end();
-        });
-      },
-    },
-    ui: false,
-    ghostMode: false,
-  });
+  //       browserSync.addMiddleware("*", (req, res) => {
+  //         // Provides the 404 content without redirect.
+  //         res.write(content_404);
+  //         res.end();
+  //       });
+  //     },
+  //   },
+  //   ui: false,
+  //   ghostMode: false,
+  // });
 
   // Run me before the build starts
   eleventyConfig.on("beforeBuild", () => {

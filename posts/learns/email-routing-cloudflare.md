@@ -18,7 +18,7 @@ Bagaimana cara kerja-nya. Dari tagline-nya aja sudah jelas *Create custom email 
 
 Setelah mengaktifkan domain sendiri di Cloudflare, kita bisa manfaatkan domain tersebut sebagai domain alamat email kita, jadi aku ga perlu langganan hosting, alamat email domain tersebut bisa diteruskan ke email sehari hari kita, konfigurasi kan saja ke Gmail atau Yahoo, apapun provider email-nya.
 
-<img src="/img/remote/send-email-literasiblog.png" alt="Cloudflare Email Routing">
+{% image "./img/remote/send-email-literasiblog.png", "Cloudflare Email Routing" %}
 
 Langkah awalnya, kita harus verifikasi dulu email asli-nya setelah itu kita update DNS domainnya di MX record dan TXT sesuai arahan Cloudflare, MX untuk menerima email dan TXT meneruskan ke provider email asli-nya.
 

@@ -183,7 +183,7 @@ $ eleventy --serve
 
 Tinggal kamu coba di browser favorit kamu, di case ini berarti format linknya seperti ini http://localhost:8081/wedding/prince-seinfeld/
 
-<img src="/img/remote/screenshot-prince-wedding.png" alt="Gambaran undangan digital nikah dicoba" />
+{% image "./img/remote/screenshot-prince-wedding.png", "Gambaran undangan digital nikah dicoba" %}
 
 Jadi sudah kelihatan ya, nama undangan tertera di halaman dan menggunakan link atas nama tamu-nya. Ini bisa kamu ekspansikan entah itu menambah catatan khusus atau foto yang ingin kamu share ke beberapa tamu paling dekat. Kamu bisa tanya tanya atau coba sendiri dengan [Eleventy.](https://11ty.dev)
 

@@ -5,7 +5,7 @@ const readFileSync = require("fs").readFileSync;
 const existsSync = require("fs").existsSync;
 const metadata = require("../_data/metadata.json");
 const GA_ID = require("../_data/googleanalytics.js")();
-const { parseHeaders } = require("../_11ty/apply-csp");
+// const { parseHeaders } = require("../_11ty/apply-csp");
 
 /**
  * These tests kind of suck and they are kind of useful.
@@ -92,15 +92,15 @@ describe("check build output for a generic post", () => {
       expect(count).to.equal(1);
     });
 
-    it("should have a good CSP", () => {
-      assert(existsSync("./_site/_headers"), "_header exists");
-      const headers = parseHeaders(
-        readFileSync("./_site/_headers", { encoding: "utf-8" })
-      );
-      POST_PATH;
-      expect(headers).to.have.key(POST_PATH);
-      expect(headers).to.have.key(`${POST_PATH}index.html`);
-    });
+    // it("should have a good CSP", () => {
+    //   assert(existsSync("./_site/_headers"), "_header exists");
+    //   const headers = parseHeaders(
+    //     readFileSync("./_site/_headers", { encoding: "utf-8" })
+    //   );
+    //   POST_PATH;
+    //   expect(headers).to.have.key(POST_PATH);
+    //   expect(headers).to.have.key(`${POST_PATH}index.html`);
+    // });
 
     it("should have accessible buttons", () => {
       const buttons = doc.querySelectorAll("button");

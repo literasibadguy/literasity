@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img alt="Tangga Poster" style="width: 600px;" src="/img/remote/tangga-poster.png" />
+{% image "./img/remote/tangga-poster.png", "Tangga Poster" %}
 
 <br/>
 <br/>

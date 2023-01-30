@@ -14,7 +14,7 @@ Sayangnya, iMac ku ga bisa download Xcode terbaru, kebetulan aku belum bisa perp
 
 Aplikasi yang bakal ku bangkitkan, <a href="https://github.com/literasibadguy/Zebra-App" target="_blank">Zebra App</a>, ni aplikasi dua tahun ga ku sentuh, kode-nya masih solid, publik di github profil literasibadguy, bakal ku tambah fitur yang ada potensi.
 
-<img src="/img/remote/zebra-poster-1.jpg" alt="Zebra Poster NOBODY PAY FOR JUNK APP" />
+{% image "./img/remote/zebra-poster-1.jpg", "Zebra Poster NOBODY PAY FOR JUNK APP" %}
 
 Berpotensi, kenapa? - Ini aplikasi fungsinya hampir sama dengan Pinterest, beda-nya, beda perpustakaan, koleksi-nya langka langka, lebih ke homemade inspirasi-nya. Sudah diakui para users, hingga salah satunya email aku.
 
@@ -26,7 +26,7 @@ Karena Macbook Pro ku gak salah 2016-2017, Core i7, RAM 16GB dan waktu itu belin
 
 Kebetulan adik ku baru bekerja juga, dia butuh laptop performa bagus untuk pekerjaan desain, jadi aku pinjamkan dan masalah solusi <a href="https://rapidrepair.in/blog/flexgate-issue-with-macbook-pro-display/" target="_blank">flexgate</a>, kami patungan beli monitor sementara 24inch.
 
-<img src="/img/remote/imac-xcode-not-support.jpg" alt="XCode needs a new macos and of course new mac" />
+{% image "./img/remote/imac-xcode-not-support.jpg", "XCode needs a new macos and of course new mac" %}
 
 Sekarang aku gunain iMac.
 
