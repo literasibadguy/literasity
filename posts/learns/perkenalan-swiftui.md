@@ -49,9 +49,12 @@ struct HelloView_Previews: PreviewProvider {
 
 ```
 
+Ayo kita coba tanpa menulis kode nya dengan SwiftUI, dengan daftar pilihan interface SwiftUI di XCode, dengan mengklik tombol '+' di bagian atas kanan, langsung drag dan drop ke editor code-nya, otomatis kasih nambah baris satu di situ
+
+
 Pertama kamu harus mengenal layout-nya dulu, ada tiga komponen yang bakal sering kamu gunakan selama mendesain interface
 
-VStack, HStack dan ZStack
+**VStack, HStack dan ZStack**
 
 VStack, susunan dalam vertical
 
@@ -115,6 +118,33 @@ Beberapa catatan yang ku temukan
 * VStack hanya kasih maksimum 8 objek di dalam layoutnya, apapun itu objeknya, namun jika ku beri daftar Teks lebih dari 10 itu tidak masalah
 
 
-
-
 Komponen penting 
+
+
+## Navigasi ke View Lain
+
+Kita sudah tahu konsep sederhana SwiftUI, sekarang bagaimana link ke view lain, sekarrang kita buat file baru OrderToastView, sebagai View baru.
+
+Kita implementasikan contoh ZStack yang di atas di dalam file OrderToastView, tinggalkan sebentar. Kembali ke file ContentView, kita tambah NavigationView sebagai akar struktur class Body-nya paling atas, ini menandakan View tersebut sebagai awal mula Navigasi app kita.
+
+```swift
+struct ContentView: View {
+    NavigationView {
+        ...
+        VStack {
+            NavigationLink(destination: OrderToastView()) {
+                Label("Pesan Toast", systemImage: "folder")
+            }
+        }
+        ...
+    }
+}
+```
+
+Sekarang kita selipkan NavigationLink, di mana destinasi View kita selanjutnya, tulis View terbaru OrderToastView yang kita buat sebelumnya. Jika berhasil, kamu bisa langsung coba lihat di bagian kanan Preview, label tulisan nya berubah warna biru.
+
+Coba langsung klik di situ, navigasi berhasil membawa ke View OrderToast
+
+## Kesimpulan
+
+Sekilas, mengenal SwiftUI sudah membuatmu dapat kan feelingnya untuk eksperimen berikutnya, implementasi nya sederhana, ditambah dinamis dan integrasinya kuat, untuk selanjutnya aku bakal nambah tutorial bagaimana SwiftUI menhandling data dan kita juga belajar @State, untuk input data dan interaksi interface-nya.
