@@ -1,8 +1,8 @@
 ---
 title: Aku tidak lagi menerima proyek Android
-description: Melihat sejarahnya TikTok
-date: 2023-01-29
-scheduled: 2023-01-29
+description: Pengalaman segalanya
+date: 2023-02-09
+scheduled: 2023-02-09
 tags:
   - another-tag
 layout: layouts/post.njk
