@@ -18,7 +18,7 @@ Jadi aplikasi memang diperuntukkan untuk riset referensi, terutama di bidang kre
 
 Fokus ke iOS, aku bisa kembangkan kualitas produk yang ditawarkan di aplikasi ini, Kurva Pass, akses fitur offline agar pengguna bisa membangun arsip sendiri dari referensi yang mereka dapatkan. 
 
-# Cara menggunakan Kurva
+## Cara menggunakan Kurva
 
 Kurva terinspirasi dari istilah Mood Board, apa itu Mood Board? Mood Board mungkin salah satu proses untuk orang membangun papan riset-nya, yang isinya ide, referensi punya koneksi satu sama lain, yang membuat Creator Innovator Desainer terasa sudah membayangkan atau berimajinasi untuk kreasi selanjutnya.
 
@@ -67,6 +67,14 @@ Semoga aplikasi ini bermanfaat ya bagi yang menggunakannya, aku terus coba berus
 
 *Artikel halaman Kurva ini kemungkinan akan di-revisi kedepannya.*
 
+## Catatan log
+
+**2 Februari 2022**
+
+v1.8.2
+
+- Ada beberapa pengguna yang mengalami black screen tanpa screen saat mengklik konten secara detail dan di versi ini sudah ku fix, API nya agak sedikit memberi respon lama saat mengambil data konten, apalagi gambar. Jadi ku kasih trik dengan mengambil data konten sementara dari feed konten-nya.
+- Aku menambah fitur Bookmarks, biar pengguna bisa menyimpan katalog-nya atau *Channel*, ga merasa kehilangan
 
 
 
