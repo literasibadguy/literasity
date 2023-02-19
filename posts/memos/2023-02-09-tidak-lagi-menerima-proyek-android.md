@@ -30,4 +30,4 @@ Aku paling jarang dapat permintaan aplikasi iOS untuk kebutuhan B2B atau Enterpr
 
 Namun, untuk bicara kualitas di app Android, butuh minimal pengembangan dua tahun untuk sampai di titik stabil. Sedangkan kadang client atau kebutuhan pasar butuhnya cepat, belum tentu yang dirilis Google Play bisa beroperasi yang kita harapkan.
 
-Semoga ini bisa jadi keputusan yang terbaik untuk ku, aku hanya mau melihat jangka panjang di sini.
+Semoga ini bisa jadi keputusan yang terbaik, aku hanya mau melihat jangka panjang di sini.
