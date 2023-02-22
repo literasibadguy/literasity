@@ -69,18 +69,22 @@ Semoga aplikasi ini bermanfaat ya bagi yang menggunakannya, aku terus coba berus
 
 ## Catatan log
 
-**2 Februari 2022**
+**2 Februari 2023**
 
 v1.8.2
 
 - Ada beberapa pengguna yang mengalami black screen tanpa screen saat mengklik konten secara detail dan di versi ini sudah ku fix, API nya agak sedikit memberi respon lama saat mengambil data konten, apalagi gambar. Jadi ku kasih trik dengan mengambil data konten sementara dari feed konten-nya.
 - Aku menambah fitur Bookmarks, biar pengguna bisa menyimpan katalog-nya atau *Channel*, ga merasa kehilangan
 
+**22 Februari 2023**
 
+{% image "./img/remote/kurva-poster.jpg", "Kurva Official Poster" %}
 
+v1.8.3
 
-
-
-
+- menambahkan opsi "Light Mode", untuk mengganti tema ke warna putih
+- Untuk performa Offline Library sekarang signifikan lebih cepat dari versi sebelumnya, selama ini aku menggunakan SQL BLOB, ga rekomendasi untuk arsip ribuan konten, jadi untuk data konten aku alihkan ku simpan di File Directory iOS, ini termasuk milestone juga, karena sebelumnya aku belum pernah reading dan writing Data dalam iOS, SQL hanya menyimpan lokasi data tersebut dan file identifier-nya. Tapi ini belum berlaku di GIF sebenarnya dan format dokumen lainnya.
+- Ada improvement untuk download seluruh konten di Channel-nya
+- Kurva merilis poster official-nya.
 
 
