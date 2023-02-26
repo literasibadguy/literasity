@@ -14,8 +14,6 @@ Sayangnya, iMac ku ga bisa download Xcode terbaru, kebetulan aku belum bisa perp
 
 Aplikasi yang bakal ku bangkitkan, <a href="https://github.com/literasibadguy/Zebra-App" target="_blank">Zebra App</a>, ni aplikasi dua tahun ga ku sentuh, kode-nya masih solid, publik di github profil literasibadguy, bakal ku tambah fitur yang ada potensi.
 
-{% image "./img/remote/zebra-poster-1.jpg", "Zebra Poster NOBODY PAY FOR JUNK APP" %}
-
 Berpotensi, kenapa? - Ini aplikasi fungsinya hampir sama dengan Pinterest, beda-nya, beda perpustakaan, koleksi-nya langka langka, lebih ke homemade inspirasi-nya. Sudah diakui para users, hingga salah satunya email aku.
 
 Adek adek ku mengakui perlu meneruskan Zebra bangkit lagi.

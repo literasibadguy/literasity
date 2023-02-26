@@ -88,3 +88,10 @@ v1.8.3
 - Kurva merilis poster official-nya.
 
 
+**25 Februari 2023**
+
+v1.8.4
+
+- Membetulkan Crash saat kembali dari Detail Content ke Feed, ada kesalahan di Collection View Layout, kali ini menggunakan Compositional Layout, yang hanya support iOS 13 ke atas, dari API-nya
+- Aku menambah placeholder di Image View, berbeda placeholder antara dark dan light mode
+- Fix offline library untuk menampilkan seluruh konten, sudah mulai pede untuk menampilkan 10,000 konten dalam satu koleksi, tapi ini ku pelajari lagi lebih dalam nanti.
