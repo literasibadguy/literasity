@@ -3,13 +3,12 @@ title: Kesan Pertama Mengenal SwiftUI
 description: Di sini aku akan men-eksplor pengembangan app dengan SwiftUI
 date: 2023-02-04
 scheduled: 2023-02-04
-draft: true
 tags:
   - another-tag
 layout: layouts/post.njk
 ---
 
-Kali ini kita belajar perkenalan mengembangkan app iOS, menggunakan SwiftUI.
+Pengen perkenalan mengembangkan app iOS, menggunakan SwiftUI.
 
 SwiftUI paling nyaman untuk yang baru belajar iOS dev
 
@@ -50,7 +49,6 @@ struct HelloView_Previews: PreviewProvider {
 ```
 
 Ayo kita coba tanpa menulis kode nya dengan SwiftUI, dengan daftar pilihan interface SwiftUI di XCode, dengan mengklik tombol '+' di bagian atas kanan, langsung drag dan drop ke editor code-nya, otomatis kasih nambah baris satu di situ
-
 
 Pertama kamu harus mengenal layout-nya dulu, ada tiga komponen yang bakal sering kamu gunakan selama mendesain interface
 
@@ -113,30 +111,39 @@ Yang menarik di sini, SwiftUI punya resiko rendah jika melakukan kesalahan, sepe
 
 Tapi ada aturan nya di sini, selama semua komponen tersebut dalam satu Layout, walaupun aku kasih komponen di luar layout, SwiftUI kasih halaman baru untuk View tersebut
 
-Beberapa catatan yang ku temukan
+catatan yang ku temukan
 
 * VStack hanya kasih maksimum 8 objek di dalam layoutnya, apapun itu objeknya, namun jika ku beri daftar Teks lebih dari 10 itu tidak masalah
 
-
-Komponen penting 
-
-
 ## Navigasi ke View Lain
 
-Kita sudah tahu konsep sederhana SwiftUI, sekarang bagaimana link ke view lain, sekarrang kita buat file baru OrderToastView, sebagai View baru.
+Kita sudah tahu konsep sederhana SwiftUI, sekarang bagaimana link ke view lain, sekarang kita buat file baru OrderToastView, sebagai View baru.
+
+```swift
+struct OrderToastView: View {
+    public var body: some View {
+            NavigationView {
+                VStack {
+                    Text("Pesanan Order Anda")
+                    Text("Big Cheese Sandwiches: 1x Item")
+                }
+            }
+    }
+}
+```
 
 Kita implementasikan contoh ZStack yang di atas di dalam file OrderToastView, tinggalkan sebentar. Kembali ke file ContentView, kita tambah NavigationView sebagai akar struktur class Body-nya paling atas, ini menandakan View tersebut sebagai awal mula Navigasi app kita.
 
 ```swift
 struct ContentView: View {
-    NavigationView {
-        ...
-        VStack {
-            NavigationLink(destination: OrderToastView()) {
-                Label("Pesan Toast", systemImage: "folder")
+    public var body: some View {
+        NavigationView {
+            VStack {
+                NavigationLink(destination: OrderToastView()) {
+                    Label("Pesan Toast", systemImage: "folder")
+                }
             }
         }
-        ...
     }
 }
 ```
@@ -147,4 +154,4 @@ Coba langsung klik di situ, navigasi berhasil membawa ke View OrderToast
 
 ## Kesimpulan
 
-Sekilas, mengenal SwiftUI sudah membuatmu dapat kan feelingnya untuk eksperimen berikutnya, implementasi nya sederhana, ditambah dinamis dan integrasinya kuat, untuk selanjutnya aku bakal nambah tutorial bagaimana SwiftUI menhandling data dan kita juga belajar @State, untuk input data dan interaksi interface-nya.
+Sekilas, mengenal SwiftUI sudah membuatmu dapat kan feelingnya untuk eksperimen berikutnya, implementasi nya sederhana, ditambah dinamis dan integrasinya kuat. Tutorial ini mungkin suatu saat akan ku revisi kembali dan menambah beberapa media contohnya dan jangan ketinggalan tutorial selanjutnya untuk SwiftUI.
