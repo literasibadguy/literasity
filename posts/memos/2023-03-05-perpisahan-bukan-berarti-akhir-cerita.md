@@ -1,6 +1,6 @@
 ---
 title: Perpisahan Bukan Berarti Akhir Cerita
-description: Ga tinggal sama aku
+description: Aku belum ketemu dia sejak itu.
 date: 2023-03-05
 scheduled: 2023-03-05
 draft: true

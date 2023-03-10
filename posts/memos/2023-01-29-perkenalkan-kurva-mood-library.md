@@ -95,3 +95,11 @@ v1.8.4
 - Membetulkan Crash saat kembali dari Detail Content ke Feed, ada kesalahan di Collection View Layout, kali ini menggunakan Compositional Layout, yang hanya support iOS 13 ke atas, dari API-nya
 - Aku menambah placeholder di Image View, berbeda placeholder antara dark dan light mode
 - Fix offline library untuk menampilkan seluruh konten, sudah mulai pede untuk menampilkan 10,000 konten dalam satu koleksi, tapi ini ku pelajari lagi lebih dalam nanti.
+
+**9 Maret 2023**
+
+v1.8.5
+
+- Aku menambahkan support bahasa Indonesia, Jepang dan Chinese, tapi aku baru sadar halaman Search belum ku lokalisasi juga, ini PR untuk versi selanjutnya
+- Aku membetulkan miskomunikasi antara konten teks dan gambar, saat mengklik konten teks, yang keluar malah konten gambar, ada yang menyangkut ternyata
+- Aku membetulkan saat pengguna mencoba masuk ke Sumber konten-nya, ini akan masuk ke Web Browser sendiri.
