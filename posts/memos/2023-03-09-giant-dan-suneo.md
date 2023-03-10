@@ -131,3 +131,5 @@ Aku doakan mereka sehat selalu, sukses, sehat terus, mungkin mereka punya cita c
 Mereka inspirasi ku untuk tetap berjamaah di masjid.
 
 *Giant dan Suneo hanya nama samaran mereka untuk tulisan ini, bukan bermaksud mencerminkan karakter.*
+
+*Catatan: Kakaknya sudah menikah dan berkeluarga*
