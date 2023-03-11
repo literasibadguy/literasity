@@ -28,7 +28,7 @@ Inisialnya P, dia menjawab dengan nama panjang dan suara lantang
 
 Aku sedikit malu memperhatikan orang orang sekitar, kesan suaranya yang keras dan aku memperkenalkan diriku balik.
 
-"Jadi *Suneo tinggal di mana?" aku 
+"Jadi *Suneo tinggal di mana?" aku tanya
 
 "Di komplek depan bla bla bla.." kembali dengan suara keras-nya tapi tidak berekspresi
 

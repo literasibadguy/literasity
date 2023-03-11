@@ -15,6 +15,12 @@ Beberapa tulisan sebelumnya aku tulis lewat Inggris, kalo lagi mood nulis nulis 
 
 Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website rekomendasi Google, ku online-kan dengan serverless dari [Cloudflare Workers](https://workers.cloudflare.com/). Dibantu dengan [template](https://github.com/11ty/eleventy-base-blog)
 
+## Support
+
+Aku butuh dukungan teman teman lewat [Saweria](https://saweria.co/literasibadguy), biar nulisnya mengalir aja, untuk modal ngopi, modal beli kuota untuk upload, modal untuk bayar servernya.
+
+Atau kamu bisa [Tip lewat PayPal](https://paypal.me/firasraf)
+
 *Source*
 
 1. [literasi.blog Feed](https://literasi.blog/feed/feed.xml)
