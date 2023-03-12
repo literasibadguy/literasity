@@ -3,7 +3,6 @@ title: Warung Kopi Mafia
 description: Warung Kopi persinggahan ku di kampung 
 date: 2023-03-12
 scheduled: 2023-03-12
-draft: true
 tags:
   - another-tag
 layout: layouts/post.njk
@@ -13,11 +12,15 @@ Kalau pulang kampung ke Sekura di Sambas, wajib mampir ke markas ku nongkrong ng
 
 Warung kopi ini selalu kelihatan tertutup, pintu terbuka setengah, kalau mau ngopi di situ, mesti ngetuk dulu
 
-Aku biasanya ga pergi sendirian, sama keluarga kerabat depan rumah di Kampung, aku manggilnya Paksu, jualan alat komputer di situ.
+Aku biasanya ga pergi sendirian, sama keluarga kerabat depan rumah di Kampung, aku manggilnya Paksu, dagang alat komputer di situ.
 
-Kalau setiap mau meluncur ngopi, selalu tutup, kecuali anggota yang kasih perintah
+Pasar Sekura ga jauh dari rumah, kalau jalan kaki sekitar 7 menit.
 
-"NGAH OH NGAH, BUKA NGAH", pemilik di dalam, ga perlu nanya siapa yang ngetok, suara anggota Mafia udah jadi passwordnya
+"DAH KITE NGOPI DAH, TEMPAT KITEE" paksu ngajakin
+
+Datang ke sana, seperti di tengah tengah pasar film film koboi, gersang hanya satu motor terparkir di depannya.
+
+Sampai anggota yang kasih perintah, "NGAH OH NGAH, BUKA NGAH", pemilik di dalam, ga perlu nanya siapa yang ngetok, suara anggota Mafia udah jadi passwordnya
 
 "AOK AOK" pemiliknya, aku memanggilnya Aki Uli, baku-nya Kakek Uli, terdengar suara sendal terseret menuju ke pintu
 
@@ -35,7 +38,7 @@ Dibukakan pintu kayu lipatnya, kalau pergi ke pasar kampung orang, rata rata pin
 
 Pintu-nya hanya terbuka seperempat, sebenarnya masih bisa buka penuh, tapi orang orang sekitar tahu ini warung kopi selalu buka, hanya para anggota Mafia yang ngopi di situ, siang malam.
 
-Para anggota Mafia-nya, dari kalangan pedagang, pengusaha kecil kecil-an
+Para anggota Mafia-nya, dari kalangan pedagang, pengusaha kecil kecil-an, 5 sampai 7 anggota aku hitung selama ngopi di situ, aku hanya tamu spesial kunjungan, hitung kursi di dalam belum tentu mencukupi keuntungan bulanan menurut ku, satu gelas 5000 ribu untuk pesanan ku.
 
 Pembeli dari luar, rata rata pada minta bungkus kan minumnya, kata aki uli, teh susu-nya paling populer untuk kalangan muda. Teh-nya menggunakan merek teh sejak dari zaman belanda-nya, kata-nya. Tapi aku coba, memang aroma-nya beda.
 
@@ -79,9 +82,9 @@ Aki Uli langsung siapkan kopinya tanpa arahan pesanan "NDA'AN KE ANGIN KUAT NAK 
 
 Sedikit calem, tapi dia senang bicara hasil pancingannya "SEGITOK TANGKAPAN KAMEK YOO, NDA'AN LALU PERNAH GITOK"
 
-Paksu satu menawarkan cemilan orang sekura "BANG ADE JUAL UBI DI BELAKANG, PAKSU BELIKAN"
+Paksu satu menawarkan cemilan orang sekura "BANG ADE JUAL UBI DI BELAKANG, TUNGGU LOK PAKSU BELIK"
 
-Aku iya iya aja, ubinya dipotong seperti salad semangka, dengan saus kental khasnya, paling cocok untuk hari hari hujan sambil ngopi.
+Ubinya dipotong seperti salad semangka, dengan saus kental khasnya, paling cocok untuk teman hari hari hujan sambil ngopi.
 
 "YOO ADE BADMINTON TANDING HARI INI ITOK" Paksu satu semangat, warung kopi ini dipenuhi dengan piala piala Badminton dan foto foto masa muda Aki Uli yang hobi bulutangkis, jadi dekorasi memenuhi dinding warung kopi ini, serasi dengan umur dapurnya, kayu kayu belian antik yang masih kokoh.
 
