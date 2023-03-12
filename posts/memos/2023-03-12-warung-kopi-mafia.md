@@ -9,13 +9,13 @@ tags:
 layout: layouts/post.njk
 ---
 
-Dear Friends
-
 Kalau pulang kampung ke Sekura di Sambas, wajib mampir ke markas ku nongkrong ngopi, aku menyebutnya warung kopi mafia
 
 Warung kopi ini selalu kelihatan tertutup, pintu terbuka setengah, kalau mau ngopi di situ, mesti ngetuk dulu
 
-Aku biasanya ga pergi sendirian, sama keluarga depan rumah di Kampung, aku manggilnya Paksu, jualan alat komputer di situ.
+Aku biasanya ga pergi sendirian, sama keluarga kerabat depan rumah di Kampung, aku manggilnya Paksu, jualan alat komputer di situ.
+
+Kalau setiap mau meluncur ngopi, selalu tutup, kecuali anggota yang kasih perintah
 
 "NGAH OH NGAH, BUKA NGAH", pemilik di dalam, ga perlu nanya siapa yang ngetok, suara anggota Mafia udah jadi passwordnya
 
@@ -37,7 +37,7 @@ Pintu-nya hanya terbuka seperempat, sebenarnya masih bisa buka penuh, tapi orang
 
 Para anggota Mafia-nya, dari kalangan pedagang, pengusaha kecil kecil-an
 
-Pembeli dari luar, rata rata pada minta bungkus kan minumnya, kata aki uli, teh susu-nya paling populer untuk kalangan muda. Teh-nya menggunakan merek teh yang suda sejak dari zaman belanda-nya, kata-nya. Tapi aku coba, memang aroma-nya beda.
+Pembeli dari luar, rata rata pada minta bungkus kan minumnya, kata aki uli, teh susu-nya paling populer untuk kalangan muda. Teh-nya menggunakan merek teh sejak dari zaman belanda-nya, kata-nya. Tapi aku coba, memang aroma-nya beda.
 
 Sambil nunggu kopi, datang anggota lainnya, kali ini Paksu kedua datang
 
@@ -59,7 +59,7 @@ Sedangkan aku hanya menikmati kopi, mendengar diskusi mereka.
 
 "UDAH, LAGI NUNGGU PESANAN BATERAI NYA TOK"
 
-"BANG, KINI ORANG SEKURA DAH BANYAK MAKAI SEPEDA LISTRIK. NYAMAN LALU GANTI BATERAI-NYA"
+"BANG, KINI ORANG SITOK DAH BANYAK MAKAI SEPEDA LISTRIK. NYAMAN LALU GANTI BATERAI-NYA"
 
 "DAH KITE BUKA BENGKEL SEPEDA LISTRIK DAH" Paksu satu punya ide, sambil ambil remote, hidupin TV, tangan satu-nya setup wifi di hape
 
@@ -87,15 +87,15 @@ Aku iya iya aja, ubinya dipotong seperti salad semangka, dengan saus kental khas
 
 Ini baru ngopi ronde siang, belum ngopi ronde malam
 
-Ronde malam, siap siap ngopinya bersama kerumunan nyamuk, Aki Uli selalu siap obat nyamuk di bawah
+Ronde malam, siap siap ngopinya sama kerumunan nyamuk, Aki Uli selalu siap obat nyamuk di bawah
 
-jam jam setelah Isyah, kami meluncur, kali ini perginya ama paksu kedua
+jam jam setelah Isya, kami meluncur, kali ini perginya ama paksu kedua
 
 "OH NGAH " ngetuk ngetuk pintu, pas malam sentimen setelah hujan gerimis, sisa sisa hujan masih turun
 
 Suara sendal terdengar terseret menuju pintu
 
-Pasar di kampung terasa sepi, pedagang sudah menutup bisnis mereka, kami sendiri terbuka dengan satu lipatan pintu terbuka
+Pasar di kampung terasa sepi, pedagang sudah menutup bisnis mereka, kami sendiri terbuka dengan satu lipatan pintu nongol ke depan, dengan cahaya dari toko
 
 Datang seorang ibu bermotor dengan anaknya, membawa kue dengan dua loyang beserta tempatnya. Kue gula merah, orang sana menyebutnya Kue Kuk atau *Coke*
 
@@ -123,7 +123,7 @@ Jadi Aki Uli sebenarnya sudah lama sebagai partner kerja-nya si Atung.
 
 Memang rezeki-nya Aki Uli bisa jalananin warung kopi sendiri berkat si Atung, berbeda dengan warung kopi mafia, Si Atung buka setiap hari dari Jam Subuh sekitar jam 3 hingga menjelang jam Zuhur.
 
-Warung kopi Mafia hanya buka jika aku melihat dari jauh pintu sebagian nya terbuka atau ada anggota langganan ngetok pengen ngopi.
+Warung kopi Mafia buka jika aku melihat dari jauh pintu sebagian nya nongol ke depan, tanda-nya ada anggota langganan lagi ngopi.
 
 
 

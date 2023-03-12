@@ -15,18 +15,20 @@ Beberapa tulisan sebelumnya aku tulis lewat Inggris, kalo lagi mood nulis nulis 
 
 Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website rekomendasi Google, ku online-kan dengan serverless dari [Cloudflare Workers](https://workers.cloudflare.com/). Dibantu dengan [template](https://github.com/11ty/eleventy-base-blog)
 
-## Support
+## Dukungan kamu
 
-Aku butuh dukungan teman teman lewat [Saweria](https://saweria.co/literasibadguy), biar nulisnya mengalir aja, untuk modal ngopi, modal beli kuota untuk upload, modal untuk bayar servernya.
+Aku butuh [dukungan teman teman](https://saweria.co/literasibadguy) ni sawernya, untuk modalin website ini tetap hidup, modal ngopi sambil menulis, modal bayar Internet untuk upload, sama pulpen biru dengan kertas kuning. Kalau pas malam minggu, beli martabak manis depan rumah.
 
 Atau kamu bisa [Tip lewat PayPal](https://paypal.me/firasraf)
+
+Terima kasih atas semua-nya.
 
 *Source*
 
 1. [literasi.blog Feed](https://literasi.blog/feed/feed.xml)
 2. [literasi.blog JSON Feed](https://literasi.blog/feed/feed.json)
 3. [literasibadguy Instagram](https://instagram.com/literasibadguy)
-4. [Firas Rafislam Surat Elektronik](mailto:firas@literasi.blog)
+4. [Firas Rafislam Surat Elektronik](mailto:firas@literasi.blog?subject=Sponsor)
 
 Semoga Bermanfaat,
 Bad Guy Express
