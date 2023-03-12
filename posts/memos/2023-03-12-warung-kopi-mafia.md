@@ -18,7 +18,7 @@ Pasar Sekura ga jauh dari rumah, kalau jalan kaki sekitar 7 menit.
 
 "DAH KITE NGOPI DAH, TEMPAT KITEE" paksu ngajakin
 
-Datang ke sana, seperti di tengah tengah pasar film film koboi, gersang hanya satu motor terparkir di depannya.
+Datang ke sana, seperti di tengah tengah pasar film film koboi, gersang hanya satu motor terparkir di depannya, seperti dagangan memang sudah tutup lama.
 
 Sampai anggota yang kasih perintah, "NGAH OH NGAH, BUKA NGAH", pemilik di dalam, ga perlu nanya siapa yang ngetok, suara anggota Mafia udah jadi passwordnya
 
@@ -40,7 +40,7 @@ Pintu-nya hanya terbuka seperempat, sebenarnya masih bisa buka penuh, tapi orang
 
 Para anggota Mafia-nya, dari kalangan pedagang, pengusaha kecil kecil-an, 5 sampai 7 anggota aku hitung selama ngopi di situ, aku hanya tamu spesial kunjungan, hitung kursi di dalam belum tentu mencukupi keuntungan bulanan menurut ku, satu gelas 5000 ribu untuk pesanan ku.
 
-Pembeli dari luar, rata rata pada minta bungkus kan minumnya, kata aki uli, teh susu-nya paling populer untuk kalangan muda. Teh-nya menggunakan merek teh sejak dari zaman belanda-nya, kata-nya. Tapi aku coba, memang aroma-nya beda.
+Pembeli dari luar, rata rata pada minta bungkus kan minumnya, kata aki uli, teh susu-nya paling populer untuk kalangan muda. Teh-nya menggunakan merek teh sejak dari zaman Belanda kata-nya. Tapi aku coba, memang aroma-nya beda.
 
 Sambil nunggu kopi, datang anggota lainnya, kali ini Paksu kedua datang
 
@@ -50,9 +50,9 @@ Masih cara orang doeloe bikin kopi, Aki uli dengan pelan sambil manaskan air men
 
 Aku sambil duduk menghadap lawanan dengan dapurnya Aki Uli, paksu yang menbawakan kopi-nya ke meja ku setelah jadi.
 
-Mulai obrolan antara kami, rata rata apa yang terjadi sekarang di kampung, cari tontonan bagus untuk ngopi malam, kebanyakan ngomongin soal bisnis
+Mulai obrolan antara kami, rata rata apa yang terkini di kampung, cari tontonan bagus untuk ngopi malam, bisnis, kerabat keluarga.
 
-Setiap hari yang duduk untuk ngopi berinterasi, aku menyebutnya mereka anggota mafia, duduk di tengah siang bolong tanpa ada sinar matahari masuk, hanya asap rokok dan bau kopi mengendap di situ, bicara soal bisnis.
+Duduk di tengah siang bolong, hanya asap rokok dan bau kopi mengendap di situ.
 
 "YOO ADE KAWAN DARI SINGKAWANG NAWARKAN MEREK BAGUS, NGASIH HARGA 3 JUTA, AKU AMBIL LANGSONG, TAPI BATERAI NAK DIGANTI" Paksu satu buka bicara
 
@@ -116,7 +116,7 @@ Atung ini adalah seorang pengusaha warung kopi terkenal di Sekura, karena jualan
 
 "AOK.. NDA'AN PERNAH DIE BELANJE SORANG" Kata aki uli
 
-"MALAR KAMEK-NYE YANG BELANJA KE SAMBAS, NGAMBIL BARANG ROKOK, TEH SUSU-NYE SAME YE DENGAN SI ATONG" Aki Uli membahas operasionalnya si atung
+"MALAR KAMEK-NYE YANG BELANJA KE SAMBAS, NGAMBIL BARANG ROKOK, TEH SUSU-NYE SAME YE DENGAN SI ATUNG" Aki Uli membahas operasionalnya si Atung
 
 "SI ATUNG NDA'AN SEMBARANGAN DIE NGAMBIL BIJI KOPI, DIE SUKE YG BIJIK KACIK KACIK, DIE NDA'AN MAU JUAL BUBUK KOPINYE KE ORANG LAIN"
 
