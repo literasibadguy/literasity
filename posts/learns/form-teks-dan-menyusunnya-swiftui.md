@@ -5,7 +5,7 @@ date: 2023-03-13
 scheduled: 2023-03-13
 draft: true
 tags:
-  - another-tag
+  - learns
 layout: layouts/post.njk
 ---
 
@@ -119,6 +119,8 @@ import SwiftUI
 
 struct HalamanGebetanBaru: View {
 
+  @Environment(\.dismiss) private var dismiss
+
   @State private var namaGebetan: String = ""
   @State private var deskripsi: String = "Ceritakan tentang gebetan baru kamu.."
   @State private var prioritas: Bool = false
@@ -153,3 +155,7 @@ struct HalamanGebetanBaru: View {
   }
 }
 ```
+
+Ada bonus pelajaran yang ku dapati di sini, untuk keluar dari HalamanGebetanBaru, aku butuh fungsi dismiss, jadi aku harus pinjam **@Environment** dismiss untuk bantuk aku keluar dan kembali ke daftar gebetan
+
+Akhirnya aku bisa menambah gebetan baru, sekarang aku butuh untuk menampilkan gebetan gebetan ku di induk kita.

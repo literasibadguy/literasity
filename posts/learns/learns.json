@@ -1,0 +1,6 @@
+{
+	"tags": ["learns"],
+	"excludeFromSidebar": true,
+	"layout": "layouts/post.njk",
+	"permalink": "posts/learns/{{ page.fileSlug }}/"
+}

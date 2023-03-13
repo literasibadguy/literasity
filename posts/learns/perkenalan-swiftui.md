@@ -4,7 +4,7 @@ description: Di sini aku akan men-eksplor pengembangan app dengan SwiftUI
 date: 2023-02-04
 scheduled: 2023-02-04
 tags:
-  - another-tag
+  - learns
 layout: layouts/post.njk
 ---
 

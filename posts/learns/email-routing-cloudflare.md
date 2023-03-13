@@ -1,10 +1,9 @@
 ---
+tags: learns
 title: Kecil Tapi Manfaatnya Gede Cloudflare Email Routing
 description: Ga perlu langganan Google Workspace lagi
 date: 2022-12-28
 scheduled: 2022-12-28
-tags:
-  - learns
 layout: layouts/post.njk
 ---
 
