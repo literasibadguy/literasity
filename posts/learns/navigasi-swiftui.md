@@ -64,20 +64,23 @@ Bagaimana kita bisa menampilkan anak induknya dari daftar obrolan yang kita buat
 import SwiftUI
 
 struct DaftarGebetanView: View {
+
+  @State private var gebetans: [Gebetan] = []
+
   var body: some View {
     NavigationStack {
-      List {
-        ForEach(gebetans) { gebetan in
-            
-        }.navigationDestination(for: Gebetan.self) { _ in
+      List(gebetans) { gebetan in
+          GebetanItemView(gebetan)
+      }.navigationDestination(for: Gebetan.self) { _ in
             ChatGebetanView()
         }
-      }
     }
   }
 }
 
 ```
+
+Kita selipkan `navigationDestination` setelah `List`, jadi data gebetan nya sudah diteruskan ke halaman obrolan kita `ChatGebetanView`
 
 Sekarang, aku punya gebetan baru, aku ingin memulai obrolan dengan gebetan ku yang satu ini, di halaman tersebut, aku menulis siapa nama gebetan-nya, umur-nya berapa dan menulis nomor hape-nya. 
 
@@ -139,7 +142,9 @@ struct DaftarGebetanView: View {
 
 Catatan untuk aku, untuk menambah Tombol di navigasi atas, entah posisi kiri kanan, gunakan ToolbarItem untuk menampatkan posisi Button-nya.
 
-Aku pelajari, untuk memunculkan halaman dari bawah ke atas, atau Apple sebut 'Presenting Modal', itu membawa data. Jadi kita menempelkan fungsi `.sheet(item: )` dengan membawa data `gebetanBaru`, baru di dalamnya kita panggil `HalamanGebetanBaru()`
+Aku pelajari, untuk memunculkan halaman dari bawah ke atas, atau Apple sebut 'Presenting Modal', syaratnya harus ada data yang ditampung. 
+
+Jadi kita menempelkan fungsi `.sheet(item: )` dengan membawa data `gebetanBaru`, baru di dalamnya kita panggil `HalamanGebetanBaru()`
 
 
 
