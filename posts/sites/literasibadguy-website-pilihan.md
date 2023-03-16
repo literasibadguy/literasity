@@ -21,7 +21,9 @@ Ku jamin ga ada referensi pilihan konsep dapur yang kamu temui di sosmed atau Go
 
 [Hackernews](https://news.ycombinator.com) - Aku butuh sumber terupdate apa diskusi hangat saat ini buat para kalangan IT, ini salah satu kiblatnya.
 
+[Real HTML Editor](https://htmledit.squarefree.com/) real-time Edit HTML langsung di Web
 
+[LessWrong](https://www.lesswrong.com) Ini website rekomendasi yang suka membaca telusuran ilmu ilmu baru, seperti WikiPedia tapi fokusnya teori, argumen, opini dan abstrak ide
 
 *Halaman ini akan terus kami perbaharui..*
 
