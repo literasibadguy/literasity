@@ -103,3 +103,15 @@ v1.8.5
 - Aku menambahkan support bahasa Indonesia, Jepang dan Chinese, tapi aku baru sadar halaman Search belum ku lokalisasi juga, ini PR untuk versi selanjutnya
 - Aku membetulkan miskomunikasi antara konten teks dan gambar, saat mengklik konten teks, yang keluar malah konten gambar, ada yang menyangkut ternyata
 - Aku membetulkan saat pengguna mencoba masuk ke Sumber konten-nya, ini akan masuk ke Web Browser sendiri.
+
+**20 Maret 2023**
+
+v1.8.6
+
+- Tambah support bahaasa Jerman
+- Aku membetulkan di bagian Search, ada ketidaknyambungan saat mencari katalog konten dengan kata kata searchnya
+- Betulin bagian tab Table of Contents-nya, kadang blank saja gitu, kalau kita keluar dari aplikasi, jadi ku tambah tarik untuk refresh
+- Betulin beberapa bug di Web Browser, pastikan link source yang diklik benar benar bekerja ja.
+- Poster promosi Kurva untuk Jepang ku buatkan khusus
+
+{% image "./img/remote/kurva-japan-poster.jpg", "Kurva Official Japanese Poster" %}
