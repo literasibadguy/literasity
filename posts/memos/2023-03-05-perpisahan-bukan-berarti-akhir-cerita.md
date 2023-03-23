@@ -64,5 +64,34 @@ Dan terpana sendiri
 
 ---
 
+Ohh, seorang pelaut ini,
+Tinggi dan saudagar,
+Tak bisa lepas dari pandangan wanita tersebut,
+Dari toko grosir satu satunya di pelabuhan
+Pelaut ini hanya bisa malu
+Namun bersama teman temannya
+Dia seorang pemimpin
+Tak pernah lepas untuk mampir
+Ke toko perempuan tersebut
+Namanya hmmm
+Ingin dua kaleng lemon soda
+Dan satu permen lollipop
+Dan satu ice cream karamel
+Sang pelaut hanya bisa tersenyum
+Saat ingin membayar
+Dan kecewa pergi meninggalkannya
+Berharap yang lebih istimewa di esok hari
+
+Esoknya, sang pelaut tiba tiba kecewa
+Saat lepas pulang berlaut membawa salmon dan tuna
+Tak pernah dia merasa sedih seperti ini
+Teman temannya mengacau dia
+Karena wanita tersebut sudah pergi
+Dan sang pelaut hanya bisa mengirim surat
+Untuknya
+
+Isinya
+“Tunggu aku”
 
 
+---
