@@ -37,7 +37,7 @@ Mama memilih yang lumayan besar
 
 “Totalnya 48ribu, satu lagi bu? Satu lagi?” senyumnya mencoba mama-ku tambah
 
-Bosnya dibelakang, masih muda juga, ambil uang dari tukang potong dan mengasihi kembalian, jaga di kotak kasir isinya cash
+Bosnya dibelakang, masih muda juga, ambil uang dari tukang potong dan mengasihi kembalian, jaga di kotak kasir penuh variasi warna cash
 
 Ibarat di Bank, tukang potong di depan Teller-nya, bos di belakang supervisor
 
