@@ -1,5 +1,5 @@
 ---
-title: Perpisahan Bukan Berarti Akhir Cerita
+title: Tunggu Aku
 description: Aku belum ketemu dia sejak itu.
 date: 2023-03-05
 scheduled: 2023-03-05
@@ -9,61 +9,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Seorang pelaut
-
-Lagi suka ama wanita yang jaga toko depan
-
-pinggir laut, ga jauh dari pelabuhan, kapalnya bermalam
-
-Setiap dia pulang dari berlayar, mampir ke toko grosir, beli minuman andalannya, lemon soda
-
-Wanita ini nampak sederhana dari penampilannya, cantik dan kadang malu malu juga, wanita ini tinggal jauh dari tempat bekerja-nya
-
-Pelaut ini berbadan besar dan tinggi, tinggal bersama ibu-nya, setiap pagi berharap kondisi cuaca baik, laut tenang dan membawa segunung ikan yang bisa dijualnya.
-
-Pelaut ini hanya ingin bahagia bisa menikahi-nya, namun waktu dan realitasnya belum membuka jalan bagi-nya. 
-
-Baru baru ini dia sedang bersedih
-
-wanita tersebut harus pindah ke pelosok sebelah
-
-karena permintaan pekerjaan-nya, tidak ada keberadaan sosok wanita tersebut, membuatnya kadang merasa rindu
-
-Apalagi kalau angin laut sedang kuat, tidak bisa berlayar, kekosongannya memikirkannya
-
-
---
-
-Aku tiba tiba bermimpi seperti seorang pelaut yang lagi jatuh cinta dan seorang wanita yang dicintainya sudah berpisah jauh
-
-Aku bilang begini ke dia
-"Aku sedih kamu ga lagi di sini"
-
-Dia hanya bisa ketawa
-
-"Pokoknya sedih deh"
-
-Pelaut dengan keringat dari panasnya matahari dan angin laut, suka bertemu dengan nya, setelah pulang dari berlayar, membeli minuman favoritnya lemon soda di toko wanita tersebut
-
-Gagahnya, tingginya dan bahu yang lebar, masih lemah untuk mengendalikan perasaannya.
-
-Pelaut ini juga ga bisa berharap, karena dia bertemu wanita yang dicintainya saat dia bekerja, wanita ini innocent dan berpenampilan sederhana
-
-Keesokan harinya dia sudah mulai terasa sedih, saat ingin memulai bekerja, melewatin toko grosir favoritnya, bukan dia lagi, tapi wanita lain.
-
-
----
-
-Kalau cinta dipaksain, bahkan menulis berapa kali, di sekian kertas, tetap gak akan bagus
-
-Tidak berirama, tidak mengalir, gak ada apa apa nya, mending ga usah dbaca
-
-Tapi kalau cinta itu memang sudah didekatkan, menulis terasa seperti sungai mengalir, tidak ada hambatan, senyum senyum sendiri sambil membacanya
-
-Dan terpana sendiri
-
----
-
 Ohh, seorang pelaut ini,
 Tinggi dan saudagar,
 Tak bisa lepas dari pandangan wanita tersebut,
@@ -71,19 +16,24 @@ Dari toko grosir satu satunya di pelabuhan
 Pelaut ini hanya bisa malu
 Namun bersama teman temannya
 Dia seorang pemimpin
+Teman temannya tahu dia menyukai wanita tersebut
 Tak pernah lepas untuk mampir
-Ke toko perempuan tersebut
-Namanya hmmm
+Ke toko wanita tersebut
+Namanya Sindy
 Ingin dua kaleng lemon soda
 Dan satu permen lollipop
 Dan satu ice cream karamel
-Sang pelaut hanya bisa tersenyum
 Saat ingin membayar
+Sang pelaut hanya bisa tersenyum dan terdiam
+Wanita tersipuh malu melihatnya
+Sang pemilik toko suka mengejek sang pelaut
+"Tak pernah lepas rasa rindu awak tu dengan nya" Tua tua pandai bercakap melayu
 Dan kecewa pergi meninggalkannya
 Berharap yang lebih istimewa di esok hari
 
 Esoknya, sang pelaut tiba tiba kecewa
-Saat lepas pulang berlaut membawa salmon dan tuna
+Saat lepas pulang berlaut membawa bahan impor
+Salmon, tuna, sarsaparilla dan rokok
 Tak pernah dia merasa sedih seperti ini
 Teman temannya mengacau dia
 Karena wanita tersebut sudah pergi
@@ -92,6 +42,48 @@ Untuknya
 
 Isinya
 “Tunggu aku”
+Sudah satu bulan tidak ada jawaban
+Sang pelaut merasa kesepian
+tidak ada lawan senyumnya
+Pak tua pemilik toko grosir mengatakan
+"Jika kamu mencintainya, pergi ke alamat ini"
+Dia lagi mengejar cita citanya
+menjadi guru
+Sang pelaut berkata
+"Tidak, biarkan dia mengejar mimpinya"
+
+Sang pelaut hanya bisa termenung
+Teman temannya tidak pernah melihat dia seperti ini
+Minum lemon soda favoritnya
+Menyaksikan matahari terbenam di ujung laut sana
+
+Sang pelaut kembali menulis surat untuknya
+Kali ini alamat yang diberikan dari Pak tua grosir tersebut
+"Aku mendengar kau ingin jadi guru, tak nak khawatir abang dengan awak, mengejar dream nya, saya terus terang rindu dengan kehadiran awak, semoga awak kembali dengan berita bahagia"
+
+Dua hari kemudian, anak sekolahan membawa surat berteriak dari jauh mengendarai sepeda
+"Abang ada surat nah bang, dari si Sindy"
+Pas sang pelaut pulang dari berlaut
+Berlari semangat mengambil surat tersebut
+Teman temannya berkata "Bolehlah dibaca sama sama itu surat"
+
+Sang pelaut tersenyum dan kembali ke toko grosir biasa
+Membeli dua kaleng lemon soda
+Kali ini tambah satu kaleng sardine
+"Benarlah awak makan sardene kalengan, awak kan pelaut" kata pak tua
+"Bukan urusan awaklah, pengen nonton bola ni, sambil makan sardine"
+Pak tua melihat selembar surat yang digenggam si pelaut
+"Dapat kabar dari Sindy ni yee" Pak tua kembali mengejeknya
+Sang pelaut tersenyum saja
+
+Malam sunyi mendengar suara laut
+sang pelaut akhirnya membuka surat tersebut
+"Terima kasih atas perhatian awak kepada saya, saya benar benar terharu dengan surat awak,
+Saya tahu awak menyukai hati Sindy, tapi Sindy belum siap menjadi bagian hati awak,
+Awak tahu kan umur kita terlalu jauh, Sindy masih mengejar cita cita awak, saya tak mahu
+mengecewakan awak nanti di kemudian hari"
+Sang pelaut menangis membaca surat tersebut
+Sampai ibunya mendengar suara tangisannya di atas
 
 
 ---
