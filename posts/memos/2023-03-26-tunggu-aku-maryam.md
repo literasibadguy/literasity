@@ -1,9 +1,8 @@
 ---
 title: Tunggu Aku Maryam
 description: Aku belum ketemu dia sejak itu.
-date: 2023-03-05
-scheduled: 2023-03-05
-draft: true
+date: 2023-03-26
+scheduled: 2023-03-26
 tags:
   - another-tag
 layout: layouts/post.njk
@@ -75,7 +74,7 @@ Kali ini tambah satu kaleng sardine
 "Benarlah awak makan sardene kalengan, awak kan pelaut" kata pak tua
 "Bukan urusan awaklah, pengen nonton bola ni, sambil makan sardine"
 Pak tua melihat selembar surat yang digenggam si pelaut
-"Dapat kabar dari Sindy ni yee" Pak tua kembali mengejeknya
+"Dapat kabar dari Maryam ni yee" Pak tua kembali mengejeknya
 Sang pelaut tersenyum saja
 
 Malam sunyi mendengar suara laut
