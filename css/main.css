@@ -236,6 +236,21 @@ html {
   src: url("/fonts/Inter-3.19.var.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: "Fragment Mono";
+  font-weight: 400;
+  font-style: normal;
+  src: url("/fonts/FragmentMono-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Fragment Mono";
+  font-weight: 400;
+  font-style: italic;
+  src: url("/fonts/FragmentMono-Italic.woff2") format("woff2");
+}
+
+
 /*
 
 The Bahunya CSS framework https://kimeiga.github.io/bahunya/
@@ -1002,7 +1017,7 @@ code[class*="language-"],
 pre[class*="language-"] {
   color: #ccc;
   background: none;
-  font-family: Consolas, Monaco, Andale Mono, Ubuntu Mono, monospace;
+  font-family: Fragment Mono, Consolas, Monaco, Andale Mono, monospace;
   text-align: left;
   white-space: pre;
   word-spacing: normal;
