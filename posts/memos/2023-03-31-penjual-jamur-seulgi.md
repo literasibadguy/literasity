@@ -1,22 +1,20 @@
 ---
-title: Penjual Jamur Mirip Seulgi
+title: Penjual Jamur Keliling Mirip Seulgi
 description: Kadang kalau belanja terbalik
-date: 2023-04-02
-scheduled: 2023-04-02
+date: 2023-04-03
+scheduled: 2023-04-03
 tags:
   - another-tag
-draft: true
 layout: layouts/post.njk
 ---
 
+Keliling pasar ikutin mama
+Sosok wanita sedang bekerja menjual jamur tiram
+Dalam hati ku "Ni cewek mirip Seulgi"
+Berpapasan dengannya
+Ber-topi, berambut panjang hitam, tinggi, pandangan matanya, senyumnya, style-nya kaos hitam ekstra size dan jeans biru, benar dia mirip Seulgi
 
-Kadang aku lewat aja dengannya, sosok wanita
-ber-topi, berambut panjang, tinggi, mata sipitnya, style-nya kaos hitam ekstra size dan jeans biru
-
-Dia suka menongol aja di mana aku lagi keliling di Flmaboyan, sambil memegang keranjang warna merah, kertas HVS bertulisan 'Jamur Premium dijual harga per gram'
-
-Kesan pertama ketemu dengannya
-Dia mirip Seulgi
+Dia sambil memegang keranjang warna merah, kertas HVS bertulisan 'Jamur Tiram Premium dijual harga per gram'
 
 Kadang dia di arah selatan dekat penjual santan
 Kadang dia di arah timur dekat penjual ayam
@@ -26,4 +24,4 @@ tidak setiap hari mereka jualan
 Jamurnya sering laku terjual habis
 
 Aku ingin membeli jamurnya
-Hanya kenalan sama Seulgi
+Demi kenalan sama Seulgi
