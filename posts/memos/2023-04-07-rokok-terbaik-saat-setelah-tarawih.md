@@ -1,5 +1,5 @@
 ---
-title: Imbalan Sebatang Rokok Setelah Tarawih
+title: Sebatang Rokok Koboi Setelah Tarawih
 description: Dia paling ringan hatinya setelah tarawih
 date: 2023-04-09
 scheduled: 2023-04-09
