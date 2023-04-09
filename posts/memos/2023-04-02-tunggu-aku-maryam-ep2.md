@@ -1,99 +1,155 @@
 ---
-title: Tunggu Aku Maryam Ep. 2
-description: Kadang kalau belanja terbalik
-date: 2023-04-02
-scheduled: 2023-04-02
+title: Tunggu Aku Maryam Ep. Terakhir
+description: Tunggu aku maryam masih on the move
+date: 2023-04-09
+scheduled: 2023-04-09
 tags:
   - another-tag
 draft: true
 layout: layouts/post.njk
 ---
 
-Sebelum pelaut membalas suratnya
-Seorang maryam menunggu jam bis sore terakhir
-Duduk sendiri di halte
-Sendiri sambil melihat awan mendung
-Jalanan terasa sepi karena hari minggu
+*Tulisan ini hanya fiksi, karakter dan cerita mungkin terinspirasi dari kisah nyata, tidak bermaksud menyinggung siapapun, termasuk kamu.*
 
-Maryam mampir ke toko favorit rotinya
-Untuk teman ngemilnya kerja malam
-"Selamat datang Maryam" Makcik penjaga roti menyapa
-"Roti bawangnya makcik, tiga"
-"Habis Maryam, sudah lenyap"
-"Tumben hari minggu begini habis"
-"Ada pria muda borong dua lusin, katanya untuk acara keluarga"
-"Ya udah saya minta roti keju sama dengan mocca" Maryam sedikit kecewa
+Pelaut kelihatan tua
+Tapi dia masih 28 tahun
+Kebiasaannya di bawah sinar terik matahari
+Menarik jangkar bersama teman teman
+Kini dia hanya istirahat dan bercengkerama
+nikmati lemon soda-nya dan memikirkan Maryam
+Sudah hampir sebulan
+tak merasakan kejamnya laut
 
-Maryam turun dari bus
-menyebrang dan belok kiri blok apartemen nya
-Menyapa toko buah dekat rumah "Malam cekgo"
-"Maryam ada Strawberi segar nah"
-Maryam tergoda
-"Boleh lah cekgo minta satu paket saja"
-Hujan mulai gerimis
-Maryam langsung naik tangga
+Dia gak peduli lagi dengan pendapatannya
+Usaha melautnya
+Menurutnya biarkan "Angin dan lautan yang membawakan ku rezeki"
+Sejak dia suka surat menyurat dengan maryam
+Dia lebih banyak menulis tentang sehari harinya
 
-Pulang ke rumah
-Ganti baju santai
-Minum Teh Liang dan roti tadi
-Di hujan mendung
-Membuka surat lama dari Pelaut
-"Tunggu Aku"
+Angin terasa kuat baru baru ini
+Anjing penjaga malam yang biasanya tidur nyenyak
+tak menentu bolak balik khawatir
+Pohon pohon kelapa bersenda nyanyi bertiup
 
-Melihat jendela ke luar
-Hujan tiba tiba turun
-Menjelang maghrib
-Jalanan sepi
-Tanaman di pinggir jendela, mandi hujan berangsur lama
-Maryam ingin menulis surat kembali
-Maryam selama ini berpikiran
-"Apakah pelaut akan membalas surat ku atau aku perlu
-membalasnya lagi?"
+Sang pelaut dua hari ini gak bisa tidur
+Ini pertama kali merasakan sesuatu di perasaannya
+ketidaknyamanan
+Jatuh cinta
 
-Terlalu smooth
-Gak ada tragedy
+Berlaut bukan cita cita nya
+Tapi berlaut membahagiakan ibunya
+Tak hanya berjangkar
+Mancing ikan ikan laut
 
-Tok Tok tok, ada seseorang di depan
-Abang abang pinjol kayaknya
-Atau abang abang COD
-"Maryam, ada surat nah"
-Tetangga sebelah membawa surat Maryam
-Tadi aku dibawah nemukan ini di kotak surat kamu
-Tetangga dengan jas hujannya kuyup basah
-Terima kasih
+Sang pelaut bersama teman temannya
+Sudah bersama empat tahun
+Terima kasih karena almarhum ayahnya
+Mengajarinya berlayar
+dan berdagang
 
-Maryam tak tahu ini surat apa
-Dia berharap dari seorang pelaut
-Ternyata tidak
-Surat tagihan kredit online tertunggak dua bulan
-Maryam kecewa
+Sang pelaut juga distributor makanan minuman impor
+dari pulau sebelah bebas bea cukai
+Pemasok barang barang pesanan pak Tokek
 
-Maryam tidak peduli kreditnya tunggak
-Dia lebih peduli tulisan dari Pelaut
-menanti
+Dua minggu Maryam menunggu balasan
+Pak tua grosir kasih nasehat
+"AWAK TAK BOLEH MEMPERMAINKAN HATI PEREMPUAN JEE"
+Sejak Maryam pergi
+Pengganti Maryam sudah ada
+Namanya Anissa
+Terpesona cantiknya elegan
+Sedikit pemberontak tapi dia pendengar yang baik
+Beda dengan Maryam yang pemalu
+Kali ini Pelaut yang jadi pemalu di depan Anissa
 
-Bahkan dedaunan pun jatuh kena hujan
+Malam Pelaut menulis suratnya
+Sang Mama turut jadi inspirasi
+"IKAN KAKAP MERAH NI NAK AWAK APEKAN?"
+"MACAM BIASE LAH MAK, ASAM PEDAS"
+"MASAK SETENGAH JEE YEE BANG"
+"IYE MAK, TAK USAH BETERIAK GITU LAH MAK, DENGAR TETANGGA"
+"YEE BIAR LAH, NI KAMPUNG UDAH SEPI JEE" Emak lanjut ke dapur
 
-Tok tok tok, ada seseorang di depan lagi
-"Siapa lagi mengetuk pintuku hujan hujan begini"
-"Sudah tahu waktu maghrib"
-"Maryam" suaranya terdengar familiar
-"PELAUT" Maryam terkejut
-"Di sampingnya, ada pakde dan makde grosir"
-"Maryam, sorry mendadak"
+"
 
-"Apa kabar maryam" Bos grosir dan Istrinya, serta pelaut pergi ke kota
-"Maaf rumah sedikit berantakan" Gak apa apa
-Pelaut membawa kotak Maryam agak familiar
-"Aku bawain kamu Roti bawang" kata si pelaut
-"Terima kasih.." Maryam malu malu
-"Kami beli banyak Roti bawang, bawa oleh oleh ke kampung"
+Abang minta maaf sebelumnya, membuat Maryam menunggu balasan abang. Hati abang tengok tengok makin
+bercahaya, abang akhirn, tapi di kampung sedang diterpa angin kuat, musim hujan tak membuat abang berlayar
 
----
+Abang banyak menulis tentang Maryam, suatu saat Maryam pulang bisa baca diari abang.
 
-Setelah sekian dua minggu
-Akhirnya pelaut kembali berlayar
-bersama teman temannya
-Dengan wajah baru
-Warna biru dan warna putih meliputi kayu di luar
+Maryam, tak pernah aku merasa seperti ini. Rasa rindu abang terhadap
+awak sudah melebihi batas, tak perlu lah Maryam ke sanak mengejar cita cita
+Abang rela menikahi awak, demi kehadiran Maryam
 
+Ada kehadiran wajah baru di toko pak bos kita, namanya Anissa, dia beda sekali dengan Maryam, mungkin kalian suatu saat bisa berteman, Anissa selama ini jadi teman minum teh waktu waktu sore dengan pak bos.
+
+Ibu mau nitipkan sambal goreng dan gorengan ikan teri untuk Maryam. Pak toke mu nitipkan makanan favorit kamu, coklat dan beberapa krim instan. Pak toke titip salam rindu dengan mu. 
+
+Di tunggu kabar Maryam
+
+Assalamualaikum,
+Abang dari jauh
+"
+
+Maryam, dari kecil sudah ditinggal orang tua nya
+Tinggal bersama pak tua grosir, pak Toke
+Walau umurnya masih 23
+Sudah hidup mandiri dan dewasa
+Pak Tua sudah mendidiknya dan mensekolahkan Maryam
+hingga Maryam mengejar cita citannya menjadi guru
+
+Selama masa kecilnya
+Maryam tinggal di kampung sebelah
+membantu usaha keluarga pak Toke
+Walaupun Pak Toke dan Istrinya tak punya keturunan
+Maryam sudah jadi anak angkatnya
+
+Keesokan harinya bertemu Anissa
+"COWOKNYA MARYAM YA?" Anissa bercanda
+"KENAL DENGAN MARYAM?" Pelaut terkejut
+"MARYAM TEMAN KU, TEMAN SMA MASA MASA SEKOLAH"
+
+Sejak itu pelaut dan Anissa sebagai teman curhat baru
+Mereka suka duduk duduk menikmati matahari terbenam di hari Minggu
+Kadang bertiga bercanda dengan pak Toke
+Cerita cerita tentang Maryam
+
+"ANISSA KAU TAK BOLEH CEROBOH LAH, AMBILKAN ORANG IKAN TERI TU, PAKAI SARUNG TANGAN JEE" Pak Toke mengajarinya
+"BAIK OM, ANISSA MASIH BELAJAR"
+"ITU SUDAH NALURI KITE SEHARUSNYE ANISSA" Pak Toke kasih pelajaran
+Sang pelaut ketawa ketawa aja
+
+Tiga minggu berlalu
+Sore itu, Bis antara daerah datang
+Keluarga keluarga mengumpul menyambut kerabatnya
+Satu wanita turun dengan bawaannya
+Jalan kaki dengan senyum menuju rumah Pak Toke
+Lagi asiknya mereka bertiga duduk duduk minum teh
+Pintu toko terbuka
+
+"NISA?" Maryam memanggilnya
+Pelaut melihat ke belakang
+"MARYAM?" 
+Tak terduga Maryam melihat kedekatan mereka
+Pelaut merasakan kesenangan tingkat setinggi tangga tukang
+Tapi perasaan Maryam berkata lain
+"AKU S
+Maryam lari sekencang kencangnya keluar
+dengan wajah hampir putus asa sedih
+"EH EH MARYAM NAK KE MANA?" Pelaut mengejarnya
+
+Di antara pohon pohon kelapa bulat
+Pasir pasir berharap jadi butiran emas
+"APA HAL ENGKAU NI" Pelaut berteriak
+Maryam merasa sedikit dikhianati
+"KITE NGOMONG SEBENTAR DULU LAH" Pelaut berteriak
+Maryam tak bicara apa apa
+"ABANG TU SUKE SAMA AWAK, MARYAM" harapan terakhir pelaut
+Hampir sekampung dengar teriakannya, sore sore di mana orang kampung
+pada nongkrong di luar mendengarnya
+Maryam akhirnya berhenti lari
+
+"NISA BANYAK CERITA TENTANG AWAK, AWAK CEMBURU KAN YAA" Pelaut bercanda
+Maryam tak bisa berkata apa apa
+"SELAMAT DATANG KEMBALI MARYAM" Pelaut mengeluarkan senyum terbaiknya
+"IIIHHH ABANG" Maryam menepuk 
