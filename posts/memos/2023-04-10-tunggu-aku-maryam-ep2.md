@@ -10,6 +10,8 @@ layout: layouts/post.njk
 
 *Tulisan ini hanya fiksi, karakter dan cerita mungkin terinspirasi dari kisah nyata, tidak bermaksud menyinggung siapapun, termasuk kamu.*
 
+*Jika belum membaca part satu, [klik sini](https://literasi.blog/posts/memos/2023-03-26-tunggu-aku-maryam/)*
+
 Pelaut kelihatan tua
 Tapi dia masih 28 tahun
 Kebiasaannya di bawah sinar terik matahari
