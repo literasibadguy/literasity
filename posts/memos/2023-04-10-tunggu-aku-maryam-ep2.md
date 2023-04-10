@@ -1,11 +1,10 @@
 ---
 title: Tunggu Aku Maryam Ep. Terakhir
 description: Tunggu aku maryam masih on the move
-date: 2023-04-09
-scheduled: 2023-04-09
+date: 2023-04-10
+scheduled: 2023-04-10
 tags:
   - another-tag
-draft: true
 layout: layouts/post.njk
 ---
 
@@ -19,12 +18,6 @@ Kini dia hanya istirahat dan bercengkerama
 nikmati lemon soda-nya dan memikirkan Maryam
 Sudah hampir sebulan
 tak merasakan kejamnya laut
-
-Dia gak peduli lagi dengan pendapatannya
-Usaha melautnya
-Menurutnya biarkan "Angin dan lautan yang membawakan ku rezeki"
-Sejak dia suka surat menyurat dengan maryam
-Dia lebih banyak menulis tentang sehari harinya
 
 Angin terasa kuat baru baru ini
 Anjing penjaga malam yang biasanya tidur nyenyak
@@ -73,7 +66,7 @@ Sang Mama turut jadi inspirasi
 "
 
 Abang minta maaf sebelumnya, membuat Maryam menunggu balasan abang. Hati abang tengok tengok makin
-bercahaya, abang akhirn, tapi di kampung sedang diterpa angin kuat, musim hujan tak membuat abang berlayar
+bercahaya akhir akhir ini, tapi di kampung sedang diterpa angin kuat, musim hujan tak membuat abang berlayar
 
 Abang banyak menulis tentang Maryam, suatu saat Maryam pulang bisa baca diari abang.
 
@@ -115,9 +108,9 @@ Kadang bertiga bercanda dengan pak Toke
 Cerita cerita tentang Maryam
 
 "ANISSA KAU TAK BOLEH CEROBOH LAH, AMBILKAN ORANG IKAN TERI TU, PAKAI SARUNG TANGAN JEE" Pak Toke mengajarinya
-"BAIK OM, ANISSA MASIH BELAJAR"
-"ITU SUDAH NALURI KITE SEHARUSNYE ANISSA" Pak Toke kasih pelajaran
-Sang pelaut ketawa ketawa aja
+"BAIK OM, NISSA MASIH BELAJAR"
+"ITU SUDAH NALURI KITE SEHARUSNYE NISSA" Pak Toke kasih pelajaran
+Sang pelaut ketawa ketawa aja, Nissa menepuk bahu Pelaut
 
 Tiga minggu berlalu
 Sore itu, Bis antara daerah datang
@@ -127,16 +120,24 @@ Jalan kaki dengan senyum menuju rumah Pak Toke
 Lagi asiknya mereka bertiga duduk duduk minum teh
 Pintu toko terbuka
 
+Maryam melihat kedekatan Anissa dan sang Pelaut
+merapikan karung ikan teri
+kelihatan mesra
+
 "NISA?" Maryam memanggilnya
 Pelaut melihat ke belakang
 "MARYAM?" 
 Tak terduga Maryam melihat kedekatan mereka
 Pelaut merasakan kesenangan tingkat setinggi tangga tukang
 Tapi perasaan Maryam berkata lain
-"AKU S
+"AKU TAK PERNAH MENDUGA ABANG DEKATIN NISA"
 Maryam lari sekencang kencangnya keluar
 dengan wajah hampir putus asa sedih
 "EH EH MARYAM NAK KE MANA?" Pelaut mengejarnya
+
+Asalkan ada lagu India selipkan di sini
+Para pemirsa sudah senyum senyum sendiri
+berita bahagia sudah dekat
 
 Di antara pohon pohon kelapa bulat
 Pasir pasir berharap jadi butiran emas
@@ -153,3 +154,5 @@ Maryam akhirnya berhenti lari
 Maryam tak bisa berkata apa apa
 "SELAMAT DATANG KEMBALI MARYAM" Pelaut mengeluarkan senyum terbaiknya
 "IIIHHH ABANG" Maryam menepuk 
+
+*Happy ending*
