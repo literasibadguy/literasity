@@ -15,10 +15,6 @@ Batang pohon pisang mulai tumbang sendiri
 Tanaman tanaman merindukan curah hujan
 Liatin tetangga bawa kipas angin sambil cuci motor
 
-Dua hari kemarin
-Baru kali ini kulit ku entah kenapa ada bintik bintik merah
-mungkin ini efek panas dan keringat
-
 Ada angin sempat lewat di sore hari ini
 Mungkin pertanda hari hujan
 Menjelang Tarawih, orang orang terpilih menanti Lailatul Qadar
@@ -39,6 +35,7 @@ Tidur hanya 3 jam sehari
 Baca baca referensi pekerjaan
 Dikejar kejar deadline
 Complain di mana mana
+Hasilnya, kami bisa bantu klien carikan omset ratusan juta
 
 Ingat kenangan kata kata bisnis dari ayahku
 "ENAKNYA JADI PENGUSAHA BANG, WALAU AWALNYA BERDARAH DARAH DULU, TAPI KALAU UDAH DAPAT, KITA TIDUR UANGNYA UDAH NGALIR SENDIRI"
