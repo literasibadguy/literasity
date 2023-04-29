@@ -1,0 +1,45 @@
+
+.search-lo {
+    flex-wrap: nowrap;
+    display: flex;
+    align-items: center;
+}
+
+#literasity-search {
+    border: 0;
+    padding: 0;
+}
+
+.search-txt {
+    width: 100%;
+    border: 2px solid;
+    -webkit-appearance: textfield;
+}
+
+.btn-form.search-btn {
+    margin: 0;
+    color: #fff;
+}
+
+.search.txt,
+.search-btn {
+    height: 100%;
+}
+
+.search-results-notfound {
+    list-style-type: none;
+}
+
+.search-results-item {
+    display: block;
+    padding: .25em .5em;
+}
+
+.search-results-item-title {
+    display: block;
+}
+
+.search-results-item-matches {
+    line-height: 1.8;
+    font-size: .95em;
+}

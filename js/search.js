@@ -1,0 +1,111 @@
+class Search {
+
+    clearResults() {
+        this.searchResultsCount.innerHTML = "Hasil";
+        this.searchResultsList.innerHTML = "";
+    }
+
+    addResult(result) {
+        let listItem = document.createElement("li");
+
+        console.log(result);
+
+        listItem.innerHTML = `<a href="${result.url}" class="search-results-item">
+	<span class="search-results-item-title">
+		${result.url ? `<strong>${result.url}</strong>` : result.url}
+	</span>
+	<p class="search-results-item-matches truncate-overflow" style="--truncate-lh: 1.8em; --truncate-lines: 3">
+	<code>${result.excerpt.replace(/</g, "&lt;").replace(/&lt;mark>/g, "<mark>").replace(/&lt;\/mark>/g, "</mark>")}</code>
+	</p>
+</a>
+`;
+    
+        this.searchResultsList.append(listItem)
+    }
+
+    async getLibrary() {
+        if(!this.pageFind) {
+            this.pageFind = await import("/_pagefind/pagefind.js");
+        }
+        return this.pageFind
+    }
+
+    async onInput(value) {
+        let pagefind = await this.getLibrary();
+        window.clearTimeout(this.onInputTimeout);
+        this.onInputTimeout = window.setTimeout(async () => {
+            this.clearResults();
+
+            if (value.length > 2) {
+                this.searchResults.classList.remove("hide");
+
+                let search = await pagefind.search(value);
+                let results = await Promise.all(search.results.map(r => r.data()));
+
+                for (let result of results) {
+                    this.addResult( result, value );
+                }
+                if(results.length) {
+                    this.searchResultsCount.innerHTML = `${results.length} Result${results.length != 1 ? "s" : ""}`;
+                } else {
+                    this.searchResultsList.innerHTML = "<li>Kayaknya di Tab sebelah ada bro/sis</li>";
+                }
+                this.searchResultsList.classList[results.length > 0 ? "remove" : "add"]("search-results-notfound");
+            } else {
+                this.searchResults.classList.add("hide");
+            }
+        }, 100);
+    }
+
+    getQueryString() {
+        let url = new URL(document.location.href);
+        let searchQueryParam = url.searchParams.get("q");
+        return searchQueryParam ? decodeURIComponent(searchQueryParam) : "";
+    }
+
+    hydrate() {
+        let form = document.getElementById("literasity-search");
+        if (form) {
+            form.addEventListener("submit", function(event) {
+                event.preventDefault();
+            }, false);
+        }
+
+        let text = document.getElementById("search-term");
+        if (text) {
+            text.addEventListener("input", async (event) => {
+                let value = event.target.value;
+                await this.onInput(value);
+                window.history.replaceState({}, "", `/search/${value ? `?q=${encodeURIComponent(value)}` : ""}`);
+
+            }, false);
+
+            let queryString = this.getQueryString();
+            if ( queryString ) {
+                text.value = queryString;
+                this.onInput(queryString);
+            } else {
+                text.value = "";
+            }
+        }
+
+        let results = document.getElementById("search-results");
+        if(results) {
+            this.searchResults = results;
+        }
+
+        let resultsList = document.getElementById("search-results-list");
+        if(resultsList) {
+            this.searchResultsList = resultsList;
+        }
+
+        let resultsCount = document.getElementById("search-results-count");
+        if(resultsCount) {
+            this.searchResultsCount = resultsCount;
+        }
+
+    }
+}
+
+let search = new Search();
+search.hydrate();
