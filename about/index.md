@@ -1,6 +1,7 @@
 ---
 layout: layouts/base.njk
 title: About
+excludeFromSearch: true
 templateClass: tmpl-post
 eleventyNavigation:
   key: About

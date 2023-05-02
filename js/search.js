@@ -8,11 +8,9 @@ class Search {
     addResult(result) {
         let listItem = document.createElement("li");
 
-        console.log(result);
-
         listItem.innerHTML = `<a href="${result.url}" class="search-results-item">
 	<span class="search-results-item-title">
-		${result.url ? `<strong>${result.url}</strong>` : result.url}
+		${result.meta.title ? `<strong>${result.meta.title}</strong>` : result.url}
 	</span>
 	<p class="search-results-item-matches truncate-overflow" style="--truncate-lh: 1.8em; --truncate-lines: 3">
 	<code>${result.excerpt.replace(/</g, "&lt;").replace(/&lt;mark>/g, "<mark>").replace(/&lt;\/mark>/g, "</mark>")}</code>
@@ -46,7 +44,7 @@ class Search {
                     this.addResult( result, value );
                 }
                 if(results.length) {
-                    this.searchResultsCount.innerHTML = `${results.length} Result${results.length != 1 ? "s" : ""}`;
+                    this.searchResultsCount.innerHTML = `${results.length} Hasil`;
                 } else {
                     this.searchResultsList.innerHTML = "<li>Kayaknya di Tab sebelah ada bro/sis</li>";
                 }
