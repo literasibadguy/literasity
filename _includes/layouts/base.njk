@@ -28,9 +28,8 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ metadata.author.twitterHandle }}">
     <meta name="twitter:creator" content="@{{ metadata.author.twitterHandle }}">
-    {% if image %}
-      <meta property="og:image" content="{{ image | absoluteUrl(metadata.url) }}">
-    {% endif %}
+    <meta property="twitter:image" content="https://literasi.blog/img/badguy-og.jpg">
+    <meta property="og:image" content="https://literasi.blog/img/badguy-og.jpg">
 
     <link rel="canonical" href="{{ metadata.url }}{{ canonicalUrl or page.url }}">
     <!-- This is a blog and so it SHOULD be safe and it is nice for the web
