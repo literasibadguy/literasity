@@ -1,0 +1,45 @@
+---
+title: Buku buku Terdampar di Sosmed Rusia
+description: Tersimpan di semak semak debu
+date: 2023-03-11
+scheduled: 2023-03-11
+tags:
+  - learns
+layout: layouts/post.njk
+---
+
+<p>
+Buku buku ini ku temukan setelah meriset investigasi data sosial media Rusia VKontakte, buku buku ini menggunakan format EPUB, jika link download tidak bisa, berarti akses downloadnya sudah berakhir
+</p>
+
+{% macro getAttachment(item) %}
+    {% for attach in item.attachments %}
+            {% if attach["type"] == "doc" %}
+                <a href="{{ attach.doc.url }}">{{ attach.doc.title }}</a>
+            {% endif %}
+    {% endfor %}
+{% endmacro %}
+
+{% set results = indexing.books.response.items %}
+{% set results2 = indexing.books2.response.items %}
+{% set results3 = indexing.books3.response.items %}
+{% set results4 = indexing.books4.response.items %}
+{% set results10 = indexing.books10.response.items %}
+
+<div style="display: flex; flex-direction: column;">
+{% for item in results %}
+  {{ getAttachment(item) }}
+{% endfor %}
+
+{% for item in results2 %}
+  {{ getAttachment(item) }}
+{% endfor %}
+
+{% for item in results3 %}
+  {{ getAttachment(item) }}
+{% endfor %}
+
+{% for item in results10 %}
+  {{ getAttachment(item) }}
+{% endfor %}
+</div>
