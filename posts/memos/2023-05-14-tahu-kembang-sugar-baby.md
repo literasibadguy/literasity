@@ -34,7 +34,6 @@ sambil membawa *purse bag* berwarna pink
 
 Aku mengenalnya saat aku bertemu
 dengan partner bisnisku dari Malaysia
-"INI BANG,
 Sugar Baby ini selalu mendampingi pengusaha ini
 mengekor sugar daddy
 sejak itu aku mengenalnya
