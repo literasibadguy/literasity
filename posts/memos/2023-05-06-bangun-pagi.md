@@ -1,9 +1,8 @@
 ---
-title: Bangun Pagi Kamu
+title: Tipe Bangun Pagi Kamu
 description: Kamu yang mana
 date: 2023-05-06
 scheduled: 2023-05-06
-draft: true
 tags:
   - memos
 layout: layouts/post.njk

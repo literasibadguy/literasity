@@ -1,6 +1,6 @@
 ---
 title: Kembang Tahu dan Curhat Sugar Baby
-description: Seorang gentleman
+description: Bolehkah memiliki ketulusan hati Sugar Baby
 date: 2023-05-14
 scheduled: 2023-05-14
 tags:
