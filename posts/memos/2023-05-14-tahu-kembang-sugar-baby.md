@@ -35,7 +35,7 @@ sambil membawa *purse bag* berwarna pink
 Aku mengenalnya saat aku bertemu
 dengan partner bisnisku dari Malaysia
 Sugar Baby ini selalu mendampingi pengusaha ini
-mengekor sugar daddy
+mengekor *sugar daddy*
 sejak itu aku mengenalnya
 Dia jadi teman potret fotoku
 
@@ -74,7 +74,7 @@ Dia meletakkan iPhone-nya, tertarik dengan pertanyaan aku
 
 Penampilannya menarik perhatian orang
 rambut panjang pirangnya
-tatto di tangan kanannya, ilustrasi bunga wawar di atas kepala tengkorak
+tatto di tangan kanannya, ilustrasi bunga mawar di atas kepala tengkorak
 
 "MEMANGNYA DI JAKARTA GAK ADA?"
 "Di Jakarta udah banyak saingan beb"
@@ -209,7 +209,7 @@ abis itu dia mengalihkan pikiran ku
 Selera kita sama, dengerin musik K-Pop
 
 "YUK KITA, LANGSUNG KU ANTAR KE HOTEL"
-Sibk dengan iPhone nya, mata-nya mulai mengantuk
+Sibuk dengan iPhone nya, mata-nya mulai mengantuk
 Tak jauh, kembali ke hotel
 Lobi hotel nampak terang, kelihatan sepi
 "Gak mampir dulu ke atas?, temanin aku lah beb"
