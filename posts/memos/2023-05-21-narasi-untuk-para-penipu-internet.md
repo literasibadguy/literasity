@@ -39,12 +39,12 @@ Atau mereka memang profiling pengguna pengguna yang menurutnya empuk di Internet
 {% image "./img/remote/have-i-been-hacked-skiff2.png", "Have I been hacked" %}
 
 Data breach sudah sering terjadi
-Sekarang banyak website untuk mengecek-nya
-termasuk juga gak email kamu
-Aku cek di platform email favorit baruku
+Sekarang banyak website untuk mengecek
+apakah email kita juga termasuk yang kena dampak bocor
+Salah satunya, Aku cek di platform email favorit baruku
 namanya *Skiff*
 setelah dicek
-memang betul, email ku kena dampak berapa kali
+memang betul, email ku kena dampak
 dari beberapa platform, 
 tapi yang termasuk besar adalah dari PDL
 
@@ -52,12 +52,12 @@ PDL ini, data data yang digabungkan dari beberapa sosial media dan platform
 menjadi satu database, seperti universal
 singkatannya People Data Labs
 aku khawatirnya dari sini
-aku saja sebelumnya gak tahu ada database exist seperti ini
+aku saja sebelumnya gak tahu ada organisasi yang mengumpulkan data seperti ini
 
 {% image "./img/remote/initial-email-swiss-fraud.png", "Swiss Fraud" %}
 
-Setiap aku memerhatikan dari modus penipu
-dari penulisan kata kata mereka
+Setiap memperhatikan modus penipuan
+aku selalu memperhatikan penulisan mereka
 terutama lewat email
 Tentu mereka ingin kelihatan seorang profesional di depan targetnya
 Agar kita percaya terpengaruh
@@ -81,14 +81,14 @@ Begini isinya
 `Halo, kami menghubungi mu, karena anda yang hanya bisa kamu hubungi sebagai keturunan Arthur Rafislam`
 `Kami melihat ada dana investasi dari kakek anda yang mesti dicairkan menurut regulasi bla bla bla`
 `Terhitung sekian miliaran Poundsterling, yang harus diproses, sebelum kasus ini menjadi ribet`
-`Dari tawaran kami, 10% nya di donasikan ke Charity, 50% ke bagian kami dan 50% untuk anda`
+`Dari tawaran kami, 10% nya di donasikan ke Charity, 45% ke bagian kami dan 45% untuk anda`
 `Aku butuh konfirmasi kamu, jadi biar kita bisa cepat ajukan kasus ini ke sidang demikian`
 
-Di sini mereka sudah bikin aku gak tertarik lagi, mereka terlalu memberi janji yang besar, jauh dari realitas di sini, apalagi dengan nama aneh `Arthur Rafislam`
+Di sini mereka sudah bikin aku gak tertarik lagi, mereka terlalu memberi janji yang tidak mungkin, jauh dari realitas di sini, apalagi dengan nama aneh `Arthur Rafislam`
 
 Seharusnya mereka menjawab pertanyaan ku dulu, dari mana mereka mendapat email ku, itu mungkin bisa membuat ku percaya dengannya
 
-Melihat gaya bahasanya, orang British yang bisa menulis email seperti ini, ada poin poin penting seperti mengikuti regulasi aturan warisan dari pemerintahnya, terus prosedur untuk mengajukannya ke pengadilan, dia menggunakan kata `Quid`, istilah non-formal untuk Poundsterling.
+Melihat gaya bahasanya, orang British yang hanya menulis email seperti ini, ada poin poin penting seperti mengikuti regulasi aturan warisan dari pemerintahnya, terus prosedur untuk mengajukannya ke pengadilan, dia menggunakan kata `Quid`, istilah non-formal untuk Poundsterling.
 
 Dan dengan pede-nya, mereka melampirkan alamat di bawahnya dan kontaknya, aku bocorkan nama-nya di sini
 
@@ -104,7 +104,7 @@ Aku coba cari juga nama tersebut di LinkedIn, nihil hasilnya.
 
 Bisa saja dia penipu yang punya wawasan luas di Eropa, kemungkinan beroperasi dari Vietnam, India bahkan China atau Indonesia sendiri, negara negara yang bisa menjalani jaringan seperti ini
 
-seharusnya mereka berlagak seperti Mafia atau oknum yang biasa play dirty, menjual `fear`, agar lawan mereka panik dan melakukan apa saja untuk menyelamatkan atau, melewatkan kesempatan emas, di waktu singkat, hanya kamu satu satunya yang bisa mengambil
+seharusnya mereka berlagak seperti Mafia atau oknum yang biasa *play dirty*, menjual `fear`, agar lawan mereka panik dan melakukan apa saja untuk menyelamatkan atau, melewatkan kesempatan emas, di waktu singkat, menspesialkan kamu satu satunya yang bisa mengambil peluang. Begitu-kan gambaran para penipu membuat narasi
 
 Setelah membaca dua tiga paragraf mereka, ini omong kosong aja ni, tapi aku belum tahu apa modus sebenarnya, jadi aku memperlihatkan kekuatan ku di sini, aku mengirimkan invoice PayPal nya, agar dia bisa transfer ke situ.
 
@@ -128,9 +128,9 @@ sudah dipegang sama aku, aku ingin mengklaim uang itu sudah ditransfer.
 
 Di zaman sekarang, jika kamu klaim itu benar, ya itu benar.
 
-Kamu bilang telur sudah naik, mereka percaya telur naik. Di sini perusahaan Media lakukan sekarang.
+Kamu bilang telur sudah naik, mereka percaya telur naik. Perusahaan media sudah biasa melakukan ini
 
-Untuk membuat ilusi tersebut, setelah aku minta request money, untuk men-transfer 25ribu dollar ke akun Paypal ku, memperlihatkan kekuatan ku di sini
+Untuk membuat ilusi tersebut, setelah aku minta *request money*, untuk men-transfer 25ribu dollar ke akun Paypal ku, memperlihatkan kekuatan ku di sini
 
 {% image "./img/remote/send-invoice-payment.png", "Send Invoice Payment" %}
 
@@ -174,7 +174,7 @@ Di sini aku mencoba mengalihkan perhatiannya
 
 Jadi aku balas emailnya kembali
 kasih umpan di sini
-bahwa uang yang ku minta 25ribu dollar
+bahwa uang yang ku minta 25ribu dollar kemarin
 sudah ditransfer
 dengan memperlihatkan bukti
 akun Paypal profilku
@@ -188,12 +188,13 @@ akun Paypal profilku
 
 {% image "./img/remote/paypal-screen.jpg", "Paypal Screen Dashboard" %}
 
-Ini ilusi yang aku mention tadi
+Ini ilusi yang ku maksud
 aku pikir dia akan merasa tidak menduga
 dengan bukti yang ku lampirkan di sini
 
 sampai sekarang belum ada balasan
-Aku ingin konfirmasi apa dia tetap lanjut
+Aku ingin konfirmasi saja apa dia tetap lanjut
+mengirim email lagi
 
 Pesan untuk para penipu Internet
 Terutama yang berjuang di antara inbox email orang
