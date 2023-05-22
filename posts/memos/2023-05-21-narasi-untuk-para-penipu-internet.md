@@ -100,7 +100,7 @@ Coba cek di Google Maps, untuk `Löwenstrasse` memang eksis ada jalan bernama in
 
 {% image "./img/remote/lowenstrasse-googlemap.png", "Send Invoice Payment" %}
 
-Aku coba cari nama tersebut di LinkedIn, nihil hasilnya.
+Aku coba cari juga nama tersebut di LinkedIn, nihil hasilnya.
 
 Bisa saja dia penipu yang punya wawasan luas di Eropa, kemungkinan beroperasi dari Vietnam, India bahkan China atau Indonesia sendiri, negara negara yang bisa menjalani jaringan seperti ini
 
