@@ -1,8 +1,8 @@
 {
-  "name": "eleventy-high-performance-blog",
+  "name": "literasity",
   "version": "5.0.2",
   "license": "MIT",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "Bad Guy Express Blog with Eleventy",
   "scripts": {
     "build-ci": "npm run js-build && eleventy && npm run create-search-index && npm run test",
     "build": "npm run clean && npm run build-ci",
