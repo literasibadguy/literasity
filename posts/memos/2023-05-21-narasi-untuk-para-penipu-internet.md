@@ -54,7 +54,7 @@ singkatannya People Data Labs
 aku khawatirnya dari sini
 aku saja sebelumnya gak tahu ada database exist seperti ini
 
-{% image "./img/remote/lowenstrasse-googlemap.png", "Send Invoice Payment" %}
+{% image "./img/remote/initial-email-swiss-fraud.png", "Swiss Fraud" %}
 
 Setiap aku memerhatikan dari modus penipu
 dari penulisan kata kata mereka
