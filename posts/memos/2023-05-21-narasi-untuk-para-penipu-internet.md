@@ -96,7 +96,7 @@ Dan dengan pede-nya, mereka melampirkan alamat di bawahnya dan kontaknya, aku bo
 `Löwenstrasse 32 P.O.`
 `Box 2221, 8021 Zurich, Switzerland`
 
-Coba cek di Google Maps, untuk `Löwenstrasse` memang eksis ada jalan bernama ini di kota Zurich, kelihatannya daerah keramaian pusat kota, tapi aku gak melihat keberadaan firma hukum tersebut, atau dia independen, punya kantor dan kotak email sendiri?
+Coba cek di Google Maps, untuk `Löwenstrasse` memang eksis ada jalan bernama ini di kota Zurich, kelihatannya daerah keramaian pusat kota, tapi aku gak melihat keberadaan firma hukum tersebut, atau dia independen, punya kantor dan kotak surat sendiri?
 
 {% image "./img/remote/lowenstrasse-googlemap.png", "Send Invoice Payment" %}
 
