@@ -3,11 +3,13 @@ title: Warisan dari Penipu Swiss
 description: Uang sebesar 100 Milliar lebih Quid dalam investasi
 date: 2023-05-22
 scheduled: 2023-05-22
-draft: true
 tags:
   - memos
 layout: layouts/post.njk
 ---
+
+*Ku kira orang Swiss hanya pandai bikin coklat panas dengan keju,*
+*ternyata berbakat juga menipu*
 
 Akhir akhir ini aku banyak interaksi dengan penipu
 yang biasa SPAM email aku
@@ -98,6 +100,8 @@ Coba cek di Google Maps, untuk `Löwenstrasse` memang eksis ada jalan bernama in
 
 {% image "./img/remote/lowenstrasse-googlemap.png", "Send Invoice Payment" %}
 
+Aku coba cari nama tersebut di LinkedIn, nihil hasilnya.
+
 Bisa saja dia penipu yang punya wawasan luas di Eropa, kemungkinan beroperasi dari Vietnam, India bahkan China atau Indonesia sendiri, negara negara yang bisa menjalani jaringan seperti ini
 
 seharusnya mereka berlagak seperti Mafia atau oknum yang biasa play dirty, menjual `fear`, agar lawan mereka panik dan melakukan apa saja untuk menyelamatkan atau, melewatkan kesempatan emas, di waktu singkat, hanya kamu satu satunya yang bisa mengambil
@@ -120,7 +124,7 @@ Aku membalas email panjang mereka
 `literasi.blog`
 
 Setelah itu, aku ingin membuat ilusi di sini, bagaimana caranya uang itu seolah olah memang
-sudah dipegang sama aku, aku ingin mengclaim uang itu sudah ditransfer.
+sudah dipegang sama aku, aku ingin mengklaim uang itu sudah ditransfer.
 
 Di zaman sekarang, jika kamu klaim itu benar, ya itu benar.
 
