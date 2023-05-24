@@ -49,6 +49,10 @@ const purifyCss = async (rawContent, outputPath) => {
       encoding: "utf-8",
     });
 
+    let sponsor = require("fs").readFileSync("css/sponsor.css", {
+      encoding: "utf-8",
+    });
+
     before = before.replace(
       /@font-face {/g,
       "@font-face {font-display:optional;"
@@ -65,6 +69,7 @@ const purifyCss = async (rawContent, outputPath) => {
         {
           raw: before,
         },
+        sponsor
       ],
       /*extractors: [
         {

@@ -1161,3 +1161,33 @@ a {
   display: inline;
   padding: 10px;
 }
+
+.sponsor-cover {
+  background-color: black;
+  border-radius: 2em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center ;
+}
+
+.sponsor-cover img {
+  width: 400px;
+  object-fit: cover;
+  margin: 1em;
+  max-height: 200px;
+}
+
+.sponsor-line {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  width: 200px;
+  line-height: 1em;
+  margin: 1em;
+}
+
+.sponsor-cover h2 {
+  color: white;
+  font-size: 24px;
+  margin: 0;
+}
