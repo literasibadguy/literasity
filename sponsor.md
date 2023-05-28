@@ -17,7 +17,7 @@ Jadwal:
 31 Juli - 6 Agustus     `Tersedia`
 7 Agustus - 13 Agustus  `Tersedia`
 
-Harga: Rp 6,500,000 (Enam Juta Lima Ratus Rupiah)
+Harga: Rp 6,500,000 (Enam Juta Lima Ratus Ribu Rupiah)
 
 Silakan menghubungi [email Firas](mailto:firas@literasi.blog) untuk mengatur jadwal iklan bersama
 di Bad Guy Express
