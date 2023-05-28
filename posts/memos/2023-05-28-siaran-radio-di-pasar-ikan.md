@@ -103,8 +103,8 @@ Siaran radio berlanjut
 "Tapi kita sudah dapat tiga kontestan terpilih"
 "Tiket gratis nonton konser spektakuler Krisdayanti di Singapore"
 "plus akomodasi tiket pulang-pergi dan hotel berbintang"
-"yang akan di-arrangement oleh maestro Irwan Gutawa"
-"jatuh kepada ...."
+"yang akan di-arrangement oleh maestro Erwin Gutawa"
+"jatuh kepada ...." *sound effect* tepuk tangan
 "selamat ya"
 
 Sambil Membawa keranjang berisi plastik merah
