@@ -56,7 +56,7 @@ Bulan Juni 2023 ini, ambisi mereka setelah meluncurkan FTC Public Chain, Blockch
 
 Setelah meluncurkan FTC Public Chain, mereka punya rencana *go public* di dalam NASDAQ Tahun 2023, dan masuk SEC
 
-Ekspansi ke ekosistem lainnya, seperti AI dan Game, yang mereka sebut FinSoul, lucunya setelah ku cek halaman portal game mereka, hanya sebuah dummy template dan gambar gambar karakter yang disusun, gak ada interaksi integrasi dan memulai game.
+Ekspansi ke ekosistem lainnya, seperti AI dan Game, yang mereka sebut [FinSoul](https://www.finsoul.io/#/), lucunya setelah ku cek halaman portal game mereka, hanya sebuah dummy template dan gambar gambar karakter yang disusun, gak ada interaksi integrasi dan memulai game, yang hanya minta otoritas integrasi Wallet Crypto, ini *suspicious* phishing mereka yang baru.
 
 ## Background tentang Fintoch 
 
@@ -66,7 +66,7 @@ Menurut Fintoch, mereka sedang membuat Blockchain sendiri yang akan mengancam bi
 
 Berdasarkan data [BSCScan contract Fintoch Token](https://bscscan.com/token/0x19a00e359990ec7daf6e9dd9a2fb7664014bb5f7), memegang 300,000 lebih akun holder di situ di dalam jaringan Binance Blockchain
 
-Fintoch mengaku mendapat investasi 1 Miliar US Dollar dari keluarga royal United Arab Emirates, yang mereka melakukan ekspansi besar besaran di negara negara Asia, termasuk Indonesia. Tidak ada *prospectus statement* atau dokumen capital structure yang membuktikan mereka mendapatkan investasi tersebut.
+Fintoch klaim mendapat [investasi 1 Miliar US Dollar](https://www.digitaljournal.com/pr/news/fintoch-recently-released-a-statement-that-the-brand-s-capital-structure-is-seeing-significant-changes) dari keluarga royal United Arab Emirates, yang mereka melakukan ekspansi besar besaran di negara negara Asia, termasuk Indonesia. Tidak ada *prospectus statement* atau dokumen capital structure yang membuktikan mereka mendapatkan investasi tersebut.
 
 ## Part 1: Acara Spektakuler Keliling Asia Mencari Mangsa
 
