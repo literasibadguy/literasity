@@ -88,7 +88,7 @@ Aku gak mengerti bagaimana mereka bisa membuat penipuan skema berskala sebesar i
 
 {% image "./img/remote/fintoch/fintoch-tops.png", "Top leaders in Fintoch" %}
 
-Dari ekspansi dengan acara spektakuler mereka, ada dua orang yang ku garis bawahi kuning selalu nampak, wanita yang berbaju putih bisa ku cap "Founder", mereka selalu aktor yang selalu tampil di setiap acara di seluruh negara Asia, mereka yang selalu menghasut para victim orang orang awam ini untuk menjadi investor, yang menurut mereka "kamu perlu menunggu 10 tahun lagi untuk dapetin keuntungan seperti ini" 
+Dari ekspansi dengan acara spektakuler mereka, ada dua orang yang ku garis bawahi kuning selalu nampak, wanita yang berbaju putih bisa ku cap "Founder", panggilannya MS YOYO, mereka selalu aktor yang selalu tampil di setiap acara di seluruh negara Asia, mereka yang selalu menghasut para victim orang orang awam ini untuk menjadi investor, yang menurut mereka "kamu perlu menunggu 10 tahun lagi untuk dapetin keuntungan seperti ini" 
 
 Fintoch sekarang membuka kantor di beberapa negara Asia, Malaysia, Hong Kong dan Singapura
 
