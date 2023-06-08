@@ -13,7 +13,7 @@ Recehan sebesar 500 berantakan di atas meja kamar
 entah bekas belanja hari hari di Toko Kelontong belakang
 Kumpulin dulu 500 500, jadi 2000, 4000, 6000, 8000, 10ribu
 Biar gak numpuk
-Bawa dengan uang 5000-an, biar gak kebanyakan koin
+Bawa dengan 5000-an, biar gak kebanyakan koin
 pengen beli gorengan tahu mba Hani
 
 Selesai Sunnah Ba'diyah, nyebrang dari Masjid
