@@ -30,8 +30,8 @@ function cid(ip, otherStuff) {
 function proxyToGoogleAnalytics(event) {
   // get GA params whether GET or POST request
   const params =
-    event.httpMethod.toUpperCase() === "GET"
-      ? event.queryStringParameters
+    event.method.toUpperCase() === "GET"
+      ? event.body
       : querystring.parse(event.body);
   const headers = event.headers || {};
 
@@ -68,19 +68,19 @@ function proxyToGoogleAnalytics(event) {
   });
 }
 
-exports.handler = function (event, context, callback) {
-  const origin = event.headers["origin"] || event.headers["Origin"] || "";
-  console.log(`Received ${event.httpMethod} request from, origin: ${origin}`);
+export function onRequest(context) {
+  const origin = context.request.headers.get("origin") || context.request.headers.get("Origin") || "";
+  console.log(`Received ${context.request.method} request from, origin: ${origin}`);
 
   const isOriginallowlisted =
     originallowlist.indexOf(origin) >= 0 ||
-    origin.endsWith("-upbeat-shirley-608546.netlify.app") >= 0;
+    origin.endsWith("-literasity.pages.dev") >= 0;
   if (!isOriginallowlisted) {
     console.info("Bad origin", origin);
   }
 
   let cacheControl = "no-store";
-  if (event.queryStringParameters["ec"] == "noscript") {
+  if (context.params["ec"] == "noscript") {
     cacheControl = "max-age: 30";
   }
 
@@ -100,13 +100,13 @@ exports.handler = function (event, context, callback) {
     });
   };
 
-  if (event.httpMethod === "OPTIONS") {
+  if (context.request.method === "OPTIONS") {
     // CORS (required if you use a different subdomain to host this function, or a different domain entirely)
     done();
   } else if (isOriginallowlisted) {
     // allow GET or POST, but only for allowlisted domains
     done(); // Fire and forget
-    proxyToGoogleAnalytics(event);
+    proxyToGoogleAnalytics(context.request);
   } else {
     callback("Not found");
   }
