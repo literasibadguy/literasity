@@ -115,3 +115,18 @@ v1.8.6
 - Poster promosi Kurva untuk Jepang ku buatkan khusus
 
 {% image "./img/remote/kurva-japan-poster.jpg", "Kurva Official Japanese Poster" %}
+
+**10 Mei 2023**
+
+v1.8.7
+
+- Halaman utama untuk menampilkan rekomendasi Channel agak lama, jadi aku lampirkan data offline file.json di dalam
+- Fix penampilan daftar item di bagian Search, menampilkan total kontennya
+- Kurva untuk halaman App Store Jepang, sudah [berbahasa Jepang](https://apps.apple.com/jp/app/kurva-mood-library/id1470940049?platform=iphone)
+
+**27 Mei 2023**
+
+v1.8.8
+
+- Fix konten motion tidak bergerak untuk ke halaman detail konten, yang mengingat sebelumnya karena menampilkan puluhan konten motion berformat GIF dalam satu halaman, bisa menguras baterai iPhone atau iPad
+- Fix layout tampilan Grid, tiga baris untuk iOS, enam baris untuk iPadOS
