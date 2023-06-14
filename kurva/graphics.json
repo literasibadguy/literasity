@@ -1,0 +1,26 @@
+{
+    "name": "graphics",
+    "cover": "",
+    "lists": [
+            {
+                "id": 2129972,
+                "title": "F*LM",
+                "cover": "",
+                "created_at": "2023-04-14T16:27:41.891Z",
+                "updated_at": "2023-06-08T09:01:07.209Z",
+                "added_to_at": "2023-06-08T09:01:07.209Z",
+                "published": true,
+                "open": true,
+                "collaboration": true,
+                "collaborator_count": 1,
+                "slug": "f-lm",
+                "length": 67,
+                "kind": "default",
+                "status": "public",
+                "user_id": 488561,
+                "metadata": {
+                "description": ""
+                }
+            }
+    ]
+}

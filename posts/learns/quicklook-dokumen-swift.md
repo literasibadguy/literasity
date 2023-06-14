@@ -23,6 +23,9 @@ berikut gambaran untuk pengembangannya bersama SwiftUI
 
 ```swift
 
+import QuickLook
+import UIKit
+
 class AppQLPreviewController: UIViewController {
     let urlTerpilih: URL
     let urls: [URL]
