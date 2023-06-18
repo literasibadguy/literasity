@@ -12,7 +12,7 @@ Dalam dua hari Internet nya mungkin akan mati
 Internet sebulan, hanya modal untuk dua tiga tulisan
 Hari hari-nya selain membantu ibu sehari hari
 menulis kata kata di depan komputernya
-sisa-nya dengerin LE SSERAFIM, NewJeans, Aespa, IVE
+sisa-nya dengerin LE SSERAFIM, NewJeans, Aespa, IVE, FIFTY FIFTY
 K-Pop generasi keempat jadi perhatian-nya
 lebih dari obsesi AI menguasai dunia
 
@@ -23,27 +23,25 @@ Seorang pria misterius, independen, nakal, brengsek, ganteng juga,
 rajin sholat dan rajin mengaji
 Dia gak mau segelas Americano menjadi sia sia,
 konsumsi untuk menulis literasi antara waktu
-ayam berkokok atau biawak turun pas Maghrib
+ayam berkokok atau biawak turun menjelang Maghrib
 
 Dia terus menulis,
 hanya coba bikin para wanita sekitarnya kagum
 dari single mom yang bisa bahasa korea dan mandarin,
 wanita bohay dengan watak psikopat,
-emak emak dengan kata mutiara,
+emak emak dengan kata kata mutiara,
 sugar baby yang sudah insaf, 
 cewek sultan yang suka keliling dunia, 
 cewek sholelah sibuk dengan karirnya,
-namun dia belum memikirkan jodohnya,
-Si Gemini masih berdoa untuk wanita tepatnya
 kebanyakan tulisannya, terinspirasi dari momen terkecil
 
-Dia penasaran
+Dia penasaran tanpa berharap jawaban
 Tulisannya bisa membuat wanita tersenyum ga
 apalagi wanita yang satu itu
 mengaku senyuman paling mahal
 mungkin dia tersenyum tanpa kehadirannya
 mungkin tersenyum tanpa satu waktu bersama-nya
-senyumnya hanya kelihatan bagi yang beruntung
+senyumnya hanya kelihatan bagi yang beruntung, bagi orang orang dekatnya
 seperti bintang bintang di langit malam
 Jika ia tersenyum, mungkin dia sudah jadi pria paling bahagia se-dunia
 Gak ada lagi kebahagiaan yang dia kejar
