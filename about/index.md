@@ -18,9 +18,11 @@ Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website
 
 ## Dukungan kamu
 
-Aku butuh [dukungan teman teman](https://saweria.co/literasibadguy) ni sawernya, untuk modalin website ini tetap hidup, modal ngopi sambil menulis, modal bayar Internet untuk upload, sama pulpen biru dengan kertas kuning. Kalau pas malam minggu, beli martabak manis depan rumah.
+Terima kasih yang sudah baca menikmati website ini, kalau kamu menyayangi support penulis ini, biar bisa semangat dan tulisan tulisan yang heboh ke depannya, dan bermanfaat lagi, bisa transfer langsung ke BCA penulis, di sini
 
-Atau kamu bisa [Tip lewat PayPal](https://paypal.me/firasraf)
+<img src="/img/remote/bca-firas.gif" />
+
+Atau kamu bisa [Tip dengan Dollar atau Euro lewat PayPal](https://paypal.me/firasraf)
 
 Terima kasih atas semua-nya.
 
