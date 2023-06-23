@@ -3,7 +3,6 @@ title: Pasang Firebase dalam SwiftUI
 description: Di sini aku akan men-eksplor pengembangan app dengan SwiftUI
 date: 2023-06-23
 scheduled: 2023-06-23
-draft: true
 tags:
   - learns
 layout: layouts/post.njk
