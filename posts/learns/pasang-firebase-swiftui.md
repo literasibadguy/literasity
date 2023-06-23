@@ -12,11 +12,17 @@ Firebase termasuk layanan server favorit dari Google Cloud. Cepat, ringan dan mu
 
 Notifikasi dengan Firebase Messaging, sudah jadi satu paket, aku ingin mengambil benefit di sini
 
-Pertama, kita harus memasang Firebase Package dulu di proyek XCode, lewat Swift Package Manager
+Pertama, kita harus memasang Firebase Package dulu di proyek Xcode nya terbuka, lewat Swift Package Manager
 
-File -> Add Packages..
+- File -> Add Packages..
 
-Cari `Firebase`, nanti muncul `firebase-ios-sdk`
+- Cari `Firebase`, nanti muncul `firebase-ios-sdk`
+
+- Centang-kan "FirebaseAuth", "FirebaseFirestore", "FirebaseFirestoreSwift", "FirebaseStorage" untuk contoh tulisan di sini
+
+- Sudah terpilih, tekan "Add Package"
+
+*Catatan: Nunggu-nya mungkin lama, tapi kita ambil beberapa Library yang akan dipakai, aku sarankan biarkan kosong "Firebase Analytics", sedikit kompleks di SwiftUI, akan menganggu proses building*
 
 Sebelum pengembangan, pastikan kamu sudah terdaftar di Firebase, sudah mendaftarkan identitas proyeknya di Firebase Console, dan mengikuti panduan Firebase untuk integrasi SDK iOS, karena tulisan ini dokumentasi ku bersama SwiftUI
 
@@ -360,3 +366,7 @@ struct LengkapiProfileView: View {
 Setelah foto profil di-upload berhasil, hasilnya ku dapatin URL, jadi alamat URL untuk mengambil gambar tersebut akan kita *update* struktur data pengguna di Firestore, di situ petualangan selanjutnya.
 
 Dokumentasi ini hanya gambaran besar, mungkin secara spesifik pengembangan Firebase akan ku *update* atau di halaman baru. Semoga bermanfaat.
+
+Referensi:
+
+- [Firebase Documentation](https://firebase.google.com/docs/build)
