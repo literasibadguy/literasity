@@ -512,7 +512,7 @@ ul {
 }
 @media (min-width: 600px) {
   h1 {
-    font-size: 4.3978rem;
+    font-size: 2.3978rem;
     line-height: 4.4rem;
   }
   h1,
@@ -520,7 +520,7 @@ ul {
     margin-bottom: 1.496rem;
   }
   h2 {
-    font-size: 3.1097rem;
+    font-size: 2.1097rem;
     line-height: 3.52rem;
   }
   h3 {
