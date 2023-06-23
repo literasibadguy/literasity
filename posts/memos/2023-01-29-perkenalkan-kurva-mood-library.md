@@ -69,40 +69,29 @@ Semoga aplikasi ini bermanfaat ya bagi yang menggunakannya, aku terus coba berus
 
 ## Catatan log
 
-**2 Februari 2023**
+**15 Juni 2023**
 
-v1.8.2
+Kalau belum melihat tampilan [website baru Kurva](https://kurva.xyz), mampir deh
 
-- Ada beberapa pengguna yang mengalami black screen tanpa screen saat mengklik konten secara detail dan di versi ini sudah ku fix, API nya agak sedikit memberi respon lama saat mengambil data konten, apalagi gambar. Jadi ku kasih trik dengan mengambil data konten sementara dari feed konten-nya.
-- Aku menambah fitur Bookmarks, biar pengguna bisa menyimpan katalog-nya atau *Channel*, ga merasa kehilangan
+- Navigasi Bar transparan ternyata bikin stunning untuk menikmati feeds
+- Selama ini aku baru sadar, setiap bookmark channel, yang baru ada di ujung bawah, data-nya
+jadi aku reverse
+- Berlaku juga untuk folder offline Library
 
-**22 Februari 2023**
+**27 Mei 2023**
 
-{% image "./img/remote/kurva-poster.jpg", "Kurva Official Poster" %}
+v1.8.8
 
-v1.8.3
+- Fix konten motion tidak bergerak untuk ke halaman detail konten, yang mengingat sebelumnya karena menampilkan puluhan konten motion berformat GIF dalam satu halaman, bisa menguras baterai iPhone atau iPad
+- Fix layout tampilan Grid, tiga baris untuk iOS, enam baris untuk iPadOS
 
-- menambahkan opsi "Light Mode", untuk mengganti tema ke warna putih
-- Untuk performa Offline Library sekarang signifikan lebih cepat dari versi sebelumnya, selama ini aku menggunakan SQL BLOB, ga rekomendasi untuk arsip ribuan konten, jadi untuk data konten aku alihkan ku simpan di File Directory iOS, ini termasuk milestone juga, karena sebelumnya aku belum pernah reading dan writing Data dalam iOS, SQL hanya menyimpan lokasi data tersebut dan file identifier-nya. Tapi ini belum berlaku di GIF sebenarnya dan format dokumen lainnya.
-- Ada improvement untuk download seluruh konten di Channel-nya
-- Kurva merilis poster official-nya.
+**10 Mei 2023**
 
+v1.8.7
 
-**25 Februari 2023**
-
-v1.8.4
-
-- Membetulkan Crash saat kembali dari Detail Content ke Feed, ada kesalahan di Collection View Layout, kali ini menggunakan Compositional Layout, yang hanya support iOS 13 ke atas, dari API-nya
-- Aku menambah placeholder di Image View, berbeda placeholder antara dark dan light mode
-- Fix offline library untuk menampilkan seluruh konten, sudah mulai pede untuk menampilkan 10,000 konten dalam satu koleksi, tapi ini ku pelajari lagi lebih dalam nanti.
-
-**9 Maret 2023**
-
-v1.8.5
-
-- Aku menambahkan support bahasa Indonesia, Jepang dan Chinese, tapi aku baru sadar halaman Search belum ku lokalisasi juga, ini PR untuk versi selanjutnya
-- Aku membetulkan miskomunikasi antara konten teks dan gambar, saat mengklik konten teks, yang keluar malah konten gambar, ada yang menyangkut ternyata
-- Aku membetulkan saat pengguna mencoba masuk ke Sumber konten-nya, ini akan masuk ke Web Browser sendiri.
+- Halaman utama untuk menampilkan rekomendasi Channel agak lama, jadi aku lampirkan data offline file.json di dalam
+- Fix penampilan daftar item di bagian Search, menampilkan total kontennya
+- Kurva untuk halaman App Store Jepang, sudah [berbahasa Jepang](https://apps.apple.com/jp/app/kurva-mood-library/id1470940049?platform=iphone)
 
 **20 Maret 2023**
 
@@ -116,17 +105,36 @@ v1.8.6
 
 {% image "./img/remote/kurva-japan-poster.jpg", "Kurva Official Japanese Poster" %}
 
-**10 Mei 2023**
+**9 Maret 2023**
 
-v1.8.7
+v1.8.5
 
-- Halaman utama untuk menampilkan rekomendasi Channel agak lama, jadi aku lampirkan data offline file.json di dalam
-- Fix penampilan daftar item di bagian Search, menampilkan total kontennya
-- Kurva untuk halaman App Store Jepang, sudah [berbahasa Jepang](https://apps.apple.com/jp/app/kurva-mood-library/id1470940049?platform=iphone)
+- Aku menambahkan support bahasa Indonesia, Jepang dan Chinese, tapi aku baru sadar halaman Search belum ku lokalisasi juga, ini PR untuk versi selanjutnya
+- Aku membetulkan miskomunikasi antara konten teks dan gambar, saat mengklik konten teks, yang keluar malah konten gambar, ada yang menyangkut ternyata
+- Aku membetulkan saat pengguna mencoba masuk ke Sumber konten-nya, ini akan masuk ke Web Browser sendiri.
 
-**27 Mei 2023**
+**25 Februari 2023**
 
-v1.8.8
+v1.8.4
 
-- Fix konten motion tidak bergerak untuk ke halaman detail konten, yang mengingat sebelumnya karena menampilkan puluhan konten motion berformat GIF dalam satu halaman, bisa menguras baterai iPhone atau iPad
-- Fix layout tampilan Grid, tiga baris untuk iOS, enam baris untuk iPadOS
+- Membetulkan Crash saat kembali dari Detail Content ke Feed, ada kesalahan di Collection View Layout, kali ini menggunakan Compositional Layout, yang hanya support iOS 13 ke atas, dari API-nya
+- Aku menambah placeholder di Image View, berbeda placeholder antara dark dan light mode
+- Fix offline library untuk menampilkan seluruh konten, sudah mulai pede untuk menampilkan 10,000 konten dalam satu koleksi, tapi ini ku pelajari lagi lebih dalam nanti.
+
+**22 Februari 2023**
+
+{% image "./img/remote/kurva-poster.jpg", "Kurva Official Poster" %}
+
+v1.8.3
+
+- menambahkan opsi "Light Mode", untuk mengganti tema ke warna putih
+- Untuk performa Offline Library sekarang signifikan lebih cepat dari versi sebelumnya, selama ini aku menggunakan SQL BLOB, ga rekomendasi untuk arsip ribuan konten, jadi untuk data konten aku alihkan ku simpan di File Directory iOS, ini termasuk milestone juga, karena sebelumnya aku belum pernah reading dan writing Data dalam iOS, SQL hanya menyimpan lokasi data tersebut dan file identifier-nya. Tapi ini belum berlaku di GIF sebenarnya dan format dokumen lainnya.
+- Ada improvement untuk download seluruh konten di Channel-nya
+- Kurva merilis poster official-nya.
+
+**2 Februari 2023**
+
+v1.8.2
+
+- Ada beberapa pengguna yang mengalami black screen tanpa screen saat mengklik konten secara detail dan di versi ini sudah ku fix, API nya agak sedikit memberi respon lama saat mengambil data konten, apalagi gambar. Jadi ku kasih trik dengan mengambil data konten sementara dari feed konten-nya.
+- Aku menambah fitur Bookmarks, biar pengguna bisa menyimpan katalog-nya atau *Channel*, ga merasa kehilangan
