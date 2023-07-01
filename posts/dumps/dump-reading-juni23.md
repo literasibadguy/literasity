@@ -3,7 +3,6 @@ title: Bacaan Link Juni 2023
 description: dumps
 date: 2023-06-30
 scheduled: 2023-06-30
-draft: true
 tags:
   - dumps
 layout: layouts/post.njk
