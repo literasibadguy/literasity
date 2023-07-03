@@ -7,9 +7,9 @@ layout: layouts/home.njk
 Periode 2023 (Betas)
 
 Jadwal:
-12 Juni - 18 Juni       `Tersedia`
-19 Juni - 25 Juni       `Tersedia`
-26 Juni - 2 Juli        `Tersedia`
+12 Juni - 18 Juni       `Lewat`
+19 Juni - 25 Juni       `Lewat`
+26 Juni - 2 Juli        `Lewat`
 3 Juli - 9 Juli         `Tersedia`
 10 Juli - 16 Juli       `Tersedia`
 17 Juli - 23 Juli       `Tersedia`
