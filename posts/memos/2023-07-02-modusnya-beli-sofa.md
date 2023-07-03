@@ -32,8 +32,10 @@ Demonstrasi, seolah olah jadi kucing, dekatin samping sofa berwarna kuning, seng
 
 "Sofa yang sebelah bang, masih aman" terus dia menunjuk Sofa yang sebelahnya
 Tapi pilihanku yang warna kuning
-"Kalau yang bahan seperti ini, agak rentan, terus kalau dicakar kucing, suka timbul benang" Wanita sales ini memang kasih terbaik untuk calon pembeli-nya
-"Mending bang kucing-nya dikurung" Mba-nya pandai aja
+"Kalau yang bahan seperti ini, agak rentan" Wanita sales ini memang kasih terbaik untuk calon pembeli-nya
+"ITULAH BELI SOFA MAHAL MAHAL, UJUNG UJUNGNYA JADI MAINAN KUCING"
+Dia tertawa
+"Mending bang kucing-nya dikurung" solusi terakhir
 "GAK-LAH MBA KASIAN-LAH DIA"
 Dalam hati "NGOBROL SAMA MBA UDAH SENANG KOQ MBA MBA"
 
@@ -54,8 +56,8 @@ Meyakinkan dia
 "EMANG NI OFFICE-NYA DI MANA"
 "Kita di Jalan bla bla bang" karakter wanita sales
 "YANG PENTING MBA, AKU MAU SOFA BARU-KU TAHAN LAMA"
-"HARGA 17JUTA MASUK AKAL, INCLUDE DENGAN MEJA-NYA"
-Meja-nya atasnya bahan marmer warna putih, kelihatannya berat, tapi miminal tumpahan kopi enak bersihkan
+"HARGA 17JUTA MASIH MASUK AKAL, INCLUDE DENGAN MEJA-NYA"
+Meja-nya atasnya bahan marmer warna putih, kelihatannya berat, tapi miminal tumpahan kopi enak bersihkannya
 "Ini bang.." mengarahkan ku
 "Abang bisa cabut bantal di-alasnya, kalau mau cuci" Ni sofa banyak kejutan
 Brand lokal tapi punya kualitas
