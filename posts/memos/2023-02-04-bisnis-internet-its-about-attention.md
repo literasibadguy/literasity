@@ -5,7 +5,7 @@ date: 2023-01-29
 scheduled: 2023-01-29
 draft: true
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -4,7 +4,7 @@ description: Menulis membuatku terasa gampang cari ide
 date: 2023-04-12
 scheduled: 2023-04-12
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

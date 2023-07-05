@@ -4,7 +4,7 @@ description: Mereka teman dari RW sebelah yang rajin ke masjid
 date: 2023-03-10
 scheduled: 2023-03-10
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

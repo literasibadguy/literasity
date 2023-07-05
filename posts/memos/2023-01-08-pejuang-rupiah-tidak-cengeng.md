@@ -4,7 +4,7 @@ description: Pemilik grosir memotivasi anak buah-nya
 date: 2023-01-08
 scheduled: 2023-01-08
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

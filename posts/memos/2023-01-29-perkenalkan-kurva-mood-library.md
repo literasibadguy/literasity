@@ -4,7 +4,7 @@ description: Download sekarang di App Store. Aplikasi untuk meneksplor ide
 date: 2023-01-29
 scheduled: 2023-01-29
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

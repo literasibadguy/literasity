@@ -4,7 +4,7 @@ description: Selamat Menjalani Puasa ya
 date: 2022-04-05
 scheduled: 2022-04-05
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

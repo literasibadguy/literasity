@@ -4,7 +4,7 @@ description: Kadang kata kata bisa menang dari foto wanita cantik
 date: 2022-11-28
 scheduled: 2022-11-28
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -4,7 +4,7 @@ description: Keseharian di hari minggu
 date: 2023-03-19
 scheduled: 2023-03-19
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

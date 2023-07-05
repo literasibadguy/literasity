@@ -1,0 +1,9 @@
+<ul>
+{% for post in madinglist | reverse %}
+  <li>
+    <a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+    <time  datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    <p> {{ post.content }}</p>
+  </li>
+{% endfor %}
+</ul>

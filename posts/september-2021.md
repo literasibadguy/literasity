@@ -4,7 +4,7 @@ description: List Bacaan September 21
 date: 2021-09-02
 scheduled: 2021-19-02
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

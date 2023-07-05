@@ -4,7 +4,7 @@ description: Menyendiri di awan mendung, tengah keramaian merindukan meratapi se
 date: 2022-11-03
 scheduled: 2022-11-03
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

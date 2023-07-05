@@ -4,7 +4,7 @@ description: Bisa bayar pakai QRIS
 date: 2023-03-24
 scheduled: 2023-03-24
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

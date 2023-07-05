@@ -4,7 +4,7 @@ description: Bicara soal ide bisnis ayahku
 date: 2023-04-16
 scheduled: 2023-04-16
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

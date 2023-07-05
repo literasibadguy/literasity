@@ -4,7 +4,7 @@ description: tulisan Malam Jumat di akhir akhir Sya'ban
 date: 2023-03-16
 scheduled: 2023-03-16
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

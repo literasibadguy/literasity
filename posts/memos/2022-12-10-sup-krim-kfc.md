@@ -4,7 +4,7 @@ description: Aku ga bisa menyapa-nya.
 date: 2022-12-10
 scheduled: 2022-12-10
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

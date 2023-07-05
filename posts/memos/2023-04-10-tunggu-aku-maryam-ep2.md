@@ -4,7 +4,7 @@ description: Tunggu aku maryam masih on the move
 date: 2023-04-10
 scheduled: 2023-04-10
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

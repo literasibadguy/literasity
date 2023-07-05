@@ -4,7 +4,7 @@ description: Pengalaman segalanya
 date: 2023-02-09
 scheduled: 2023-02-09
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

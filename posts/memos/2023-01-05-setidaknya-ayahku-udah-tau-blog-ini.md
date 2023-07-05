@@ -4,7 +4,7 @@ description: Terima kasih ayah
 date: 2023-01-05
 scheduled: 2023-01-05
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

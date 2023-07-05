@@ -4,7 +4,7 @@ description: List Bacaan Februari 2022
 date: 2022-02-02
 scheduled: 2022-02-02
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

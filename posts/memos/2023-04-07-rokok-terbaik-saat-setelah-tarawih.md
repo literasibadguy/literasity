@@ -4,7 +4,7 @@ description: Dia paling ringan hatinya setelah tarawih
 date: 2023-04-09
 scheduled: 2023-04-09
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

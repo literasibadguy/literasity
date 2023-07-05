@@ -4,7 +4,7 @@ description: Ini sudah menjadi privilige
 date: 2022-12-08
 scheduled: 2022-12-08
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

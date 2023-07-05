@@ -4,7 +4,7 @@ description: Hebatnya iPhone bisa menghancuri kehidupan orang.
 date: 2022-12-21
 scheduled: 2022-12-21
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

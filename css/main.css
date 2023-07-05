@@ -937,6 +937,11 @@ header nav label {
   font-style: normal;
   text-align: right;
 }
+
+.mading-header {
+  text-align: left;
+}
+
 main {
   max-width: 70rem;
   margin: 0 auto;

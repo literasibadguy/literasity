@@ -4,7 +4,7 @@ description: Simpanse tidak berkomunikasi awalnya mereka pamer hiburan satu sama
 date: 2023-01-22
 scheduled: 2023-01-22
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

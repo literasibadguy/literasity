@@ -4,7 +4,7 @@ description: Ini kebiasaan kecil mungkin bisa menguatkan mindset pengendalian di
 date: 2023-01-26
 scheduled: 2023-01-26
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

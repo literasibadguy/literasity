@@ -4,7 +4,7 @@ description: Terlalu banyak janji tinggalkan saja
 date: 2022-11-29
 scheduled: 2022-11-29
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

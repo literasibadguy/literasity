@@ -4,7 +4,7 @@ description: Terima kasih sudah bersama blognya literasibadguy di 2022.
 date: 2022-12-30
 scheduled: 2022-12-30
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -4,7 +4,7 @@ description: Ada dua pilihan mengisi waktu pilih menang atau kalah
 date: 2023-01-02
 scheduled: 2023-01-02
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -4,7 +4,7 @@ description: Warung Kopi persinggahan ku di kampung
 date: 2023-03-12
 scheduled: 2023-03-12
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

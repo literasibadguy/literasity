@@ -15,4 +15,20 @@ https://www.theverge.com/23778253/google-reader-death-2013-rss-social Cerita per
 
 https://restofworld.org/2023/exporter-industry-behind-ai/ Industri AI basic-nya hanya scrapping data, itulah kenapa mereka butuh pasukan untuk meng-input data-nya, banyak perusahaan yang men-provide solusi outsourcing data untuk para perusahaan AI. Mereka sebut Annotators. Mereka diperlakukan seperti Moderations, tapi gak sampai trauma, bayaran-nya sama aja.
 
+> Saya gak mau ada yang tau soal ini
+> Nanti saya kabari
+>
+> atas
+>
+> astast
+
+astas
+
+https://giansegato.com/essays/edutainment-is-not-learning
+
+https://tinyempires.substack.com/p/4-mistakes-to-avoid-to-build-a-better
+
+https://www.kodingkitty.com/blog/how-to-build-a-website/
+
+https://www.spill.com/
 

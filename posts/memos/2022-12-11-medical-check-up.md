@@ -4,7 +4,7 @@ description: Cerita pendek perjuangan *single mom*
 date: 2022-12-11
 scheduled: 2022-12-11
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

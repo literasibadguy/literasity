@@ -4,7 +4,7 @@ description: List Bacaan Agustus 21
 date: 2021-08-01
 scheduled: 2021-08-01
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

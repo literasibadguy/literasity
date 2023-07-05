@@ -4,7 +4,7 @@ description: List Bacaan Oktober 21
 date: 2021-10-02
 scheduled: 2021-10-02
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -4,7 +4,7 @@ description: Pokoknya ga mau ketinggalan nawarin sosis atau kopi
 date: 2023-03-05
 scheduled: 2023-03-05
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -4,7 +4,7 @@ description: Capek, exhausting literasibadguy lagi kehilangan arah
 date: 2023-02-02
 scheduled: 2023-02-02
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

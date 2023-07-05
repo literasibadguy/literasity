@@ -4,7 +4,7 @@ description: Setiap hari nya aku ga bisa ninggalin apa yang terjadi di Internet 
 date: 2022-03-03
 scheduled: 2022-03-03
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -1,0 +1,6 @@
+{
+	"tags": ["mading"],
+	"excludeFromSidebar": true,
+	"layout": "layouts/post.njk",
+	"permalink": "posts/mading/{{ page.fileSlug }}/"
+}

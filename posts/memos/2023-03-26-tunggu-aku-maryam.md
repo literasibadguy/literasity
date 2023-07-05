@@ -4,7 +4,7 @@ description: Aku belum ketemu dia sejak itu.
 date: 2023-03-26
 scheduled: 2023-03-26
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 

@@ -4,7 +4,7 @@ description: Kadang kalau belanja terbalik
 date: 2023-04-03
 scheduled: 2023-04-03
 tags:
-  - another-tag
+  - memos
 layout: layouts/post.njk
 ---
 
