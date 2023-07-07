@@ -43,7 +43,7 @@ di warung kopi langganan kerabat, sama para PAKSU
 "ANAK ZAMAN SEKARANG, GAK MENGHARGAI WAKTU"
 Meja maka-nya gabung dekat jendela, ada kue buatan NEK WAN, kue cake coklat marmer, rasanya gurih enak gitu dan pisang masak di atas piring, di pinggiran dekat jendela, botol botol kecap saus bersusun
 aku mengambil satu potong kue NEK WAN
-Sedang NEK WAN menghidupkan rokoknya, dengan korek
+Sedang NEK WAN menghidupkan rokoknya, dengan korek jadul
 "NEK WAN, SETIAP HARI BANGUN JAM 1, DAH DOELOE NGOPI"
 Secangkir kopi, dan NEK WAN menghembuskan asap rokoknya ke jendela
 "NEK WAN TOK ALHAMDULILLAH MAKIN BERUMUR MAKIN BUGAR BANG"
