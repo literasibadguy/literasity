@@ -32,3 +32,11 @@ https://www.kodingkitty.com/blog/how-to-build-a-website/
 
 https://www.spill.com/
 
+https://ktxr.rs/d1/y/1688789982/0/e/lgrsfic/884000/2d0a5d26d98343f6fdc86575293b99c0.html~/2XA040zlRrHTm3dj_X0pEQ/understand-chiang-ted-2010-ted-chiang-understand--annas-archive.html
+
+"TED CHIANG FIKSI SCIENCE NOVELIST 
+
+https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise
+
+https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information
+
