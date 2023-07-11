@@ -16,7 +16,7 @@ layout: layouts/mading.njk
 
 *Curiosity*, kalau aja mindset kamu sudah ngunci *penasaran* dengan proses pekerjaan-nya, ada yang matuk kepala kamu seolah olah, mana yang memang "penting" untuk dikerjakan
 
-Paul Graham, guru besar bisnis teknologi dan internet men-eksplor beberapa daftar teknik gimana cara bekerja dengan baik dalam beberapa bidang, kaitannya bagaimana. Salah satu tujuan-nya, membuat panduan yang bisa bermanfaat untuk orang semua bidang. 
+Paul Graham, guru besar bisnis teknologi dan internet men-eksplor beberapa daftar teknik gimana cara bekerja dengan baik di berbagai industri, kaitannya bagaimana, vibe-nya gimana. Jadi gak hanya orang teknologi nangkap. 
 
 Di sini banyak ku tonjolkan dari insting *curiosity* kamu
 
