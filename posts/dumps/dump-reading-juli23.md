@@ -40,3 +40,17 @@ https://www.chinatalk.media/p/why-nvidia-keeps-winning-the-rise
 
 https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information
 
+https://windows95tips.com/ - Windows 95 Tips, Tricks, and Tweaks (Website-nya 2013)
+
+https://factoryfactoryfactory.net/ 
+
+https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale
+
+https://archive.is/SDmDp [How to make money by losing 300ribu dollar] Wall Street Journal
+
+https://milkv.io/duo
+
+https://saurabhs.org/advanced-macos-commands - Tingkat dewa command MacOS Terminal
+
+
+https://www.youtube.com/watch?v=zWJZFQHklBg - Using Casette Tape Computer, Fabricated Textiles in Japan

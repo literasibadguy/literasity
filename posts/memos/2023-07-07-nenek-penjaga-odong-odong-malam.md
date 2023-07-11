@@ -48,7 +48,7 @@ Sedang NEK WAN menghidupkan rokoknya, dengan korek jadul
 Secangkir kopi, dan NEK WAN menghembuskan asap rokoknya ke jendela
 "NEK WAN TOK ALHAMDULILLAH MAKIN BERUMUR MAKIN BUGAR BANG"
 tidak ada suara sama sekali, bahkan aku merasa melihat ke jendela, mikirnya udah buruk buruk,
-takut ada yang muncul, setan kek, buaya kek, kuntianak kek
+takut ada yang muncul, setan kek, buaya kek, kuntilanak kek
 "Memang Nek Wan tidur jam berapa?"
 "Uan-mu ni abis Isya udah tidur, jam setengah 12 udah bikin kopi, terus mandi"
 "UAN-MU TOK ABIS ISYA UDAH TIDUR, 
