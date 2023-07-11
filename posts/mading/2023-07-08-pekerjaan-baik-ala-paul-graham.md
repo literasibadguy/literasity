@@ -3,7 +3,6 @@ title: Gimana Bekerja dengan Baik ala Paul Graham
 description: Tergantung rasa penasaran mu
 date: 2023-07-08
 scheduled: 2023-07-08
-draft: true
 tags:
   - mading
 layout: layouts/mading.njk
