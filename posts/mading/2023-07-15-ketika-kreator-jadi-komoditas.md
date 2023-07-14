@@ -1,8 +1,8 @@
 ---
 title: Ketika Kreator jadi Komoditas
 description: Kalau tool-nya sudah ada, tinggal mainin game kamu
-date: 2023-07-15
-scheduled: 2023-07-15
+date: 2023-07-14
+scheduled: 2023-07-14
 tags:
   - mading
 layout: layouts/mading.njk
