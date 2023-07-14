@@ -54,3 +54,20 @@ https://saurabhs.org/advanced-macos-commands - Tingkat dewa command MacOS Termin
 
 
 https://www.youtube.com/watch?v=zWJZFQHklBg - Using Casette Tape Computer, Fabricated Textiles in Japan
+
+https://blog.nateliason.com/p/proof-you-can-do-hard-things
+
+
+https://briefs.video/videos/i-am-leaving/
+
+https://commitmono.com/ - Good font for coding
+
+
+https://world.hey.com/jason/you-only-compete-with-one-thing-48a20d93 - You only compete with one thing
+
+
+https://genyeet.substack.com/p/against-being-a-real-person-online
+
+
+https://www.notboring.co/p/the-great-online-game
+

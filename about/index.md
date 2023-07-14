@@ -18,7 +18,7 @@ Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website
 
 ## Dukungan kamu
 
-Terima kasih yang sudah baca menikmati website ini, kalau kamu menyayangi support penulis ini, biar bisa semangat dan tulisan tulisan yang heboh ke depannya, dan bermanfaat lagi, bisa transfer langsung ke BCA penulis, di sini
+Terima kasih yang sudah baca menikmati website ini, kalau kamu menyayangi support menikmati tulisan di sini, bisa transferan langsung ke BCA penulis boleh
 
 <img src="/img/remote/bca-firas.gif" />
 
