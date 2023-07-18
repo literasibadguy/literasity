@@ -71,3 +71,12 @@ https://genyeet.substack.com/p/against-being-a-real-person-online
 
 https://www.notboring.co/p/the-great-online-game
 
+https://tidyfirst.substack.com/p/fresh-work-80155
+
+
+https://recommendmeabook.com/ - Recomendasi book with a cover
+
+https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html
+
+https://patrickcollison.com/fast
+
