@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "41572d4f379cc5d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7315c2b07be5f94c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1b61830cf7ada80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "learns/form-teks-dan-menyusunnya-swiftui.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e03f2a8cfb56bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9be8867ccb75b0c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d8b002a296eec94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ba7e0ca371767e28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38acd94f5f85d826",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6e7d18bd3532c94",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e04ee8b8840cb9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb916d98f2f13767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "learns/form-teks-dan-menyusunnya-swiftui.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d4dd64f40954c56",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "learns/form-teks-dan-menyusunnya-swiftui.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5efe876f4d32a850",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f880fab1f8a99ca7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "learns/form-teks-dan-menyusunnya-swiftui.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1b61830cf7ada80",
+  "lastOpenFiles": [
+    "learns/menampilkan-data-swiftui.md",
+    "learns/navigasi-swiftui.md",
+    "learns/dynamic-island-swift.md",
+    "learns/email-routing-cloudflare.md",
+    "learns/cari-cuan-app-store-dengan-inapp-purchase.md",
+    "learns/cara-buka-reddit-tanpa-vpn.md",
+    "learns/bikin-undangan-nikah-digital-dengan-eleventy.md",
+    "learns/form-teks-dan-menyusunnya-swiftui.md",
+    "learns/membuat-website-dengan-eleventy.md",
+    "april-2022.md",
+    "learns/index.md",
+    "learns/quicklook-dokumen-swift.md",
+    "learns/pasang-firebase-swiftui.md",
+    "learns/openai-api-dalam-swiftui.md",
+    "mading/2023-07-05-membuat-sesuatu-setiap-minggu.md"
+  ]
+}

@@ -1,9 +1,8 @@
 ---
-title: Teks Form dan Menyusunnya SwiftUI Series
-description: Di sini aku akan men-eksplor pengembangan app dengan SwiftUI
+title: Teks Form dan Menyusunnya SwiftUI
+description: Input Teks di SwiftUI
 date: 2023-03-13
 scheduled: 2023-03-13
-draft: true
 tags:
   - learns
 layout: layouts/post.njk
@@ -157,5 +156,3 @@ struct HalamanGebetanBaru: View {
 ```
 
 Ada bonus pelajaran yang ku dapati di sini, untuk keluar dari HalamanGebetanBaru, aku butuh fungsi dismiss, jadi aku harus pinjam **@Environment** dismiss untuk bantuk aku keluar dan kembali ke daftar gebetan
-
-Akhirnya aku bisa menambah gebetan baru, sekarang aku butuh untuk menampilkan gebetan gebetan ku di induk kita.

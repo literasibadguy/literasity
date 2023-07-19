@@ -80,3 +80,7 @@ https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html
 
 https://patrickcollison.com/fast
 
+https://identity.sweden.se/en/design-elements/typography - Brand Guidelines Sweeden
+
+https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders - Video Gamblings Big Spender
+
