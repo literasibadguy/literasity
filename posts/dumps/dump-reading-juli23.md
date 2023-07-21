@@ -84,3 +84,7 @@ https://identity.sweden.se/en/design-elements/typography - Brand Guidelines Swee
 
 https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders - Video Gamblings Big Spender
 
+https://www.vipshek.com/blog/interaction
+
+
+

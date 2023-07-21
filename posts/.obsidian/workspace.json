@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learns/form-teks-dan-menyusunnya-swiftui.md",
+                "file": "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learns/form-teks-dan-menyusunnya-swiftui.md",
+                "file": "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learns/form-teks-dan-menyusunnya-swiftui.md",
+                "file": "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learns/form-teks-dan-menyusunnya-swiftui.md"
+                "file": "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "a1b61830cf7ada80",
   "lastOpenFiles": [
+    "mading/2023-07-15-ketika-kreator-jadi-komoditas.md",
+    "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
+    "mading/2023-07-17-edutainment-bukan-belajar.md",
+    "dumps/dump-reading-juli23.md",
+    "learns/form-teks-dan-menyusunnya-swiftui.md",
     "learns/menampilkan-data-swiftui.md",
     "learns/navigasi-swiftui.md",
     "learns/dynamic-island-swift.md",
@@ -155,7 +160,6 @@
     "learns/cari-cuan-app-store-dengan-inapp-purchase.md",
     "learns/cara-buka-reddit-tanpa-vpn.md",
     "learns/bikin-undangan-nikah-digital-dengan-eleventy.md",
-    "learns/form-teks-dan-menyusunnya-swiftui.md",
     "learns/membuat-website-dengan-eleventy.md",
     "april-2022.md",
     "learns/index.md",
