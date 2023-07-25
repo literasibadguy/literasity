@@ -10,9 +10,9 @@ Jadwal:
 12 Juni - 18 Juni       `Lewat`
 19 Juni - 25 Juni       `Lewat`
 26 Juni - 2 Juli        `Lewat`
-3 Juli - 9 Juli         `Tersedia`
-10 Juli - 16 Juli       `Tersedia`
-17 Juli - 23 Juli       `Tersedia`
+3 Juli - 9 Juli         `Lewat`
+10 Juli - 16 Juli       `Lewat`
+17 Juli - 23 Juli       `Lewat`
 24 Juli - 30 Juli       `Tersedia`
 31 Juli - 6 Agustus     `Tersedia`
 7 Agustus - 13 Agustus  `Tersedia`
