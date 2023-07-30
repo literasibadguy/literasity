@@ -16,13 +16,14 @@ Beberapa tulisan sebelumnya aku tulis lewat Inggris, kalo lagi mood nulis nulis 
 
 Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website rekomendasi Google, ku online-kan dengan serverless dari [Cloudflare Workers](https://workers.cloudflare.com/). Dibantu dengan [template](https://github.com/11ty/eleventy-base-blog)
 
-## Dukungan kamu
-
-Terima kasih yang sudah baca menikmati website ini, kalau kamu menyayangi support menikmati tulisan di sini, bisa transferan langsung ke BCA penulis boleh
+## Rekening Penulis
 
 <img src="/img/remote/bca-firas.gif" />
 
-Atau kamu bisa [Tip dengan Dollar atau Euro lewat PayPal](https://paypal.me/firasraf)
+[Paypal-nya Penulis](https://paypal.me/firasraf)
+
+Kamu bisa konfirmasi-kan ke [Email penulis](mailto:firasraf@skiff.com) 
+atau Nomor WA-nya 0811 7541634 (Firas Rafislam) 
 
 Terima kasih atas semua-nya.
 
