@@ -1,4 +1,3 @@
-
 ---
 title: Visa dan Mastercard gak pernah ketinggalan kereta
 description: Kenapa Visa dan Mastercard jadi kebutuhan dunia
