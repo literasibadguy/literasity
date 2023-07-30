@@ -86,5 +86,9 @@ https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spender
 
 https://www.vipshek.com/blog/interaction
 
+https://www.theguardian.com/commentisfree/2023/jul/23/how-to-spot-idiots-jb-pritzker-northwestern-speech
+
+
+https://every.to/p/threads-isn-t-about-twitter-it-s-about-resetting-instagram-s-social-graph
 
 

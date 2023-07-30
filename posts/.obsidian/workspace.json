@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memos/2023-07-24-warga-emas-bestie-forever.md",
+                "file": "mading/2023-07-29-visa-dan-mastercard.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 424.5,
+    "collapsed": true
   },
   "right": {
     "id": "a6e7d18bd3532c94",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memos/2023-07-24-warga-emas-bestie-forever.md",
+                "file": "mading/2023-07-29-visa-dan-mastercard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memos/2023-07-24-warga-emas-bestie-forever.md",
+                "file": "mading/2023-07-29-visa-dan-mastercard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memos/2023-07-24-warga-emas-bestie-forever.md"
+                "file": "mading/2023-07-29-visa-dan-mastercard.md"
               }
             }
           }
@@ -148,13 +150,15 @@
   },
   "active": "c0df3a4cd1e71494",
   "lastOpenFiles": [
-    "memos/2023-07-18-pastri-durian-matahari-terbit.md",
-    "memos/2023-07-24-warga-emas-bestie-forever.md",
+    "dumps/dump-reading-juli23.md",
+    "dumps/dump-reading-juni23.md",
+    "mading/2023-07-29-visa-dan-mastercard.md",
     "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
+    "memos/2023-07-24-warga-emas-bestie-forever.md",
+    "memos/2023-07-18-pastri-durian-matahari-terbit.md",
     "dumps/fishing.md",
     "mading/2023-07-15-ketika-kreator-jadi-komoditas.md",
     "mading/2023-07-17-edutainment-bukan-belajar.md",
-    "dumps/dump-reading-juli23.md",
     "learns/form-teks-dan-menyusunnya-swiftui.md",
     "learns/menampilkan-data-swiftui.md",
     "learns/navigasi-swiftui.md",
