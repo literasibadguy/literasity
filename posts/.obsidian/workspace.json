@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mading/2023-07-29-visa-dan-mastercard.md",
+                "file": "dumps/dump-reading-juli23.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mading/2023-07-29-visa-dan-mastercard.md",
+                "file": "dumps/dump-reading-juli23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mading/2023-07-29-visa-dan-mastercard.md",
+                "file": "dumps/dump-reading-juli23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mading/2023-07-29-visa-dan-mastercard.md"
+                "file": "dumps/dump-reading-juli23.md"
               }
             }
           }
@@ -150,15 +149,17 @@
   },
   "active": "c0df3a4cd1e71494",
   "lastOpenFiles": [
+    "dumps/dump-reading-agustus23.md",
+    "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
+    "mading/2023-07-08-pekerjaan-baik-ala-paul-graham.md",
     "dumps/dump-reading-juli23.md",
     "dumps/dump-reading-juni23.md",
+    "mading/2023-07-15-ketika-kreator-jadi-komoditas.md",
+    "mading/2023-07-17-edutainment-bukan-belajar.md",
     "mading/2023-07-29-visa-dan-mastercard.md",
-    "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
     "memos/2023-07-24-warga-emas-bestie-forever.md",
     "memos/2023-07-18-pastri-durian-matahari-terbit.md",
     "dumps/fishing.md",
-    "mading/2023-07-15-ketika-kreator-jadi-komoditas.md",
-    "mading/2023-07-17-edutainment-bukan-belajar.md",
     "learns/form-teks-dan-menyusunnya-swiftui.md",
     "learns/menampilkan-data-swiftui.md",
     "learns/navigasi-swiftui.md",
