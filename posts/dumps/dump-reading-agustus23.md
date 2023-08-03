@@ -10,3 +10,6 @@ layout: layouts/post.njk
 ---
 
 https://trungphan.substack.com/p/the-tale-of-two-phones
+
+https://www.robkhenderson.com/p/swiping-and-dating-preferences
+

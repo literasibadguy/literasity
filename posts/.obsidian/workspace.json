@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dumps/dump-reading-juli23.md",
+                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "809eaa9d80c02a08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dumps/dump-reading-juli23.md",
+                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dumps/dump-reading-juli23.md",
+                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dumps/dump-reading-juli23.md"
+                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md"
               }
             }
           }
@@ -147,17 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0df3a4cd1e71494",
+  "active": "809eaa9d80c02a08",
   "lastOpenFiles": [
+    "memos/2023-07-24-warga-emas-bestie-forever.md",
+    "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
     "dumps/dump-reading-agustus23.md",
+    "dumps/dump-reading-juli23.md",
     "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
     "mading/2023-07-08-pekerjaan-baik-ala-paul-graham.md",
-    "dumps/dump-reading-juli23.md",
     "dumps/dump-reading-juni23.md",
     "mading/2023-07-15-ketika-kreator-jadi-komoditas.md",
     "mading/2023-07-17-edutainment-bukan-belajar.md",
     "mading/2023-07-29-visa-dan-mastercard.md",
-    "memos/2023-07-24-warga-emas-bestie-forever.md",
     "memos/2023-07-18-pastri-durian-matahari-terbit.md",
     "dumps/fishing.md",
     "learns/form-teks-dan-menyusunnya-swiftui.md",
@@ -173,7 +187,6 @@
     "learns/index.md",
     "learns/quicklook-dokumen-swift.md",
     "learns/pasang-firebase-swiftui.md",
-    "learns/openai-api-dalam-swiftui.md",
-    "mading/2023-07-05-membuat-sesuatu-setiap-minggu.md"
+    "learns/openai-api-dalam-swiftui.md"
   ]
 }
