@@ -14,7 +14,7 @@ Mereka merintis bertiga hingga membuat Tinder menjadi sukses
 
 Karena mereka saling dekat, ada timbul cinta lokal antara Bang Mateen dan Mbak Wolfe-Herd, hingga akhirnya pacaran
 
-Namun setelah setahun lama-nya, Mbak Wolfe-Herd diperlakukan buruk sama mantan pacar-nya, Justine Mateen, suka ngirim pesan gak senonoh, bahkan foto kontol-nya, dan memanggilnya pelacur di depan tim Tinder. Karena paska pacaran, Mba Wolfe-Herd masih jabatan-nya Marketing VP, sedangkan mantan-nya si Mateen adalah bos-nya, CMO (Chief Marketing Officer)
+Namun setelah setahun lama-nya, Mbak Wolfe-Herd diperlakukan buruk sama mantan pacar-nya, Justine Mateen, suka ngirim pesan gak senonoh, bahkan foto kontol-nya, dan memanggilnya pelacur di depan tim Tinder. Karena pasca pacaran, Mba Wolfe-Herd masih jabatan-nya Marketing VP, sedangkan mantan-nya si Mateen adalah bos-nya, CMO (Chief Marketing Officer)
 
 Mba Wolfe-Herd gak terima dengan sikap pak Mateen, jadi dia cerita dan laporkan ke Sean Rad, CEO-nya tinder
 
