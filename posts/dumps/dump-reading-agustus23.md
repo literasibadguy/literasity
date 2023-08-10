@@ -13,3 +13,5 @@ https://trungphan.substack.com/p/the-tale-of-two-phones
 
 https://www.robkhenderson.com/p/swiping-and-dating-preferences
 
+https://www.outsideonline.com/culture/love-humor/why-adversity-is-good-for-you-and-your-wine/
+

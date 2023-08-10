@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
+                "file": "learns/kasih-gradiasi-warna-swiftui.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
+                "file": "dumps/dump-reading-agustus23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 424.5
   },
   "right": {
     "id": "a6e7d18bd3532c94",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
+                "file": "learns/kasih-gradiasi-warna-swiftui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
+                "file": "learns/kasih-gradiasi-warna-swiftui.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "memos/2023-08-02-kisah-cinta-bumble-tinder.md"
+                "file": "learns/kasih-gradiasi-warna-swiftui.md"
               }
             }
           }
@@ -160,18 +158,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "809eaa9d80c02a08",
+  "active": "c0df3a4cd1e71494",
   "lastOpenFiles": [
-    "memos/2023-07-24-warga-emas-bestie-forever.md",
-    "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
     "dumps/dump-reading-agustus23.md",
+    "learns/kasih-gradiasi-warna-swiftui.md",
+    "memos/2023-08-09-asam-pedas-kepala-ikan-tenggiri.md",
+    "mading/2023-08-06-serigala-yakin-dengan-pencipta-nya.md",
+    "mading/2023-07-29-visa-dan-mastercard.md",
+    "learns/quicklook-dokumen-swift.md",
+    "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
     "dumps/dump-reading-juli23.md",
+    "learns/upload-website-kamu-dengan-cloudflare-pages.md",
+    "memos/Untitled.md",
+    "memos/2023-07-24-warga-emas-bestie-forever.md",
     "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
     "mading/2023-07-08-pekerjaan-baik-ala-paul-graham.md",
     "dumps/dump-reading-juni23.md",
     "mading/2023-07-15-ketika-kreator-jadi-komoditas.md",
     "mading/2023-07-17-edutainment-bukan-belajar.md",
-    "mading/2023-07-29-visa-dan-mastercard.md",
     "memos/2023-07-18-pastri-durian-matahari-terbit.md",
     "dumps/fishing.md",
     "learns/form-teks-dan-menyusunnya-swiftui.md",
@@ -181,12 +185,6 @@
     "learns/email-routing-cloudflare.md",
     "learns/cari-cuan-app-store-dengan-inapp-purchase.md",
     "learns/cara-buka-reddit-tanpa-vpn.md",
-    "learns/bikin-undangan-nikah-digital-dengan-eleventy.md",
-    "learns/membuat-website-dengan-eleventy.md",
-    "april-2022.md",
-    "learns/index.md",
-    "learns/quicklook-dokumen-swift.md",
-    "learns/pasang-firebase-swiftui.md",
-    "learns/openai-api-dalam-swiftui.md"
+    "learns/bikin-undangan-nikah-digital-dengan-eleventy.md"
   ]
 }
