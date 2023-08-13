@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learns/kasih-gradiasi-warna-swiftui.md",
+                "file": "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "learns/kasih-gradiasi-warna-swiftui.md",
+                "file": "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "learns/kasih-gradiasi-warna-swiftui.md",
+                "file": "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "learns/kasih-gradiasi-warna-swiftui.md"
+                "file": "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md"
               }
             }
           }
@@ -158,11 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0df3a4cd1e71494",
+  "active": "3d8b002a296eec94",
   "lastOpenFiles": [
     "dumps/dump-reading-agustus23.md",
-    "learns/kasih-gradiasi-warna-swiftui.md",
     "memos/2023-08-09-asam-pedas-kepala-ikan-tenggiri.md",
+    "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md",
+    "learns/kasih-gradiasi-warna-swiftui.md",
     "mading/2023-08-06-serigala-yakin-dengan-pencipta-nya.md",
     "mading/2023-07-29-visa-dan-mastercard.md",
     "learns/quicklook-dokumen-swift.md",
@@ -184,7 +185,6 @@
     "learns/dynamic-island-swift.md",
     "learns/email-routing-cloudflare.md",
     "learns/cari-cuan-app-store-dengan-inapp-purchase.md",
-    "learns/cara-buka-reddit-tanpa-vpn.md",
-    "learns/bikin-undangan-nikah-digital-dengan-eleventy.md"
+    "learns/cara-buka-reddit-tanpa-vpn.md"
   ]
 }
