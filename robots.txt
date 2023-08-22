@@ -1,4 +1,5 @@
 User-agent: GPTBot
 Disallow: /
 
+Sitemap: https://literasi.blog/feed/feed.xml
 Sitemap: https://literasi.blog/sitemap.xml
