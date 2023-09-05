@@ -1,3 +1,15 @@
+---
+title: Welcome to the era of doom scrolling
+description: draft of doom era
+date: 2023-09-05
+scheduled: 2023-09-05
+draft: true
+tags:
+  - mading
+layout: layouts/mading.njk
+---
+
+
 
 When Steve Jobs introducing very first iPhone in January 2007, he showed people with full of surprises with "multi-touch" feature,  he showing live presentation with demo, using that iPhone scrolling full of albums in iPod app, Steve Jobs said "This is where Magic happens"
 

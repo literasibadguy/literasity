@@ -1,3 +1,13 @@
+---
+title: Hal yang aku inginkan dari internet
+description: Just Wishlist
+date: 2023-09-04
+scheduled: 2023-09-04
+draft: true
+tags:
+  - mading
+layout: layouts/mading.njk
+---
 
 
 How bad can the Internet get before it gets better? Or will it get better?
