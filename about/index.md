@@ -23,7 +23,6 @@ Website ini dikembangkan dengan [Eleventy](https://www.11ty.dev), static website
 [Paypal-nya Penulis](https://paypal.me/firasraf)
 
 Kamu bisa konfirmasi-kan ke [Email penulis](mailto:firasraf@skiff.com) 
-atau Nomor WA-nya 0811 7541634 (Firas Rafislam) 
 
 Terima kasih atas semua-nya.
 

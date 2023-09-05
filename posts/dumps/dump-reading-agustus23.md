@@ -31,6 +31,10 @@ https://www.annas-archive.org/ Annas Archive, The worlds largest open source ope
 
 https://thezbook.com/code-first-vs-product-first?x-host=thezbook.com
 
+https://www.henrikkarlsson.xyz/p/effort-pieces
+
+
+https://www.honest-broker.com/p/65-things-i-want-from-the-web-but
 
 
 Watching Clint Eastwood
