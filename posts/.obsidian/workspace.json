@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "b368295c20c4fcbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mading/2023-09-19-catatan-berpikir-kreatif-ala-rick-rubin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d60522636c335dbc",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 424.5,
+    "collapsed": true
   },
   "right": {
     "id": "a6e7d18bd3532c94",
@@ -158,8 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0df3a4cd1e71494",
+  "active": "b368295c20c4fcbc",
   "lastOpenFiles": [
+    "memos/2023-09-22-apa-bahasa-indonesia-clumsy.md",
+    "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md",
+    "memos/2023-07-11-jemput-calon-istri-di-planet-jeruk.md",
+    "memos/apa-arti-kebahagiaan-di-era-tiktok.md",
+    "memos/2023-07-18-pastri-durian-matahari-terbit.md",
+    "learns/cari-cuan-app-store-dengan-inapp-purchase.md",
     "mading/2023-07-29-visa-dan-mastercard.md",
     "mading/2023-09-19-catatan-berpikir-kreatif-ala-rick-rubin.md",
     "mading/2023-08-23-65-hal-yang-aku-inginkan-dari-internet.md",
@@ -169,22 +189,16 @@
     "mading/index.md",
     "dumps/dump-reading-agustus23.md",
     "mading/2023-08-06-serigala-yakin-dengan-pencipta-nya.md",
-    "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md",
     "memos/2023-08-09-asam-pedas-kepala-ikan-tenggiri.md",
     "learns/kasih-gradiasi-warna-swiftui.md",
     "learns/quicklook-dokumen-swift.md",
     "memos/2023-08-02-kisah-cinta-bumble-tinder.md",
     "dumps/dump-reading-juli23.md",
     "learns/upload-website-kamu-dengan-cloudflare-pages.md",
-    "memos/Untitled.md",
     "memos/2023-07-24-warga-emas-bestie-forever.md",
     "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
     "mading/2023-07-08-pekerjaan-baik-ala-paul-graham.md",
     "dumps/dump-reading-juni23.md",
-    "mading/2023-07-15-ketika-kreator-jadi-komoditas.md",
-    "mading/2023-07-17-edutainment-bukan-belajar.md",
-    "memos/2023-07-18-pastri-durian-matahari-terbit.md",
-    "dumps/fishing.md",
-    "learns/form-teks-dan-menyusunnya-swiftui.md"
+    "mading/2023-07-15-ketika-kreator-jadi-komoditas.md"
   ]
 }
