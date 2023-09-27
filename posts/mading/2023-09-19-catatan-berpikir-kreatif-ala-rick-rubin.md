@@ -45,6 +45,15 @@ Kebanyakan umumnya, tujuan berseni untuk membuat suatu artifak secara fisik atau
 
 **Look for Clues**
 
+Lihat, cari sesuatu yang kamu temukan, tapi belum tentu orang melihatnya
+
+**Practice**
+
+Kita mengira pekerjaan kreator / seniman itu dilihat dari hasil outpunya. Pekerjaan sesunnguhnya seniman cara mereka eksis di dunia ini
+
+**Submerge**
+
+
 
 
 

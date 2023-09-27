@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mading/2023-09-19-catatan-berpikir-kreatif-ala-rick-rubin.md",
+                "file": "2023-09-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 424.5
   },
   "right": {
     "id": "a6e7d18bd3532c94",
@@ -172,8 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b368295c20c4fcbc",
+  "active": "c0df3a4cd1e71494",
   "lastOpenFiles": [
+    "2023-09-19.md",
+    "mading/2023-09-19-catatan-berpikir-kreatif-ala-rick-rubin.md",
     "memos/2023-09-22-apa-bahasa-indonesia-clumsy.md",
     "memos/2023-08-13-asam-pedas-kepala-ikan-tenggiri.md",
     "memos/2023-07-11-jemput-calon-istri-di-planet-jeruk.md",
@@ -181,7 +181,6 @@
     "memos/2023-07-18-pastri-durian-matahari-terbit.md",
     "learns/cari-cuan-app-store-dengan-inapp-purchase.md",
     "mading/2023-07-29-visa-dan-mastercard.md",
-    "mading/2023-09-19-catatan-berpikir-kreatif-ala-rick-rubin.md",
     "mading/2023-08-23-65-hal-yang-aku-inginkan-dari-internet.md",
     "mading/2023-08-23-apa-yang-bisa-bikin-bahagia-di-internet.md",
     "mading/welcome-to-the-era-of-doom-scrolling.md",
@@ -198,7 +197,6 @@
     "memos/2023-07-24-warga-emas-bestie-forever.md",
     "mading/2023-07-20-yang-bikin-sayang-sama-blog-ku.md",
     "mading/2023-07-08-pekerjaan-baik-ala-paul-graham.md",
-    "dumps/dump-reading-juni23.md",
-    "mading/2023-07-15-ketika-kreator-jadi-komoditas.md"
+    "dumps/dump-reading-juni23.md"
   ]
 }
