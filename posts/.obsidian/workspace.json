@@ -42,8 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0ff0c9a2aa8241b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 424.5,
+    "collapsed": true
   },
   "right": {
     "id": "a6e7d18bd3532c94",
@@ -170,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0df3a4cd1e71494",
+  "active": "0ff0c9a2aa8241b7",
   "lastOpenFiles": [
     "2023-09-19.md",
     "mading/2023-09-19-catatan-berpikir-kreatif-ala-rick-rubin.md",
