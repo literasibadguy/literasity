@@ -184,6 +184,214 @@ Sebagai seniman, kita selalu membuat beberapa aturan setiap kali kita meneksplor
 
 **Greatness**
 
+Khawatir karena kritik, tergantung dengan komersial, membandingkan dengan riwayat kerjaan dulu. Waktu dan sumber bersatu. Aspirasi ingin mengubah dunia. Dan cerita apa saja yang berhubungan dengan "Aku ingin membuat sesuatu yang terbaik yang bisa aku buat, apapun itu", adalah kekuatan menuju menjadi terbaik
+
+**Success**
+
+Sukses tidak ada hubungan nya dengan variable di luar kamu
+
+*Loyal Audience* bisa merasa seperti penjara
+
+Sukses karena popularitas adalah barometer buruk untuk pekerjaan dan bernilai *worth*
+
+**The Ecstatic**
+
+Kebahagiaan *Ecstatic*
+
+Energi yang naik di body kita mungkin menciptakan ketenangan, menyegarkan kepercayaan kita
+
+**Point of Reference**
+
+Kadang ide ide yang tidak sesuai dengan ekspetasi kita, justru yang inovatif. Dari definisi, ide yang revolusionis tidak ada konteks. Mereka tercipta sendiri
+
+**Non-Competition
+
+Theodore Roosevelt sudah mengingatkan, perbandingan adalah pencuri pekerjaan
+
+**Essence**
+
+Esensi -*Essence*
+
+Esensi selalu ada di tengah tengah, dan pekerjaan kita selama crafting nya tidak menghilangkannya. Esensi selalu berubah, dari waktu mulai melakukannya hingga selesai. Selama kamu merevisi kreasi-nya, menambah elemen, dan memindahkan objecknya, esensi baru atau berbeda akan muncul
+
+"Perfection akhirnya didapatkan ketika tidak ada lagi yang perlu ditambahkan, tapi ketika tidak ada lagi yang perlu di hilangkan" -- Antoine de Saint-Exupery
+
+**Apocrypha**
+
+Setiap seniman mengangumi pahlawannya
+
+Kita gak pernah tahu apa makna dari kreasi-nya. Perlu diketahui untuk memingat ada kekuatan di balik pekerjaan lebih dari pemahaman kita. Ayo kita membuat seni saja, dan biarkan yang lain membuat cerita
+
+**Tuning Out**
+
+Ingat sukses komersial benar benar di luar pengendalian kamu
+
+**Self-Awareness**
+
+Posisi sistem pendidikan sekarang bukan untuk benefit kita. Itu hanya menahan kita menjadi individual yang support eksistensi kita. Independent thinking dan bebas berekspresi
+
+**Right Before Our Eyes**
+
+Kalau kamu tetap terbuka dan *stay tuned* apa yang terjadi, jawaban akan datang.
+
+**A Whisper Out Of Time**
+
+Volume tidak sama dengan value
+
+Ide paling murni bisa membawa kita tulisan paling konsekuen. Pendalaman insight bisa membuka pintu ke dunia baru. *The most delicate message* could be of the greatest importance
+
+**Expect A Surprise** (hal. 277)
+
+Kalau kita kasih perhatian, kita mungkin melihat ada pilihan hal hal artistik menarik yang datang secara gak terduga. Muncul dari momen persekutuan dengan karya, jati diri menghilang. Kadang kelihatan kesalahan
+
+Kadang kalau menulis, kalau ikutin saja alurnya, lepas saja tulisan tangannya, gak ada kekhawatiran apa kata kata selanjutnya, kadang banyak ide atau momen *nge-klik* tak terduga yang datang, yang bawa kita kejutan, jadi lepas saja prosesnya, lihat apa ide kejutan yang gak sadar tiba tiba ada
+
+**Great Expectations**
+
+Saat kita memulai proyek baru, selalu datang rasa cemas. Sering terjadi, walaupu kita sudah terbiasa membuatnya, melewati masa masa-nya, pernah berhasil membuatnya. Ada saja rasa semangat kemungkinan datang sesuatu yang bagus. Hasilnya gak  bisa kita kendalikan.
+
+Kadang kegagalan yang membuat kreasi lebih hebat. Masyarakat sudah biasa bernafas di antara kegagalan
+
+**Openness**
+
+Kunci dari keterbukaan adalah curiosity *rasa penasaran*, curiosity tidak berpihak ke satu sisi atau atau satu cara, untuk melakukan sesuatu, namun menelusuri seluruh pandangan `perspective`. Selalu terbuka untuk cara baru, selalu ingin datang dengan wawasan baru. Demi mengungkap batasan yang salah dan memberontak membuat batasan baru.
+
+**Surrounding the Lightning bolt**
+
+Kerjakan apa yang bisa, kerjakan apa yang kamu punya. Tidak butuh lebih dari yang diperlukan
+
+**24 / 7 (Staying on It)**
+
+1. Pekerjaan seniman tidak ada istilah selesai
+2. Kita tidak bisa bilang di mana cerita menarik selanjutnya, lukisan, resep atau ide bisnis datang dari mana. Seperti Pelancar yang tidak bisa mengendalikan gelombangnya, itulah kenapa penting sekali kita tetap terbangun dan selalu ada di setiap waktu. Melihat dan menunggu
+
+**Spontaneity**
+
+Sebuah kreasi yang spontan tidak lebih dan kurang masanya dari seni yang tercipta dengan penuh keringat dan perjuangan. Kualitas tidak menentukan tidak berdasarkan waktu yang kita habiskan. 
+
+Kamu mungkin khawatir ide spontan yang tidak terduga akan hilang. Biar gak hilang, ketika aku bekerja sebagai seniman, aku hanya membuat catatan nya tanpa berhenti.
+
+Apa saja yang dikatakan semuanya, seseorang menulis kannya.
+
+**How to Choose**
+
+Kalau kita biasa belajar segalanya, itu akan memudahkan kita bebas dari keyakinan, beban atau *dogma* yang berusaha untuk masuk ke jalur kita untuk mengikuti naluri kita. Semakin dekat kebebasan berekspresi kita seperti anak anak, semakin murni tes dan semakin baik kreasi seni kita
+
+**Shades and Degrees**
+
+Sebuah kreasi seni, proporsinya bisa menipu
+
+Di dalam *crafting*, banyaknya waktu yang kita habiskan dan hasilnya sangat langka dalam seimbang
+
+Apa yang menyebabkan pekerjaan benar benar hebat adalah total dari memperhatikan hal kecil secara detail - detailan
+
+**Implications (Purpose)**
+
+Kamu mungkin kadang bertanya tanya: Kenapa aku melakukan ini? Untuk apa sebenarnya?
+
+Berpikir kepada sendiri: Aku hanya ingin berkreasi
+
+**Freedom**
+
+Jadi pertanyaan nya, seorang seniman punya tanggung jawab sosial gak di masyarakatnya
+
+Kalau ada yang yakin bahwa kreator punya tanggung jawab di masyarakatnya, belum tentu mereka clear dengan fungsi seni yang mereka bawa terhadap nilai sosial
+
+The work of art serves its purpose independent of the creator's interest
+
+Kreasi seni memberikan tujuan independen dari kreator terhadap masyarakat. Ingin mengubah pemikiran orang tentang isu atau yang sedang terjadi di tengah tengah masyarakat bakal menganggu kualitas and kemurnian pekerjaan
+
+Di dalam proses berkreatif, seringnya lebih susah meraih goal-nya dengan mengarahkannya
+
+Kalau kita sudah menentukan apa ke depannya nanti bakal tidak masuk hasil terbaik yang akan datang.
+
+Paling bagus menunggunya saja sampai pekerjaannya selesai, biarkan kreasi tersebut yang bicara sendiri. 
+
+Kreasi tersebut lebih tangkas dari rencana yang dipikirkan
+
+`What we say, what we sing, what we paint --- we get to choose`
+
+**The Possessed**
+
+Seniman sering digambarkan dalam film dan buku sebagai jenius terkutuk. Kelaparan, *self-destructing*, menari di dalam kemarahan
+
+Walaupun watak karakter seniman lebih banyak hidup seperti di mistis daripada reality, bukan berarti karyanya datang begitu saja. Ini membutuhkan obsesi atau gairah untuk membuat sesuatu yang bagus. Gak mesti harus dibawa nge-tense gitu same stress. Jalani saja sambil memperkaya diri. Tergantung kamu
+
+**What Works for You (Believing)**
+
+Charles Dickens selalu membawa kompas sebelum tidur, memastikan dia tidur mengarah ke utara. Dia percaya posisi nya sinkron searah Bumi membuatnya tetap kreatif
+
+Kalau ritual atau persiapan aneh punya positif efek terhadap kerjaan seniman, berarti pantas diikutin
+
+Memang bermanfaat mendapat nasehat dari seniman yang berpengalaman, tapi sebagai informasi, bukan sebagai preskripsi / resep. Ini bisa jadi pelajaran dari pandangan lain dan melebarkan ide kamu apa yang mungkin.
+
+Jalan kamu unik, hanya untuk kamu mengikutinya. Tidak ada satu jalan menuju seni terbaik.
+
+Praktekin yang biasa kamu lakukin yang kamu konsisten, bukan praktek seniman lain. *Find your most generative method, apply it, and then let it go when it is no longer of use. There is no wrong way to make art.*
+
+Cari method yang mehasilkan, terapkan dan tinggalkan kalau memang gak berguna lagi. Tidak ada cara salah untuk membuat seni.
+
+**Adaptation**
+
+Kapasitas kita tumbuh untuk menyentuh ide yang sumbernya tawarkan. Kita terima dengan tanggung jawab dengan apresiasi, semangat dan melindungi-nya. Menerima-nya dengan rendah hati bahwa itu datang dari di luar dugaan kita. Lebih penting dari kita. Dan tidak hanya untuk kita. Kita berada di servis-nya.
+
+**Translation**
+
+*Art is an act of decoding*
+
+Seni adalah aksi untuk mengartikannya. Yang kita terima dari referensi sumbernya, dan implementasi kan melalui bahasa pilihan proses kita.
+
+Translasi bisa digambarkan bagaimana kamu mempertajam skill kamu. Kita bisa terbiasa membangunnya, lebih bebas untuk melakukan eksperimen dan sedikit kesamaan selama membuatnya. Kemampuan tersebut bisa memperlihatkan versi terbaik kepada dunia.
+
+Kamu bisa berlatih untuk semuanya. Kalau kamu merasa tidak bisa membuat irama atau melukis gambar. Perlu kamu ketahui tantangannya bukan karena kamu tidak bisa, tapi kamu belum selesai kannya. Hindari berpikir bahwa tidak mungkin. Kalau ada skill atau ilmu yang kamu butuhkan
+
+**Clean Slate**
+
+*Slate* = kritik?
+
+Seiring waktu, hampir setiap seniman merasa terlalu dekat dengan kreasi yang mereka buat. Setelah tak berakhir mengerjakan piece yang sama, tak lama perspektif hilang. Mulai timbul rasa buta, ragu dan disorientasi yang menakuti. 
+
+Pengalaman Rick Rubin, ketika dia mendengar mix yang masih progess, dia membuatnya beberapa catatan. Mungkin vokal di bridge gak lantang. Atau transisi drum di *last chorus* harus diprioritaskan.
+
+Dan datang ego di hati kamu berkata "Aku pokoknya mau ini terjadi, aku ingin dapatkan apa yang ku mau, pokoknya masalah mesti selesai"
+
+Tapi sebenarnya ini tidaklah betul. Oke, revisi terwujud, tapi apa improve pekerjaan kita? Atau jadi domino effect yang kena bikin masalah lain.
+
+Untuk menghindari *clean slate* atau mengkritik diri sendiri jangan melihat kreasi mu terlalu sering. Jika ingin menyelesaikan bagian atau langsung to the point, 
+
+**Context**
+
+Konteks mengubah konten
+
+Ada suatu cerita cinta sama di antara dua orang, masing masing cerita terjadi misalnya di Detroit, terus ada yang di Bali, yang terakhir di kota Roma kuno atau di dimensi berbeda. Di setiap cerita pasti punya makna yang berbeda.
+
+Jadi di lingkungan, waktu, musim atau daerah sekitar yang berbeda, objek yang sama bisa memiliki konteks berbeda.
+
+**The Energy (In the Work)**
+
+Apa yang bikin antusias, semangat untuk membuat kreasi tersebut?
+
+Energi berkreasi tersebut perasaan nya sama dengan kekuatan yang ada di dunia ini: Cinta
+
+Di awal awal ngerjakan proyek, semangat yang merasuk untuk terus mengembangkannya. Ketika kamu menghandle kamu dengan meteran motivasi kamu melompat, itu mengindikasikan proyek tersebut masih jadi perhatian penuh kamu. Masih menahan potensi dan ketertarikan kamu selagi masih berkomitmen.
+
+--`
+`
+`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
