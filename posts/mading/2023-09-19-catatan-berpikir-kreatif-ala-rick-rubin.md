@@ -3,7 +3,6 @@ title: Catatan Kreatif ala Rick Rubin
 description: Produser musik dengan gaya nihilistik
 date: 2023-09-19
 scheduled: 2023-09-19
-draft: true
 tags:
   - mading
 layout: layouts/mading.njk
