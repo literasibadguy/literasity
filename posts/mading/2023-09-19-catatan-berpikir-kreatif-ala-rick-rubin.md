@@ -9,6 +9,8 @@ tags:
 layout: layouts/mading.njk
 ---
 
+*Unfinished writing; motion in progress*
+
 Kemarin saya membaca buku *The Creative Act: A Way of Being* ditulis oleh Rick Rubin, dia memang terkenal di kalangan industri kreatif dan musik, tapi gaya-nya yang membuatku sedikit nge-judge, ni orang beneran bisa membuat musik, gaya nihilistik-nya dan tidak menunjukkan dirinya seorang produser
 
 Cerita suksesnya berkata tidak, dia sudah pernah berkolaborasi dengan musisi ternama, seperti Jay-Z, Kanye West, rata rata musisi Hip Hop.
@@ -374,33 +376,3 @@ Apa yang bikin antusias, semangat untuk membuat kreasi tersebut?
 Energi berkreasi tersebut perasaan nya sama dengan kekuatan yang ada di dunia ini: Cinta
 
 Di awal awal ngerjakan proyek, semangat yang merasuk untuk terus mengembangkannya. Ketika kamu menghandle kamu dengan meteran motivasi kamu melompat, itu mengindikasikan proyek tersebut masih jadi perhatian penuh kamu. Masih menahan potensi dan ketertarikan kamu selagi masih berkomitmen.
-
---`
-`
-`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

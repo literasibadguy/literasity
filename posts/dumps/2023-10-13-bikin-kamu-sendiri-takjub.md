@@ -64,3 +64,25 @@ Kita yang sehari hari bekerja dengan Internet, apalagi aku yang biasa sharing tu
 Aku sebenarnya setuju dengan persepsi *Beauty* sekarang, terutama di sosial media, mensakralkan 'aesthetic', ini yang menyebabkan kita kebanyakan orang buta terhadap persepsi seni sendiri, *not confident with their own*. Di sini Ted Gioia banyak mention para kritikus yang memprediksi dekade berikutnya tentang *Beauty*
 
 [Childhoods of Exceptional Person](https://www.henrikkarlsson.xyz/p/childhoods), mungkin orang sukses punya masa kecil yang berbeda dengan kita, tulisan ini membahas sejarah mengungkapkan beberapa tokoh terkenal, yang pengaruh dengan masa kecilnya, seorang ilmuwan yang sudah mendapat tutoring khusus atau  autodidak seperti Alan Turing.
+
+[RealFill ](https://realfill.github.io/), RealFill sebuah generative image yang bisa melengkapi gambar yang seharusnya ada, misal salah satu foto protrait-nya sudah di-crop, kamu ingin melihat background landscape-nya di mana, RealFill bisa melengkapi foto tersebut, menambah background-nya atau uncrop dari referensi foto tersebut.
+
+[Teknologi UltraRAM, Secures Funding to Validate Commercial Potential](https://www.tomshardware.com/news/ultraram-demos-prototype-chip-secures-funding-to-validate-commercial-potential) - tomshardware, UltraRAM, generasi baru flash memory yang dikembangkan oleh [QuInAS Tehnology](https://quinas.tech/), yang jelas lebih cepat, lebih tahan lama 4000 kali lipat dari NAND dan energi efisien. Perusahaan dibalik UltraRAM sudah dapat pengakuan dari industri-nya, sekarang mereka mengembangkan equipment untuk produksi masal. 
+
+https://www.raptitude.com/2010/07/your-lifestyle-has-already-been-designed/ - Tulisan lama, ini baru pertama kali ku ketemu blognya, tapi kata katanya dari 2010, sudah kasih gambaran clear gaya hidup sekarang, "waktu luang yang sedikit dan terbatas, berarti kita lebih banyak bayar untuk kepuasan, kenyamanan sementara yang bisa mereka beli" - Your Lifestyle has already been designed, Raptitude
+
+https://programmablemutter.substack.com/p/shitposting-shit-mining-and-shitv - Tiga tahap Krisis internet sekarang -> Shitposting, Shit-mining and Shit-farming 
+
+https://theirrelevantinvestor.com/2023/10/14/tools-that-want-to-be-our-masters/ Ini salah satu blog inspirasi ku untuk masuk dunia investasi, tapi kiblatnya dari arah Wall Street, namun dia khawatir dengan sosial media sekarang, X alias Twitter, sekarang mengubah kebiasaanya untuk tidak terbiasa tergantung dengan Twitter, demi pembahasan berkualitas. Bisa jadi pelajaran juga. - The Irrelevant Investor
+
+https://om.co/2023/10/15/social-internet-is-dead-get-used-to-it/ Sosial media sudah mati, lewatkan saja. Sekarang di mana kita dari sekarang? Kita mencari kehilangan di antara kabut misinformasi, realitas yang harus kita akui. Kita mesti mengakui Sosial Web, yang kita tahu, sudah tinggal, kita berdiri di era yang ditandai dengan diskoneksi sosial. - Om
+
+https://www.dazeddigital.com/life-culture/article/61136/1/behind-the-booming-ai-generated-porn-industry-led-by-tech-bros Industri pornografi mengambil potensi Artificial Inteligence, pastinya ada nilai positif dan negatif nya di sini, tapi tech bros yang punya ide seperti ini, kayaknya pada psycho nya. Porno AI benar benar sucks. - Dazed Digital
+
+
+
+
+
+
+
+
