@@ -1,3 +1,13 @@
+---
+title: What Kind Movie I Watch
+description: Balik ke era 90an
+date: 2023-10-16
+scheduled: 2023-10-16
+draft: true
+tags:
+  - mading
+layout: layouts/mading.njk
+---
 
 Akira Kurosawa favorite films
 
