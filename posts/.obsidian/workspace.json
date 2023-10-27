@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c0df3a4cd1e71494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dumps/2023-10-13-bikin-kamu-sendiri-takjub.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9af4cbcba48c3b39",
             "type": "leaf",
             "state": {
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5,
-    "collapsed": true
+    "width": 424.5
   },
   "right": {
     "id": "a6e7d18bd3532c94",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dumps/2023-10-13-bikin-kamu-sendiri-takjub.md",
+                "file": "mading/2023-10-16-what-kind-of-movie-i-watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dumps/2023-10-13-bikin-kamu-sendiri-takjub.md",
+                "file": "mading/2023-10-16-what-kind-of-movie-i-watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dumps/2023-10-13-bikin-kamu-sendiri-takjub.md"
+                "file": "mading/2023-10-16-what-kind-of-movie-i-watch.md"
               }
             }
           }
@@ -159,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0df3a4cd1e71494",
+  "active": "9af4cbcba48c3b39",
   "lastOpenFiles": [
+    "dumps/2023-10-27-investasi-sesuatu-yang-ga-bisa-dibeli.md",
     "mading/2023-10-16-what-kind-of-movie-i-watch.md",
     "dumps/2023-10-13-bikin-kamu-sendiri-takjub.md",
     "mading/2023-07-29-visa-dan-mastercard.md",
@@ -185,7 +173,6 @@
     "mading/index.md",
     "memos/2023-08-09-asam-pedas-kepala-ikan-tenggiri.md",
     "learns/kasih-gradiasi-warna-swiftui.md",
-    "learns/quicklook-dokumen-swift.md",
-    "memos/2023-08-02-kisah-cinta-bumble-tinder.md"
+    "learns/quicklook-dokumen-swift.md"
   ]
 }
