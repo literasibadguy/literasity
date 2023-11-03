@@ -11,3 +11,10 @@ layout: layouts/post.njk
 
 https://joinreboot.org/p/spotify
 
+https://www.independent.co.uk/life-style/hobbies-hustle-culture-etsy-b2393220.html
+
+https://www.artofmanliness.com/career-wealth/career/a-legendary-ad-mans-rules-for-creative-success/
+
+
+
+

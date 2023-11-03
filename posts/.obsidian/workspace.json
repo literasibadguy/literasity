@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mading/2023-10-16-what-kind-of-movie-i-watch.md",
+                "file": "mading/2023-10-31-what-kind-of-movie-i-watch.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 424.5,
+    "collapsed": true
   },
   "right": {
     "id": "a6e7d18bd3532c94",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mading/2023-10-16-what-kind-of-movie-i-watch.md",
+                "file": "mading/2023-10-31-what-kind-of-movie-i-watch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mading/2023-10-16-what-kind-of-movie-i-watch.md",
+                "file": "mading/2023-10-31-what-kind-of-movie-i-watch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mading/2023-10-16-what-kind-of-movie-i-watch.md"
+                "file": "mading/2023-10-31-what-kind-of-movie-i-watch.md"
               }
             }
           }
@@ -149,7 +150,7 @@
   "active": "9af4cbcba48c3b39",
   "lastOpenFiles": [
     "dumps/2023-10-27-investasi-sesuatu-yang-ga-bisa-dibeli.md",
-    "mading/2023-10-16-what-kind-of-movie-i-watch.md",
+    "mading/2023-10-31-what-kind-of-movie-i-watch.md",
     "dumps/2023-10-13-bikin-kamu-sendiri-takjub.md",
     "mading/2023-07-29-visa-dan-mastercard.md",
     "mading/2023-08-06-serigala-yakin-dengan-pencipta-nya.md",
