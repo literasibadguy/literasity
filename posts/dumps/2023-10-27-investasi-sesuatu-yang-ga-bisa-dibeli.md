@@ -28,6 +28,8 @@ https://pxlnv.com/blog/fake-it-til-you-fake-it/
 
 https://oak.is/thinking/mechanical-ragger/
 
+https://www.wired.com/story/end-of-the-tumblr-era/
+
 
 
 
