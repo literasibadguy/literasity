@@ -23,3 +23,5 @@ Why Cometbooks using credit downloads, It's for supporting the library in develo
 Cometbooks aren't available for US, Canada and some of the most Europe countries. Soon It will support many languages.
 
 Enjoy your discover. Coming soon on App Store
+
+[Cometbooks privacy policy](/cometbooks/comet-privacy-policy)
