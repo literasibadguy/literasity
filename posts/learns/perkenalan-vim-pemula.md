@@ -71,6 +71,12 @@ Tapi kembali ke mode NORMAL lagi, untuk berpindah ke halaman paling atas atau pa
 
 ## NAVIGASI DALAM VIM
 
+          ↑
+          k         Hint: Tekan `h`{normal} tombol di posisi kiri untuk bergerak ke kiri.
+     ← h    l →           Tekan `l`{normal} tombol di posisi kanan untuk bergerak ke kanan.
+         j                Tekan `j`{normal} tombol yang seperti ke arah bawah.
+         ↓
+
 Di awal aku menjelaskan untuk menggerakkan kursor Vim kamu dengan `h`,`j`,`k`,`l`, masih banyak perintah yang bisa kamu coba
 
 Mungkin kamu bisa berpindah dari *kata per kata* dengan menekan `b` dan `w`
@@ -161,4 +167,10 @@ Ingat gerakan dasar-nya ada di `h`, `j`, `k`, `l`, bukan tombol Arrow *arah. Awa
 Tool misteri seperti VIM, banyak yang bisa ku telusuri, apalagi cara proses kita kerja, pindah ke halaman lain.
 
 Semoga ini bisa bermanfaat, aku berharap kita bisa bertemu lagi dalam pengalaman selanjutnya bersama VIM.
+
+## SEJARAH TENTANG VIM
+
+Vim diciptakan oleh seorang programmer dari Belanda bernama Bram Moolenaar, sejak tahun 2000 eksis. Vim sebenarnya, upgrade-an teks editor dari Vi, di dalam sistem program bernama Amiga. Mulai mengembangkannya tahun 1998, sekarang menjadi Text Editor paling *advanced* sejagat pengembangan IT.
+
+Salah satu fitur yang diambil dari Vi Amiga, yaitu perintah bernama `quickfix`. Kamu bisa cek panduannya di `:help quickfix`. Kamu bisa tandai salah satu fungsi, atau bagian kode yang bikin kamu stack atau error yang belum terselesaikan. Jadi di `quickfix` kamu bisa melompat dengan gampang dari daftar-nya. Mungkin di lain hari aku akan menulis lagi selanjutnya mengenai `quickfix`.
 

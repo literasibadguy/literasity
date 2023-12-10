@@ -1,0 +1,17 @@
+---
+title: Cometbooks Search
+layout: layouts/home.njk
+eleventyNavigation:
+  key: Cari
+  order: 2
+---
+
+<script src="{{ "/js/htmx.min.js" | addHash }}" ></script>
+
+<style>{% include "css/search.css" %}</style>
+<h2>Cari di Arsip</h2>
+            <p>masa percobaan</p>
+
+ <div hx-request='{"noHeaders": true}' hx-get="http://libgen.rs/search.php?mode=last&view=simple&column=def&sort=def&sortmode=ASC&page=1" hx-swap="innerHTML settle:1s">Get Some HTML & Append It</div>
+
+
