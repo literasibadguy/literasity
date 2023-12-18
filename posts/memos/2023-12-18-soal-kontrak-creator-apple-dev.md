@@ -10,7 +10,9 @@ layout: layouts/post.njk
 
 Pontianak
 
-Salah satu email di akhir bulan ini mengkhawatirkan-ku "Your Apple Developer Program will expire in 15 days". Tiba tiba aku khawatir. Aku merasa gak fair dengan aplikasi yang ku kembangkan berbulan bulan, aplikasi Kurva termasuk aplikasi *visual library* yang ku kembangkan dengan teliti dan proses lama, lepas begitu saja, aku selalu merasa dengan Apple seperti jaminan aku sebagai pengusaha internet. Kini aku tidak bisa menutupi modal-ku untuk memperpanjang kontrak ku sebagai Apple Developer.
+Salah satu email di akhir bulan ini mengkhawatirkan-ku "Your Apple Developer Program will expire in 15 days". Tiba tiba aku khawatir, pada tepat-nya tanggal 19 Desember 2023. Aku merasa gak fair yang harus ku hadapi saat ini dengan aplikasi yang ku kembangkan berbulan bulan, apalagi Kurva termasuk aplikasi *visual library* yang ku kembangkan dengan teliti dan proses-nya lama, lepas begitu saja,
+
+Aku selalu merasa dengan Apple seperti jaminan aku sebagai pengusaha internet. Kini aku tidak bisa menutupi modal-ku untuk memperpanjang kontrak ku sebagai Apple Developer.
 
 Apple punya aturan untuk pengembang membeli lisensi Apple Developer Program sebesar $99 per tahun untuk mendistribusikan aplikasi-nya. Itu berstatus kontrak individual.
 
@@ -20,7 +22,7 @@ Selama aku menjadi Apple Developer, aku berasumsi melihat banyak potensi di sini
 
 Apalagi aku sudah menikmati penghasilan nya langsung, ditransfer sama Apple setiap awal bulan selanjutnya dari penghasilan bulan sebelumnya. Aku benar benar patuh dengan kebijakan, standar dari yang diwajibkan Apple selama menjadi pengembang. Ini penting, demi perhatian nya ke kualitas.
 
-Selama ini aku masih bekerja sendiri untuk pengerjaan aplikasi iOS. Walaupun pengguna iPhone tumbuh terus, tapi secara lingkungan pengembangan aplikasi iOS masih langka, ini juga termasuk faktor
+Selama ini aku masih bekerja sendiri untuk pengerjaan aplikasi iOS. Walaupun pengguna iPhone tumbuh terus, tapi secara lingkungan pengembangan aplikasi iOS masih langka, ini juga termasuk faktor kenapa aku konsisten di sini, menurut ku ini spesial dan akan banyak dicari dari beragam industri.
 
 Mengembangkan aplikasi iOS termasuk ilmu yang dicari, Apple bisa membangun ekosistem sendiri untuk pemograman, dengan bahasa Swift yang terus berkembang, API-nya yang terus bertambah dan semakin mudah, apalagi sebentar lagi masuk era-nya Apple Vision Pro. Aku semakin ingin fokus di "skill" ini. Sayangnya gak bisa ku buktikan lagi di App Store
 
