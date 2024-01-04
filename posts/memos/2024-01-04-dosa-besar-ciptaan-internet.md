@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 "You guys too busy chasing skirt, let me tell you something, I know I'm hot, but you should control yourself" - Jinnytty
 
-Kalau aku seorang Mafia dan ingin membangun bisnis Internet, ada dua pilihan bisa ku jalankan, judi online atau industr pornografi. Tapi jika memikirkan jangka panjangnya, aku memilih pornografi. Pornografi ini diam diam bisnis miliaran yang berjalan secara tidak nampak.
+Kalau aku seorang Mafia dan ingin membangun bisnis Internet, ada dua pilihan bisa ku jalankan, judi online atau industri pornografi. Tapi jika memikirkan jangka panjangnya, aku memilih pornografi. Pornografi ini diam diam bisnis miliaran yang berjalan secara tidak nampak.
 
 Akses semakin gampang, menjangkaunya semakin gampang. Kamu hanya butuh trigger untuk menarik perhatian. Tapi cara menjalani bisnis-nya kita harus lebih cerdas, kita membuat media perantara,bisa membuat aplikasi live streaming seperti Bigo atau Mango yang ada di App Store, dengan membuat regulasi nya secara tertulis ketat, tapi para wanita streamer akan melakukan *stripping dance* dan aksi solo memperlihatkan area sensitif-nya, membuat aplikasi ini bisa menghasilkan jutaan dalam sehari. Atau aku bisa membangun platform seperti Onlyfans, dengan mengambil komisi keuntungan setiap konten terjual.
 
