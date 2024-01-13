@@ -33,6 +33,8 @@ Ku jamin ga ada referensi pilihan konsep dapur yang kamu temui di sosmed atau Go
 
 [Seth Godin](https://seths.blog) Seth Godin mengajari ku menjadi freelance, dia benar benar upload tulisannya setiap hari, sependek dua garis pun tetap ada untuk sehari
 
+[Cry once a week](https://cryonceaweek.com) Kalau kamu pengen menangis, coba buka website ini. Menurut riset-nya, kalau kamu menangis sekali minimal seminggu, bagus untuk merelaksasi mental kamu.
+
 *Halaman ini akan terus kami perbaharui..*
 
 
