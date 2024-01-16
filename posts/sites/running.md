@@ -19,7 +19,7 @@ Under Armour termasuk nyaman menggunakannya, cuman untuk beli online-nya agak me
 Untuk sepatu, aku punya dua unit aktif dari Nike dan Adidas. Sehari hari pakainyaAdidas Adizero, untuk mingguan long run pakai-nya Nike Air Zoom Tempo. Untuk Nike harga-nya agak mahal, tapaknya agak tinggi dan kata-nya ada bahan carbonnya, aku
 ga ngerti juga. Adidas Adizero, feelingnya natural aja, namun kadang ada tekanan rasa sakit, entah itu di kaki kanan atau kiri, jadi setiap lari aku merasa ada yang ga balance, bukan jadi pikiran ku, yang penting selama lari ga bawa tegang aja.
 
-Jadwal mingguan lari ga konstan, namun ada catatan di ini, misalkan aku sesi lari-nya hari selasa, hari rabu ga running, hari kamis sore-nya sesi workout 30 menit, terutama bagian CORE dan lima menit HIIT, aku belajar dari YouTube, awalnya mengikuti sesi Elliud Kipchoge, tapi aku sesuaikan ekspetasi ku, biar nyaman tubuhku beradaptasi, hari jumat-nya istirahat, untuk akhir minggu wajib, pilih antara sabtu atau minggu. 
+Jadwal mingguan lari ga konstan, namun ada catatan di ini, misalkan aku sesi lari-nya hari selasa, hari rabu ga running, hari kamis sore-nya sesi workout 30 menit, terutama bagian CORE dan lima menit HIIT, aku belajar dari YouTube, awalnya mengikuti sesi Elliud Kipchoge, tapi aku sesuaikan ekspetasi ku, biar nyaman tubuhku beradaptasi, hari jumat-nya istirahat, untuk akhir minggu wajib, pilih antara sabtu atau minggu.
 
 Rute lari juga termasuk dengan mood, untuk sehari - hari aku ke belakang paris 2 ujung, belok kiri,
 tembus Serdam, hingga selesai, rata - rata waktu ku mengambil 45 menit, jarak kisaran 5 - 7 KM.
@@ -38,7 +38,7 @@ Itulah kenapa Runners akan melambatkan lari-nya agar tubuh tidak stress, untuk m
 
 Aku mulai tertarik untuk serius, aku mencoba lebih ekstreme dengan lari lambat, mencoba-nya hingga 50 menit lebih, ga kebayang udah dapet 7Km lebih, dengan kecepatan pace 8:00, dulu di awal awal belajar, aku selalu monitor jam pace-nya, agar lari ku tetap di pace 8-sekian. 45 menit hingga satu jam lebih, aku melakukannya dua minggu lebih. Sejak itu, kaki ku terasa mulai mengeras, kesusahan langkahkan kaki, ada denyut yang bikin remuk, apalagi saat melepas sepatu, lama kelamaan terbiasa juga dengan bangga sakit-nya.
 
-**Sedikit percaya diri**, aku mulai mencepatkan lari ku dengan pace 6:45 hingga 7:00 lebih, namun sebelumnya aku juga harus seimbangkan dengan excercise lainnya, seperti pushup dan plank minimal. Setelah ku riset, agar running terasa improve di jangka panjang, kita harus menguatkan CORE kita, apalagi otot di bagian dada. 
+**Sedikit percaya diri**, aku mulai mencepatkan lari ku dengan pace 6:45 hingga 7:00 lebih, namun sebelumnya aku juga harus seimbangkan dengan excercise lainnya, seperti pushup dan plank minimal. Setelah ku riset, agar running terasa improve di jangka panjang, kita harus menguatkan CORE kita, apalagi otot di bagian dada.
 
 #### Coming soon
 *2. Tools dan Kit*
@@ -46,6 +46,25 @@ Aku mulai tertarik untuk serius, aku mencoba lebih ekstreme dengan lari lambat, 
 *4. Rekomendasi Bacaan Running*
 *5. Makan Sebelum Running*
 
+2. Tools dan Kit
+
+Terus terang, kebutuhan Gear Running termasuk bermodal. Sepatu Running yang sudah standar-nya, itu harga-nya minimal kisaran 1 juta 800 ribu, Sepatu untuk performa maksimal, harga-nya bisa 4 sampai 5 juta lebih. Tapi itu investasi yang tahan juga, rata rata sepatu Running kondisi-nya masih optimal walaupun udah dibawa lari 500 KM.
+
+Untuk rekomendasi ku untuk teman teman yang baru awal memulai Running, aku rekomendasi Adidas. Menurut ku, Adidas menguatkan fondasi kedua kaki kamu dulu, tapaknya masih natural, kecepatan pace kamu murni dari dorongan lari kamu. Karena aku sendiri sudah merasakan beberapa sepatu Adidas. Sepatu Adidas bahan-nya juga tahan lama.
+
+Untuk yang sudah nyaman dengan Running, biasa ambil 5K setiap minggu, mungkin Nike bisa jadi pilihan untuk long-running. Tapi pilih Nike yang katalog kelas atlet, seperti Nike Air Zoom Tempo cocok untuk memaksimalkan performa kamu atau untuk event Running, tidak
+
+Mungkin bisa kasih aku masukkan, untuk sepatu sepatu brand lainnya, cocok banget untuk kalangan pelari mana, wishlist ku pengen coba sepatu Running-nya Hoka, Asics sama Salomon.
+
+Salomon masih kategori baru meluncuri sepatu Running untuk tapak jalan aspal.
+
+3. Makan dan Nutrisi Running
+
+Menurut ku nutrisi paling penting di tubuh kita, adalah protein. Tapi satu jam sebelum melakukan Running, aku rekomendasi makan Pisang, ini buah memang spesial kalau ada energi.
+
+Menurutku memberikan panduan nutrisi dan suplai makan yang optimal untuk performa lari. Fondasi-nya bagaimana setiap hari kamu memberikan makan dalam tubuh kamu.
+
 #### Resources
 [Read into the well](https://readintothewell.com)
+
 
