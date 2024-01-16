@@ -1,4 +1,11 @@
-# Winston Churchill
+---
+title: Keseharian Winston Churchill
+description: Mungkin bisa gambaran gimana perdana menteri zaman ww2 menjalani harinya
+draft: true
+date: 2024-01-21
+scheduled: 2024-01-21
+---
+
 
 Salah satu tokoh dunia yang ingin ku bahas, mungkin secara keseluruhan adalah Winston Churchill. Dari gaya preman-nya, kebiasaan sehari harinya, ketegasan-nya, hingga legasi-nya yang terkenang di dunia ini.
 
