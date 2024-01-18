@@ -1,7 +1,10 @@
 ---
 title: Hard jurnal dalam Running
+description: Fiksi dan Literasi menulis dalam Running
 draft: true
 layout: layouts/post.njk
+date: 2024-01-22
+scheduled: 2024-01-22
 ---
 
 Di blog ini, aku harap bisa menulis lebih banyak tentang Running. Apa yang bisa ku bahas dari Running dari pengalaman ku, yang mengajari ku, yang ku rasakan efek-nya. Salah satu harapan konten untuk blog ku, tentang Running. Mungkin bisa jadi panduan untuk teman teman yang baca.
