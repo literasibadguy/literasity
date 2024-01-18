@@ -1,6 +1,7 @@
 ---
 title: Hard jurnal dalam Running
 draft: true
+layout: layouts/post.njk
 ---
 
 Di blog ini, aku harap bisa menulis lebih banyak tentang Running. Apa yang bisa ku bahas dari Running dari pengalaman ku, yang mengajari ku, yang ku rasakan efek-nya. Salah satu harapan konten untuk blog ku, tentang Running. Mungkin bisa jadi panduan untuk teman teman yang baca.
