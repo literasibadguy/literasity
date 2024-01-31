@@ -14,7 +14,7 @@ Sebelumnya `hjkl` dan melompat lompat seperti kata kata, `b` atau `w` untuk melo
 
 ## Motions
 
-Ini aku ambil dari Barbarian Meets Coding, tutorial-nya sangat efektif untuk meringkas fungsi Motion yang bakal kita pakai.
+Ini aku ambil dari [Barbarian Meets Coding](https://www.barbarianmeetscoding.com/), tutorial-nya sangat efektif untuk meringkas fungsi Motion yang bakal kita pakai.
 
 Kalau biasa-nya kita mindahkan cursor dari atas ke bawah, bagaimana kita coba cursornya bergerak lebih cepat menyesuaikan isi dokumen-nya, pokoknya dia melompat celah celah yang barisan kosong.
 
@@ -48,7 +48,7 @@ Beberapa yang bisa kamu coba:
 
 * `3b` untuk melompat tiga kata mundur (backward)
 * `5k` bergerak ke atas 5 kali dari tempat asal cursor
-* `3;' melewatkan tiga lompatan inisial dari pencarian kamu sebelumnya
+* `3;` melewatkan tiga lompatan inisial dari pencarian kamu sebelumnya
 * `2/winter` kalau ada tiga kata *winter* di dalam dokumen kamu, cursor kamu akan pindah kata *winter* ke dua
 
 Dan beberapa penghujung perintah motion yang kamu selipkan, dalam sekali tekan
