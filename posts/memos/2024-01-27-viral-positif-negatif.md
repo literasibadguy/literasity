@@ -32,3 +32,14 @@ Masalahnya kata pak Ustadz, sedikit sekali wanita yang menjaga amanah-nya. Yang 
 
 Mungkin itu jadi pelajaran ku selama ini, cara kamu bereaksi dengan konten viral adalah indikasi pikiran kamu, hampir sama dengan sosial media, bagaimana saya bisa melihat sifat orang ini dari profile feed-nya.
 
+---
+
+Beberapa tulisan yang ku baca untuk mengakhiri untuk bulan Januari ini.
+
+[Kenapa orang lebih suka bikin konten bagus di platform yang banyak bemasalah](https://danluu.com/why-video/) Ada orang yang lebih suka menulis yang bisa jadi tulisan blog, ke *thread* di Twitter, ini analisa panjang, banyak beberapa faktor, seperti interaksi *engagement*, kebanyakan teman pakai apa
+
+[Mungkin ada yang pernah main game ini masa kecil(https://ski.ihoc.net/) Ini game zaman aku waktu semasa SD main di lab komputer sekolah
+
+[Bagaimana cara melakukan sesuatu jika kamu tidak terlalu pintar atau tidak punya talenta](https://adaobi.substack.com/p/how-to-do-things-if-youre-not-that)
+
+[Public Server Running OS IBM](https://pub400.com)
