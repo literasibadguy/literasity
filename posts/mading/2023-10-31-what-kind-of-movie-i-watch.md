@@ -3,7 +3,6 @@ title: What Kind Movie I Watch
 description: Balik ke era 90an
 date: 2023-10-31
 scheduled: 2023-10-31
-draft: false
 tags:
   - mading
 layout: layouts/mading.njk
@@ -41,7 +40,7 @@ Clint Eastwood di film komedi western, *Every Which Way But Loose*, seorang meka
 
 Sekarang kita menuju ke Korea, film terbaik yang gak aku tonton lagi dan film paling taboo yang pernah ku tonton, nama filmnya Oldboy, rilis pada tahun 2003, ingin mengingat kembali plot cerita-nya, seorang pria yang ingin balas dendam karena dia sudah menjadi sosial eksperimen terhadap dirinya.
 
-Kalau melihat jajaran film Korea, apalagi di genre crime, banyak film film bagus yang rekomended. Yang jadi favoritku, *Memories of Murder* sama di tahun 2003, aktor utama nya sama yang memerankan film terkenalnya *Parasite*, produksi oleh *Bong Joon-ho*, terjadi pembunuhan serial wanita muda di kota kecil di era 80an 
+Kalau melihat jajaran film Korea, apalagi di genre crime, banyak film film bagus yang rekomended. Yang jadi favoritku, *Memories of Murder* sama di tahun 2003, aktor utama nya sama yang memerankan film terkenalnya *Parasite*, produksi oleh *Bong Joon-ho*, terjadi pembunuhan serial wanita muda di kota kecil di era 80an
 
 Masih di genre crime, tapi kita berpindah ke negara sebelahnya, Jepang, ada satu film crime yang jadi perhatianku, berjudul *Cure*, film dari Kiyoshi Kurosawa, psikolog muda dengan kejeniusan memanipulasi orang di bawah sadar untuk membunuh satu sama lain, membuat detektif yang mengerjakan kasus tersebut, mempelajari tentang psikolog.
 
