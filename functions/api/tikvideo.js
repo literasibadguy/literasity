@@ -4,10 +4,9 @@ export async function onRequestGet(context) {
 
   const { searchParams } = new URL(context.request.url)
   const video_url = searchParams['video_url']
-  console.log(video_url)
 
-  const someHost = "https://www.tikwm.com/api/?";
-  const url = someHost + `url=${video_url}&hd=1`;
+  const someUrl = `https://www.tikwm.com/api/?url=${video_url}&hd=1`;
+  console.log(someUrl)
 
   async function gatherResponse(response) {
       const { headers } = response;
@@ -25,7 +24,7 @@ export async function onRequestGet(context) {
       },
   };
 
-  const response = await fetch(url, init);
+  const response = await fetch(someUrl, init);
   const results = await gatherResponse(response);
   return new Response(results, init);
 
