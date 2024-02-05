@@ -1,9 +1,9 @@
 
 export async function onRequestGet(context) {
-  console.log(`Hello ${context.request.body}`)
+  console.log(`Hello ${context.request}`)
 
   const { searchParams } = new URL(context.request.url)
-  const video_url = searchParams['video_url']
+  const video_url = searchParams.get('video_url')
 
   const someUrl = `https://www.tikwm.com/api/?url=${video_url}&hd=1`;
   console.log(someUrl)
