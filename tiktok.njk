@@ -1,0 +1,29 @@
+---
+title: Download Video TikTok tanpa Watermark
+layout: layouts/home.njk
+draft: true
+---
+
+<script src="{{ "/js/htmx.min.js" | addHash }}"></script>
+
+<script>
+
+</script>
+
+<span class="htmx-indicator">
+  Mencari...
+</span>
+
+<div id="tiktok-canvas">
+<input class="tiktok-control" type="search"
+  name="video_url"
+  hx-headers='{"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0", "Content-Type": "application/json"}'
+  hx-get="https://literasi.blog/api/tikvideo"
+  hx-trigger="input changed delay:500ms, search"
+  hx-target="#tiktok-results"
+  hx-indicator=".htmx-indicator">
+
+<div id="tiktok-results">
+</div>
+</div>
+

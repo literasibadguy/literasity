@@ -1,23 +1,9 @@
-export function onRequest(context) {
-    console.log(`Hello API ${context.params.post}`)
-
-    const response = await fetch(context.request)
-
-
-    const data = {
-        name: "Thanks for testing our API",
-      };
-
-      const json = JSON.stringify(data, null, 2);
-
-      return new Response(json, {
-        headers: {
-          "content-type": "application/json;charset=UTF-8",
-        },
-      });
-}
-
 export async function onRequestGet(context) {
+  console.log(`Hello ${context.request.body}`)
+
+  const { searchParams } = new URL(context.request.url)
+  const name = searchParams['unique_id']
+  console.log(name)
 
   const someHost = "https://www.tikwm.com/api/user/posts?unique_id=@fujiiian&hd=1";
   const url = someHost + "unique_id=@fujiiian&hd=1";
@@ -43,4 +29,3 @@ export async function onRequestGet(context) {
   return new Response(results, init);
 
 }
-

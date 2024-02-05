@@ -6,6 +6,14 @@ draft: true
 layout: layouts/post.njk
 ---
 
+Ibu dokter cantik cerita-nya lagi keliling pasien di rumah sakit rujukan-nya, rutinitas pagi-nya menyapa dan menegek para pasien-nya, melihat perkembangan-nya, sekitar jam 8an lewat, dokter cantik ini datang mengunjungi mamah ku di ruangan ICU di hari pertama. Setelah melihat data yang di-mintakan ke Perawat, kata pertama doktercantik ini kepada mamahku
+
+"Ibu kekurangan protein ini, Ibu seharusnya memulai hari dengan protein. Ibu mulai sekarang ga bisa minum kopi lagi"
+
+Kalau kita sudah di posisi rumah sakit, berarti Dokter yang mendominan diskusi-nya apalagi masalah yang dialami pasien, jadi kita pasrah hanya mendengar demi kesembungan mamah.
+
+"What is your relationship to burden and fatigue?"
+
 *Coba kalo jadi anak muda, ignorance kek, punya ego sedikit kek, ini sedikit sedikit Cafe buka baru, berkerumunan, kayak gak ada hidup lain, berprinsip kek*
 
 Sejak mamah ku masuk rumah sakit bulan November 2023, pola pikir berubah ku, pola kebiasaan ku menjalani hidup berubah, ingat sekali mendengar omongan dokter cantik *aku masih gak yakin dia udah nikah* yang merawat mamah ku lagi medical checkup berkala. "Yang penting makan dan minum-nya dijaga ya bu,  hindari gula, hindari manis manisan, hindari kopi kekinian. Aku sama mamah hanya dengarin aja sambil senyum senyum sendiri, pulang pulang bawa obat banyak.
@@ -16,7 +24,7 @@ Kalau belum bikin status, story, nge-pos berarti gak salah kamu ngopi di situ, a
 
 Gak lama setelah tiga bulan, ada seorang anak jadi kebiasaan-nya, ini penyakit anak muda sekarang, kalo sehari gak ada es kopi susu, trap mindset.
 
-
+What happen then?
 
 1. Pertama Aku Khawatir Tumbuhnya Cafe Cafe Kekinian, bikin anak muda terlalu nyaman dengan nongkrong-nya
 
@@ -28,10 +36,6 @@ Ini faktor pressure dari sosial media, pertama pengusaha coffee shop harus konsi
 
 Aku harap anak anak muda sekarang tidak membiasakan diri-nya menghabiskan waktu-nya berjam jam dengan patokan segelas es kopi, kamu masuk pesan minum, duduk sudah scrolling social media, terus sama teman teman ngumpul makin lama ghibah-kan orang, pulang pulang larut malam, besok pagi nya, kamu udah terlanjur gak punya energy. Ini sudah double kill sama future kamu.
 
-
-
-
-
 Puluhan Cafe, pada dasar-nya menu minuman-nya sama. Aku kalau lewat melihat Cafe buka, "Menang suasana tu jak Cafe, paling minuman nya sama".
 
 Kemarin, anak salah satu kerabat dekat mamah ku, di bawah umur ku, masuk ke rumah sakit, dia punya masalah Lambung dan Hati, sekarang dia dibawah ke Rumah Sakit Kuching, karena Rumah Sakit di kota ku gak tahu apa penyebab dari penyakit ini, kenapa teman ku selalu sakit di perutnya. Bahkan dia sampai dirawat di rumah sakit selama seminggu lebih. Bayangkan anak muda yang bisa produktif, di bawah umur ku sekali lagi, bisa sakit terbaring sampai ICU.
@@ -40,8 +44,30 @@ Karena kita orang Indonesia memang budaya nongkrong, ngopi berbicara tentang hal
 
 Sekarang realitas yang ku lihat, satu jalan apalagi kawasan Mahasiswa, semua-nya Cafe dan Warung Kopi, memang salah satu menumbuhkan ekonomi, tapi ini kebiasaan yang bisa ku sebut buruk atau baik, tapi rata rata anak muda ni sudah melekat ke budaya nongkrong ini, kalau di warung kopi kelas murah meriah demi Wifi, paling dua gelas es teh berjam jam depan wifi.
 
-
-
 Cari aesthetic mengisi status story untuk malam minggu, hanya bermodal segelas es kopi susu, yang hampir sejagat cafe menerangkan lampu mellow nya dengan asap asap rokok menandai keramaian.
+
+Unlearn the idea that stress is necessary part of progress
+
+Transitioning from self improvement land,
+which creates a mental checklist:
+
+"I should be putting this energy toward
+something creative"
+"I should be reading"
+"I should be exercising"
+
+But more so self acceptance:
+Accepting where you are right now
+Celebrating wins large and small
+Learning from your losses
+
+to leave the world with as little regret as possible
+
+"Worry is a misuse of imagination" Dan Zadra
+
+When we wait to speak,
+we lose the moment in
+which our truth is most relevant.
+
 
 
