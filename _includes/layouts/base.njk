@@ -37,6 +37,15 @@
     <meta name="twitter:site" content="@{{ metadata.author.twitterHandle }}">
     <meta name="twitter:creator" content="@{{ metadata.author.twitterHandle }}">
 
+    <script csp-hash>
+      document.addEventListener("htmx:configRequest", (evt) => {
+                evt.detail.headers = [];
+            });
+    </script>
+
+    <script type="module" src="{{ "/js/is-land.js" | addHash }}" ></script>
+    <script type="module" src="{{ "/js/throbber.js" | addHash }}" ></script>
+
     <link rel="canonical" href="{{ metadata.url }}{{ canonicalUrl or page.url }}">
     <!-- This is a blog and so it SHOULD be safe and it is nice for the web
          to send referrers cross-origin.

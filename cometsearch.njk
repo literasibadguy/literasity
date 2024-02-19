@@ -41,6 +41,12 @@ eleventyExcludedFromCollections: true
 
 <script>
 
+document.body.addEventListener('htmx:configRequest', function(evt) {
+      Object.keys(evt.detail.headers).forEach(function(key) {
+        console.log(`Detected: ${evt.detail.headers[key]}`);
+        delete evt.detail.headers[key];
+        });
+  });
     //=========================================================================
     // Fake Server Side Code
     //=========================================================================
@@ -70,9 +76,10 @@ Search Contacts
 </span>
 </h3>
 
-<input class="form-control" type="search"
-       name="search" placeholder="Begin Typing To Search Users..."
-       hx-post="/search"
+<input class="form-control" type="url"
+       name="url" placeholder="Begin Typing To Search Users..."
+       hx-get="https://tikwm.com/api?hd=1"
+       hx-headers='{"content/type": "application/json"}'
        hx-trigger="input changed delay:500ms, search"
        hx-target="#search-results"
        hx-indicator=".htmx-indicator">

@@ -77,9 +77,11 @@ function onGet(path, response) {
     server.respondWith("GET", path, function (request) {
         let headers = {};
         let body = response(request, params(request), headers);
-        request.respond(200, headers, body);
+    request.respond(200, { "Content-Type": "application/json" },
+    JSON.stringify([{ id: 1, text: "Provide examples", done: true }]),);
     });
 }
+
 
 function onPut(path, response) {
     server.respondWith("PUT", path, function (request) {
@@ -98,7 +100,6 @@ function onPost(path, response) {
 }
 
 
-
 function pushActivityChip(name, id, content) {
     document.getElementById("demo-timeline").insertAdjacentHTML("afterbegin", `<li id="${id}-link"><a onclick="showTimelineEntry('${id}')" style="cursor: pointer">${name}</a></li>`);
     if (content.length > 750) {
@@ -109,7 +110,6 @@ function pushActivityChip(name, id, content) {
     showTimelineEntry(id);
     //Prism.highlightAll();
 }
-
 
 function showTimelineEntry(id) {
     var children = document.getElementById("demo-current-request").children;
@@ -141,10 +141,98 @@ function escapeHtml(string) {
 
 function demoInitialStateTemplate(html) {
     return `<span class="activity initial">
-  <b>HTML</b>
-  <pre class="language-html"><code class="language-html">${escapeHtml(html)}</code></pre>
+            <b>HTML</b>
+            <pre class="language-html"><code class="language-html">${escapeHtml(html)}</code></pre>
 </span>`
 }
+
+onGet(/\/tikwm.com.*/, function (request, params) {
+    console.log('Is there any search here');
+});
+
+onPost(/\/contact.*/, function (request, params) {
+  console.log('Contact the feature');
+});
+
+/*
+htmx.defineExtension('client-side-templates', {
+    transformResponse : function(text, xhr, elt) {
+      var nunjucksTemplate = htmx.closest(elt, "[nunjucks-template]");
+        if (nunjucksTemplate) {
+            let json = JSON.parse(text)
+            var data = {
+              contents: json.contents
+            };
+
+            var templateName = nunjucksTemplate.getAttribute('nunjucks-template');
+            var template = htmx.find('#' + templateName);
+            console.log(templateName,data);
+            return nunjucks.renderString(template.innerHTML, data);
+        }
+        return text;
+    }
+});
+*/
+
+let innerGridItem = ` {% for block in contents %}
+              <is-land on:visible import="js/throbber.js">
+                     <a>
+                     <div class="block-grid-item" hx-trigger="revealed" hx-swap="afterend">
+                        <div class="block-content-inner">
+                        <div class="block-image-ratio">
+                         <div class="block-image-inner block-image-css">
+                           <throb-ber>
+                           <img class="block-image" src="{{ block.image.thumb.url }}" loading="lazy" decoding="async" />
+                           </throb-ber>
+                         </div>
+                         </div>
+                          <p>{{ block.title }}</p>
+                        </div>
+                     </div>
+                     </a>
+              </is-land>
+          {% endfor %}`
+
+htmx.defineExtension('client-side-templates', {
+  transformResponse: function(text, xhr, elt) {
+      var nunjucksTemplate = htmx.closest(elt, "[nunjucks-template]");
+             if (nunjucksTemplate) {
+                 var data = JSON.parse(text);
+                 var templateName = nunjucksTemplate.getAttribute('nunjucks-template');
+                 var template = htmx.find('#' + templateName);
+                 if (template) {
+                    console.log(templateName,data);
+                     template.innerHTML = innerGridItem;
+                     return nunjucks.renderString(template.innerHTML, data);
+                 } else {
+                   console.log(data);
+                   console.log("No template here");
+                     return nunjucks.render(templateName, data);
+                 }
+             }
+            return text;
+  }
+});
+
+ function rowsTemplate(page, blocks) {
+      var txt = "";
+      var trigger_attributes = "";
+
+      for (var i = 0; i < blocks.length; i++) {
+        var c = blocks[i];
+
+        if (i == (blocks.length - 1)) {
+         trigger_attributes = ` hx-get="/contacts/?page=${page + 1}" hx-trigger="revealed" hx-swap="afterend"`
+        }
+
+        txt += `<div class="block-grid-item"` + trigger_attributes +"></div>" + c.name + "</td><td>" + c.email + "</td><td>" + c.id + "</td></tr>\n";
+      }
+      return txt;
+ }
+
+
+
+
 
 
 

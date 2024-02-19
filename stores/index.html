@@ -1,0 +1,107 @@
+---
+layout: layouts/basevisual.njk
+---
+
+<script src="https://unpkg.com/sinon@9.0.2/pkg/sinon.js"></script>
+<script src="{{ "/js/htmx.min.js" | addHash }}" ></script>
+ <style>{% include "css/settings.css" %}</style>
+
+<script src="{{ "/js/canvas.js" | addHash }}" ></script>
+
+<script>
+  onGet("/demo", function() {
+
+  });
+
+  onPost("/change-email", function() {
+    return "Changed email password"
+  });
+
+  onPost("/changed-email", function() {
+    return "<div class=\"notice-inner\">Email Updated</div>"
+  });
+
+  onPost("/change-password", function() {
+    return "<div class=\"notice-inner\">Change Password</div>"
+  });
+
+  onPost("/change-description", function() {
+    return "<div class=\"notice-inner\">Changed Description</div>"
+  });
+</script>
+
+ <div class="settings-container">
+<div class="section-left">
+  <p>Settings</p>
+</div>
+<div class="section-right">
+<p>Dashboard</p>
+
+<form class="default-form" id="account-form">
+  <div class="account-form-inner">
+   <label>Account information</label>
+   <input name="first_name" placeholder="Nama depan" />
+   <input name="alamat" placeholder="Alamat" />
+  </div>
+  <div class="account-form-inner">
+    <label>Informasi Profil</label>
+    <div class="information-inner">
+      <textarea name="description" hx-post="/change-description" hx-trigger="changed" name="bio" placeholder="Deskripsi profile" rows="8"></textarea>
+    </div>
+  </div>
+  <div class="account-form-inner">
+    <label>Account Form</label>
+    <div class="select-landing">
+      <button hx-get="/menu/edit" class="goods" hx-select="#drink-menu">Landing Goods</button>
+      <select id="drink-menu" tabindex="-1">
+        <option value="americano">Americano</option>
+        <option value="capuccino">Capuccino</option>
+        <option value="frapuccino">Frapuccino</option>
+        <option value="espresso">Espresso</option>
+      </select>
+    </div>
+  </div>
+  <div class="account-form-inner">
+    <label>Add via email</label>
+    <div>
+      <input class="account-default" value="selamatpagi@firas.com" />
+    </div>
+  </div>
+</form>
+
+<form>
+  <div class="account-form-inner">
+    <label>Ganti Email</label>
+    <div class="input-inner">
+      <input name="email" class="input-form" value="aiiiuuu@mail.com" />
+    </div>
+    <button class="button-css button-size-md" hx-post="/change-email" hx-swap="outerHTML" type="submit">Ganti Email</button>
+  </div>
+</form>
+
+
+<form>
+  <div class="account-form-inner">
+    <label>Ganti Email Versi Kedua</label>
+    <div class="input-inner">
+      <input name="email" class="input-form" value="aiiiuuu@mail.com" />
+    </div>
+    <button class="button-css button-size-md" hx-post="/changed-email" hx-swap="afterend" type="submit">Ganti Email</button>
+  </div>
+</form>
+
+<form>
+  <div class="account-form-inner">
+    <label>Change Password</label>
+    <div class="input-inner">
+      <input required="true" type="password" name="newpassword" class="input-form" placeholder="Password baru" autocomplete="new-password" />
+    </div>
+    <div class="input-inner">
+      <input required="true" type="password" name="confirmpassword" class="input-form" placeholder="Konfimrasi Password baru" autocomplete="new-password" />
+    </div>
+    <button class="button-css button-size-md" hx-post="/change-password" class="submit-inner" type="submit">Update password</button>
+  </div>
+</form>
+
+
+ </div>

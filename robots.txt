@@ -1,5 +1,11 @@
 User-agent: GPTBot
 Disallow: /
 
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
 Sitemap: https://literasi.blog/feed/feed.xml
 Sitemap: https://literasi.blog/sitemap.xml

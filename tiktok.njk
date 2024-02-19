@@ -7,26 +7,55 @@ date: 2024-02-04
 scheduled: 2024-02-04
 ---
 
+<script src="https://unpkg.com/sinon@9.0.2/pkg/sinon.js"></script>
 <script src="{{ "/js/htmx.min.js" | addHash }}"></script>
+<script src="{{ "/js/morning.js" | addHash }}"></script>
 
-<script>
 
+<style>{% include "css/tiktok.css" %}</style>
+
+
+<div hx-ext="client-side-templates">
+  <!-- hx-trigger="load, click" makes sure that api gets called on page load AND on click  !-->
+  <button
+     type="button"
+     hx-trigger="load, click"
+     hx-get="https://api.are.na/v2/users/102941/following?access_token=3fb33713afe39fd44f7d4fe6fce89e0de17cfcb1064016c612e854452670cf60"
+     nunjucks-template="gistlist"
+     hx-target="#list"
+     hx-swap="innerHTML"
+  >Reload</button>
+
+  <script id="gistlist" type="nunjucks">
+    {% for gist in gists %}
+      <li>
+        <a href="{{gist.html_url}}">{{gist.parsed.title}}</a><br>
+        <small>{{gist.parsed.description}}</small>
+      </li>
+    {% endfor %}
+  </script>
+
+  <ul id="list"></ul>
+</div>
+
+<form hx-trigger="click" hx-get="https://tikwm.com/api?hd=1" hx-swap="innerHTML">
+  <div class="tiktok-input">
+    <label>Tiktok URL</label>
+    <input type="url" name="url" placeholder="https://www.tiktok.com/@xxx/video/xxxxxxxxxxxxxxxxxxx" value="" />
+  </div>
+  <button type="submit" class="tiktok-btn">Submit</button>
+</form>
+
+<script id="tiktok-template" type="nunjucks">
+<div style="margin-top: 30px; color: rgb(255, 255, 255);"><div>
+            <a href="" target="_blank"><img rel="noreferrer" style="max-height:100px;" src="" alt="cover"></a>
+        </div>
+        <h4>{{ data.title }}</h4>
+        <h4>@the.txreemarie</h4>
+        <a href="" class="tiktok-btn btn-success" target="_blank" rel="noreferrer">No Watermark .mp4 (<span>0.61MB</span>)</a>
+        <a href="" class="tiktok-btn btn-success" target="_blank" rel="noreferrer">No Watermark(HD) .mp4 (<span>7.01MB</span>)</a>
+        <a href="" class="tiktok-btn btn-success" target="_blank" rel="noreferrer">Watermark .mp4 (<span>0.58MB</span>)</a>        <a href="" class="tiktok-btn btn-warning" target="_blank" rel="noreferrer">Music .mp3</a></div>
 </script>
 
-<span class="htmx-indicator">
-  Mencari...
-</span>
-
-<div id="tiktok-canvas">
-<input class="tiktok-control" type="search"
-  name="video_url"
-  hx-headers='{"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0", "Content-Type": "application/json"}'
-  hx-get="https://literasi.blog/api/tikvideo"
-  hx-trigger="input changed delay:500ms, search"
-  hx-target="#tiktok-results"
-  hx-indicator=".htmx-indicator">
-
-<div id="tiktok-results">
+<div id="tiktok-result">
 </div>
-</div>
-

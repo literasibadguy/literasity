@@ -1,0 +1,27 @@
+---
+layout: layouts/basevisual.njk
+---
+
+<script src="https://mozilla.github.io/nunjucks/files/nunjucks.js"></script>
+<script src="https://unpkg.com/sinon@9.0.2/pkg/sinon.js"></script>
+<script src="{{ "/js/htmx.min.js" | addHash }}" ></script>
+ <style>{% include "css/channel.css" %}</style>
+
+<script src="{{ "/js/canvas.js" | addHash }}" ></script>
+<script type="module" src="{{ "/js/throbber.js" | addHash }}" ></script>
+
+<div hx-ext="client-side-templates">
+<div hx-get="https://api.are.na/v2/channels/beautiful-confusion?page=1&per=100&sort=position&direction=desc&access_token=3fb33713afe39fd44f7d4fe6fce89e0de17cfcb1064016c612e854452670cf60" hx-trigger="load" class="blocks-grid-list" hx-target="#virtuoso" nunjucks-template="blocklist">
+
+  <script id="blocklist" type="nunjucks">
+    <div class="block-grid-item">
+      <p>{{ title }}</p>
+    </div>
+  </script>
+
+  <div class="virtuoso-grid-list" id="virtuoso">
+  </div>
+</div>
+
+
+</div>

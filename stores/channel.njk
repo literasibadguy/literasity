@@ -1,0 +1,24 @@
+---
+layout: layouts/basevisual.njk
+---
+
+<script src="https://unpkg.com/sinon@9.0.2/pkg/sinon.js"></script>
+<script src="{{ "/js/htmx.min.js" | addHash }}" ></script>
+ <style>{% include "css/channel.css" %}</style>
+
+<script src="{{ "/js/canvas.js" | addHash }}" ></script>
+
+<div hx-ext="client-side-templates">
+<div hx-get="https://api.are.na/v2/channels/my-internet?page=1" hx-swap="innerHTML" hx-trigger="load" class="blocks-grid-list" hx-target="#virtuoso-grid-list">
+  <div class="block-grid-item">
+    <img src="" />
+  </div>
+
+  <div id="virtuoso-grid-list">
+
+  </div>
+</div>
+
+
+</div>
+

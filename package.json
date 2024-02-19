@@ -7,7 +7,7 @@
     "build-ci": "npm run js-build && eleventy && npm run create-search-index && npm run test",
     "build": "npm run clean && npm run build-ci",
     "watch": "concurrently \"npm run serve\" \"npm run js-build-watch\" \"npm run test-watch\"",
-    "serve": "npm run clean && eleventy --serve",
+    "serve": "npm run clean && eleventy --serve --port=8075",
     "js-build": "rollup -c rollup.config.js",
     "js-build-watch": "rollup -c rollup.config.js -w",
     "create-search-index": "npx pagefind --source _site --glob \"posts/**/*.html\"",

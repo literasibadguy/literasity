@@ -1,12 +1,15 @@
 
-export async function onRequestGet(context) {
-  console.log(`Hello ${context.request}`)
+function init(path, response) {
+    onGet(path, response);
+    let content = response(null, {});
+    let canvas = document.getElementById("demo-canvas");
+    if (canvas) {
+    }
+}
 
-  const { searchParams } = new URL(context.request.url)
-  const video_url = searchParams.get('video_url')
-
-  const someUrl = `https://www.tikwm.com/api/?url=${video_url}&hd=1`;
-  console.log(someUrl)
+async function onGet(path, response) {
+  console.log(path);
+  console.log(response);
 
   async function gatherResponse(response) {
       const { headers } = response;
@@ -27,7 +30,21 @@ export async function onRequestGet(context) {
   const response = await fetch(someUrl, init);
   const results = await gatherResponse(response);
 
-  const newResponse = new Request(someUrl, init);
+  const newResponse = new Response(results, init);
 
   return newResponse;
 }
+
+function onPost(path, response) {
+  console.log(path);
+  console.log(response);
+}
+
+await onGet(/\/contact.*/, function(request, params) {
+  console.log(`params: ${params}`);
+});
+
+onPost(/\/contact.*/, function(request, params) {
+  console.log(`params: ${params}`);
+});
+
