@@ -27,7 +27,7 @@ melihat suasana lantai-nya gak biasa
 Dan seorang karyawan masuk bergabung ke lift
 "Bapak mau ke lantai berapa pak!"
 "Lantai 2!, ini belum lantai 2 ya"
-Sambil karyawan terus mengeluarkan kunci-nya samb
+Sambil karyawan terus mengeluarkan kunci-nya sambil menekan lantai 5
 "Ohh belum pak, ini baru lantai office"
 "Lantai 2 setelahnya ini"
 "Saya gak sadar tadi langsung keluar aja"
