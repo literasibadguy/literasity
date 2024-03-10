@@ -49,19 +49,7 @@ gak suka Zi lihatnya,
 bahkan Zi gak tahu apa kabar teman teman Zi,
 karena Instagram"
 
-Rapunzel selalu mengingatkan aku untuk tidak makanan ber-sugar, dan itu hampir sama pemikiran nya dengan aku, walaupun kita masih saja ngeyel soal gula
-
-"Lama lama mandi gula abang aja ni" cerita-nya lagi capek, aku lagi pengen sugar
-"Gak usah, abang gak boleh makan yang manis, Zi udah manis, gak bikin abang diabetes lagi"
-
-Rapunzel lebih suka jajanan orang dulu, daripada jajanan zaman sekarang, yang sangat ku penasaran kenapa dia tidak bisa makan Sushi
-
-"Zi tuh tau soalnya papa suka jajanan yang gitu, kurang suka yang aneh aneh"
-"Jadi di rumah sering lihat itu"
-"Makanya Zi bisa tau jajanan ini itu"
-"Abang tuh harus tau jajanan dulu tuh enak enak semua, cuma ada yang suka manis, ada yang enggak"
-
-Ada salah satu makanan fermentasi dari Udang kecil kecil, bahasa Indonesia-nya Calok nama-nya, kami memanggilnya Peda', karena kebetulan kami berasal daerah yang sama.
+Topik menarik tentang makanan, kami membahas Ada salah satu makanan fermentasi dari Udang kecil kecil, bahasa Indonesia-nya Calok nama-nya, kami memanggilnya Peda', karena kebetulan kami berasal daerah yang sama.
 
 Awalnya aku berharap Rapunzel gak tahu makanan fermentasi ini, saat aku lagi makan siang dengan lauk *Peda'* ini
 

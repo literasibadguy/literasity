@@ -4,6 +4,7 @@ description: Perbincangan tentang makanan, kesehatan, sosial media dan budaya mu
 layout: layouts/post.njk
 date: 2024-03-10
 scheduled: 2024-03-10
+draft: true
 ---
 
 "Abang, nulis-nya jangan sampai malam malam, besok bisa lanjut lagi"
@@ -127,7 +128,7 @@ Salah satu lauk makan yang dinanti nantinya, Pedak atau *Peda`*, ini bahasa oran
 
 **Abang:** Abang Makan-nya sedikit aja, agak seram kalau banyak banyak
 
-**Abang:** Enak kok abang pakai lalapan nasi nya wajb panas kalau dingin ngak enak
+*jklll*Abang:** Enak kok abang pakai lalapan nasi nya wajb panas kalau dingin ngak enak
 
 **Abang:** Ha'ah betul syg.. nasi nya paling nyaman pas panas.. pasangan nya
 

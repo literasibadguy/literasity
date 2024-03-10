@@ -6,6 +6,7 @@ scheduled: 2023-07-17
 tags:
   - mading
 layout: layouts/mading.njk
+draft: true
 ---
 
 The best way to teach people critical thinking is to teach them to write. It is very hard to teach people to write because it is unbelievably time intensive. Marking a good essay is really easy: check, A. You did everything right. Marking a bad essay? Oh my. The words are wrong, the phrases are wrong, the sentences are wrong, they’re not ordered right in the paragraphs, the paragraphs are not coherent, and the whole thing makes no sense. So trying to tell the person what they did wrong? Well, you did everything wrong. Everything about this essay is wrong. That is not helpful either. You have to find the few little things they did half right, and you have to teach them what they did wrong. It is really expensive. The best thing you can do is teach people to write, because there is no difference between that and thinking.
