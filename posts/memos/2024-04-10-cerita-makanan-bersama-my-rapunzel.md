@@ -12,7 +12,7 @@ Memanggilnya Zi, tapi aku menganggapnya Rapunzel (nama samaran)
 
 Awal pertama mengenalnya, kesan pertama ku memanggilnya Rapunzel, karena dia wanita yang tidak suka menebarkan pesona-nya di sosial media, walaupun dia asik sendiri di depan kamera karena kepedean cantiknya, dari awal dia tidak eksis di sosial media, hanya circle atas izin-nya yang bisa melihat pesona-nya, walaupun watak dia memang tidak suka membagikan aktivitasnya.
 
-Rapunzel menyukai bunga mawar, dia pernah bercerita bahwa setiap minggu dia suka bunga Mawar dan memeliharanya sampai melayu, ketika Rapunzel suka mengubah status profil WhatsApp nya menjadi Mawar layu, berarti dia sedang merasa tidak baik, jika dia sedang memasang status Mawar segar, berarti dia sedang baik.
+Rapunzel menyukai bunga mawar, dia pernah bercerita bahwa setiap minggu dia suka bunga Mawar dan memeliharanya sampai layu, ketika Rapunzel suka mengubah status profil WhatsApp nya menjadi Mawar layu, berarti dia sedang merasa tidak baik, jika dia sedang memasang status Mawar segar, berarti dia sedang baik.
 
 Seperti Bunga Mawar yang dominan merahnya menarik perhatian dan tangkai yang tajam, saat yang sama aku sudah sering menyakiti hati-nya, berkata kasar dengan-nya, membuatnya jengkel, membuatnya ngambek, tapi dia wanita yang selalu mengingatkan berbahagia dan bersyukur selagi nikmat apa yang dikasih Allah setiap hari.
 
