@@ -12,7 +12,7 @@ Kalau soal cara download video Youtube, cari di Internet, pasti banyak pilihan a
 
 Kamu bisa langsung download
 
-1. [Yt-dlp untuk pengguna Windows](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
+1. [Yt-dlp untuk pengguna Windows, menggunakan file EXE untuk memulai Yt-dlp](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp.exe)
 2. [Yt-dlp untuk pengguna MacOS](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp_macos)
 3. [Yt-dlp untuk pengguna Linux (mungkin butuh syarat Python)](https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp)
 
@@ -47,6 +47,7 @@ yt-dlp -P ./foldervideo https://www.youtube.com/watch\?v\=iw0XzaTo5sw
 
 **Untuk download dengan pilihan format**
 
+Awalan format download-nya menggunakan 720p untuk resolusi tinggi, tapi untuk memilih format resolusi yang lain, kita harus tahu daftar format-nya dulu dengan parameter `-F`, ingat kapital F atau `--list-formats`
 
 ```bash
 yt-dlp -F https://youtu.be/iw0XzaTo5sw
@@ -92,7 +93,7 @@ Kamu gak hanya bisa mendownload video Youtube, video TikTok atau postingan video
 yt-dlp https://twitter.com/historyinmemes/status/1761077711177691369
 ```
 
-Berlaku juga untuk download video TikTok, cukup meng-copy link TikTok
+Berlaku juga untuk download video TikTok, cukup meng-copy link TikTok, saya belum coba apakah video-nya termasuk tanpa Watermark.
 
 Kita juga bisa melihat daftar website yang didukung sama Yt-dlp, untuk download konten video-nya dengan menulis
 
