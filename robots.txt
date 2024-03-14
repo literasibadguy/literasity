@@ -4,7 +4,7 @@ Disallow: /
 User-agent: Google-Extended
 Disallow: /
 
-User-agent: Bingbot
+User-agent: CCBot
 Disallow: /
 
 Sitemap: https://literasi.blog/feed/feed.xml
