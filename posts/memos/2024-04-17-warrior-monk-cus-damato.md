@@ -8,7 +8,7 @@ layout: layouts/post.njk
 
 Baru baru ini aku membaca buku berjudul *The Warrior Monk Philosophy of Trainer Cus D`Amato* ditulis Brett McKay dan Kate McKay. Ini 5 prinsip utama bagaimana Guru Cus Amato menguatkan jati diri Mike Tyson sebagai petinju
 
-Cus D Amato, juga teman Mike Tyson seperjuangan, melihat nya jatuh bangkit, mengajarkan tentang kehidupan, bahkan Cus D Amato sendiri suka membaca dan merekemomendasikan ke Mike Tyson
+Cus D Amato, juga teman Mike Tyson seperjuangan, melihat nya jatuh bangkit, mengajarkan tentang kehidupan, bahkan Cus  D Amato sendiri suka membaca dan merekemomendasikan ke Mike Tyson
 
 Lima dasar ini bisa kita cerminkan dalam kehidupan kita, mungkin penulis buku ini mensederhanakan agar kita bisa menerapkan nya
 
@@ -64,7 +64,7 @@ Guru Cus juga tidak lupa untuk membiasakan Mike Tyson untuk menghormati *respect
 > Kamu harus tunjukkan *respect* kamu.
 > Lihatin *respect* kamu dan kamu akan tahu ketika menjadi Champion, bagaimana menerima *respect*
 
-### Kendalikan Pikiran dan Realias Kamu
+### Kendalikan Pikiran dan Realitas Kamu
 
 Cus selalu mengajarkan ke Mike Tyson, jika kau ingin sukses sebagai petinju, kau harus hidup berlagak seperti petinju sukses, mindset adalah yang memperanguhi keyakinan ambisi kita untuk men-effort kan diri
 
