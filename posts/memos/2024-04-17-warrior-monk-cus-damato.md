@@ -1,6 +1,6 @@
 ---
 title: Literasi Bertinju Guru Cus dan Mike Tyson
-description: Cus Damato, seorang yang mengubah hidup Mike Tyson
+description: Cus DAmato, seorang yang mengubah hidup Mike Tyson
 date: 2024-03-18
 scheduled: 2024-03-18
 layout: layouts/post.njk
@@ -8,7 +8,7 @@ layout: layouts/post.njk
 
 Baru baru ini aku membaca buku berjudul *The Warrior Monk Philosophy of Trainer Cus D`Amato* ditulis Brett McKay dan Kate McKay. Ini 5 prinsip utama bagaimana Guru Cus Amato menguatkan jati diri Mike Tyson sebagai petinju
 
-Cus DAmato, juga teman Mike Tyson seperjuangan, melihat nya jatuh bangkit, mengajarkan tentang kehidupan, bahkan CusDAmato sendiri suka membaca dan merekemomendasikan ke Mike Tyson
+Cus D`Amato, juga teman Mike Tyson seperjuangan, melihat nya jatuh bangkit, mengajarkan tentang kehidupan, bahkan CusD`Amato sendiri suka membaca dan merekemomendasikan ke Mike Tyson
 
 Lima dasar ini bisa kita cerminkan dalam kehidupan kita, mungkin penulis buku ini mensederhanakan agar kita bisa menerapkan nya
 
