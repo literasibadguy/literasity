@@ -36,13 +36,13 @@ Di sinilah pelajaran sesungguhnya
 "Setidaknya kalian menulis sesuatu"
 
 "Ini ilmu yang paling sederhana tapi paling istimewa" Bapak ini berbicara tegas, 10 menit sebelum pulang sekolah
-"Bapak mengajarkan kalian menulis, untuk berfikir"
+"Bapak mengajarkan kalian menulis, untuk berpikir"
 "Untuk bisa berpikir, bapak harus bisa mengajarkan kalian menulis"
 
 "Karena berpikir membuat mu beraksi efektif di dunia ini"
-"Generasi kalian ini sudah tidak mau lagi berfikir"
+"Generasi kalian ini sudah tidak mau lagi berpikir"
 "Apalagi untuk kepentingan masa depan"
-"Belum tentu kalian bisa berfikir kritis untuk bangsa ini"
+"Belum tentu kalian bisa berpikir kritis untuk bangsa ini"
 "Teman teman bersekolah untuk melatih ini"
 
 "Berfikir membuat mu menang dalam pertarungan yang kamu lalui nak"
@@ -69,7 +69,7 @@ yang hanya mengawetkan pemikirannya
 walaupun hanya menulis tentang secangkir kopi setiap pagi
 
 Banyak orang yang sukses yang saya lihat
-Karena dia bisa berfikir kritis dan mengolah argumen-nya
+Karena dia bisa berpikir kritis dan mengolah argumen-nya
 Kalaupun menghadapi orang lain, kita gak akan bisa berargumen dengan orang orang seperti mereka.
 Mereka akan memotong leher bicara mu, tidak dengan cara terhormat.
 
