@@ -1,5 +1,5 @@
 ---
-title: Angsa Berponi di Saf Terdepan
+title: Angsa Berponi di Shaf Terdepan
 description: Teman kecil baru ku selama Ramadhan
 date: 2024-03-27
 scheduled: 2024-03-27
@@ -7,11 +7,11 @@ layout: layouts/post.njk
 ---
 
 Seorang anak sendirian
-duduk manis di saf pertama
+duduk manis di shaf pertama
 di tengah tengah dekat mimbar
 tas-nya sudah di posisi depan
 sejak malam pertama Tarawih
-Jamaah lain berpencar menunggu di saf belakang
+Jamaah lain berpencar menunggu di shaf belakang
 Sepuluh menit dia sudah datang sebelum Azan Isya
 Sedangkan aku selalu datang pas Azan
 
